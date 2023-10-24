@@ -1,0 +1,394 @@
+[
+  {
+    "Repository": "primefaces/primeng",
+    "RepoUrl": "https://github.com/primefaces/primeng",
+    "RepoDescribe": "\"最完整的 Angular UI 组件库\"",
+    "Language": "CSS",
+    "Stars/Forks": "8,537/4,286"
+  },
+  {
+    "Repository": "primefaces/primevue",
+    "RepoUrl": "https://github.com/primefaces/primevue",
+    "RepoDescribe": "\"下一代 Vue UI 组件库\"",
+    "Language": "CSS",
+    "Stars/Forks": "4,814/836"
+  },
+  {
+    "Repository": "lhndo/LH-Stinger",
+    "RepoUrl": "https://github.com/lhndo/LH-Stinger",
+    "RepoDescribe": "\"快速、精确、笛卡尔 FDM 3D 打印机\"",
+    "Language": "CSS",
+    "Stars/Forks": "103/7"
+  },
+  {
+    "Repository": "micro-zoe/micro-app",
+    "RepoUrl": "https://github.com/micro-zoe/micro-app",
+    "RepoDescribe": "\"A simple, efficient and powerful micro front-end framework. 一款简约、高效、功能强大的微前端框架\"",
+    "Language": "CSS",
+    "Stars/Forks": "4,727/505"
+  },
+  {
+    "Repository": "end-4/dots-hyprland",
+    "RepoUrl": "https://github.com/end-4/dots-hyprland",
+    "RepoDescribe": "\"现代、易于访问且灵活的桌面配置。\"",
+    "Language": "CSS",
+    "Stars/Forks": "884/35"
+  },
+  {
+    "Repository": "thewhiteh4t/seeker",
+    "RepoUrl": "https://github.com/thewhiteh4t/seeker",
+    "RepoDescribe": "\"利用社会工程学准确定位智能手机\"",
+    "Language": "CSS",
+    "Stars/Forks": "5,751/1,529"
+  },
+  {
+    "Repository": "bradtraversy/50projects50days",
+    "RepoUrl": "https://github.com/bradtraversy/50projects50days",
+    "RepoDescribe": "\"50 个使用 HTML、CSS 的迷你 Web 项目\"",
+    "Language": "CSS",
+    "Stars/Forks": "31,115/8,179"
+  },
+  {
+    "Repository": "zhile-io/ChatGPTAuthHelper",
+    "RepoUrl": "https://github.com/zhile-io/ChatGPTAuthHelper",
+    "RepoDescribe": "\"一个简单的Chrome插件，用来帮助你登录ChatGPT。\"",
+    "Language": "CSS",
+    "Stars/Forks": "193/34"
+  },
+  {
+    "Repository": "septiandwica/kado",
+    "RepoUrl": "https://github.com/septiandwica/kado",
+    "RepoDescribe": "\"花\"",
+    "Language": "CSS",
+    "Stars/Forks": "94/245"
+  },
+  {
+    "Repository": "TryGhost/Source",
+    "RepoUrl": "https://github.com/TryGhost/Source",
+    "RepoDescribe": "\"Ghost 的默认主题\"",
+    "Language": "CSS",
+    "Stars/Forks": "14/16"
+  },
+  {
+    "Repository": "animate-css/animate.css",
+    "RepoUrl": "https://github.com/animate-css/animate.css",
+    "RepoDescribe": "\"🍿 跨浏览器的 CSS 动画库。使用起来就像一件简单的事情一样简单。\"",
+    "Language": "CSS",
+    "Stars/Forks": "78,748/16,555"
+  },
+  {
+    "Repository": "AsmrProg-YT/Modern-Login",
+    "RepoUrl": "https://github.com/AsmrProg-YT/Modern-Login",
+    "RepoDescribe": "\"AsmrProg Youtube频道现代登录设计源代码\"",
+    "Language": "CSS",
+    "Stars/Forks": "39/3"
+  },
+  {
+    "Repository": "missing-semester/missing-semester",
+    "RepoUrl": "https://github.com/missing-semester/missing-semester",
+    "RepoDescribe": "\"你的计算机科学教育中缺失的一个学期📚\"",
+    "Language": "CSS",
+    "Stars/Forks": "4,371/1,007"
+  },
+  {
+    "Repository": "cloudflare/cloudflare-docs",
+    "RepoUrl": "https://github.com/cloudflare/cloudflare-docs",
+    "RepoDescribe": "\"Cloudflare 的文档\"",
+    "Language": "CSS",
+    "Stars/Forks": "2,228/2,556"
+  },
+  {
+    "Repository": "necolas/normalize.css",
+    "RepoUrl": "https://github.com/necolas/normalize.css",
+    "RepoDescribe": "\"CSS 重置的现代替代方案\"",
+    "Language": "CSS",
+    "Stars/Forks": "51,096/11,012"
+  },
+  {
+    "Repository": "xpanel-cp/XPanel-SSH-User-Management",
+    "RepoUrl": "https://github.com/xpanel-cp/XPanel-SSH-User-Management",
+    "RepoDescribe": "\"SSH面板用户管理\"",
+    "Language": "CSS",
+    "Stars/Forks": "234/52"
+  },
+  {
+    "Repository": "sharu725/online-cv",
+    "RepoUrl": "https://github.com/sharu725/online-cv",
+    "RepoDescribe": "\"用于托管您的简历 (CV) 的最小 Jekyll 主题\"",
+    "Language": "CSS",
+    "Stars/Forks": "2,777/5,395"
+  },
+  {
+    "Repository": "troxler/awesome-css-frameworks",
+    "RepoUrl": "https://github.com/troxler/awesome-css-frameworks",
+    "RepoDescribe": "\"2023 年优秀 CSS 框架列表\"",
+    "Language": "CSS",
+    "Stars/Forks": "6,634/405"
+  },
+  {
+    "Repository": "Screenly/Anthias",
+    "RepoUrl": "https://github.com/Screenly/Anthias",
+    "RepoDescribe": "\"世界上最受欢迎的开源数字标牌项目。\"",
+    "Language": "CSS",
+    "Stars/Forks": "1,967/560"
+  },
+  {
+    "Repository": "openai/openai-quickstart-python",
+    "RepoUrl": "https://github.com/openai/openai-quickstart-python",
+    "RepoDescribe": "\"OpenAI API 快速入门教程中的 Python 示例应用程序\"",
+    "Language": "CSS",
+    "Stars/Forks": "1,535/1,325"
+  },
+  {
+    "Repository": "FPGA-Systems/drawio-hdl-builder",
+    "RepoUrl": "https://github.com/FPGA-Systems/drawio-hdl-builder",
+    "RepoDescribe": "\"Drawio => VHDL 和 Verilog\"",
+    "Language": "CSS",
+    "Stars/Forks": "42/5"
+  },
+  {
+    "Repository": "AsmrProg-YT/Dashboard-Designs",
+    "RepoUrl": "https://github.com/AsmrProg-YT/Dashboard-Designs",
+    "RepoDescribe": "\"AsmrProg Youtube 频道仪表板设计代码集\"",
+    "Language": "CSS",
+    "Stars/Forks": "331/145"
+  },
+  {
+    "Repository": "you-dont-need/You-Dont-Need-JavaScript",
+    "RepoUrl": "https://github.com/you-dont-need/You-Dont-Need-JavaScript",
+    "RepoDescribe": "\"CSS很强大，不需要JS也能做很多事情。\"",
+    "Language": "CSS",
+    "Stars/Forks": "18,543/1,235"
+  },
+  {
+    "Repository": "avinash201199/Free-courses-with-Certificates",
+    "RepoUrl": "https://github.com/avinash201199/Free-courses-with-Certificates",
+    "RepoDescribe": "\"带有证书的免费课程集合\"",
+    "Language": "CSS",
+    "Stars/Forks": "416/268"
+  },
+  {
+    "Repository": "0x48piraj/fadblock",
+    "RepoUrl": "https://github.com/0x48piraj/fadblock",
+    "RepoDescribe": "\"友好的 YouTube Adblock：适用于 Chrome、Opera 和 Firefox 的快速、轻量且不易检测的 YouTube 广告拦截器。\"",
+    "Language": "CSS",
+    "Stars/Forks": "879/30"
+  },
+  {
+    "Repository": "refinedev/refine",
+    "RepoUrl": "https://github.com/refinedev/refine",
+    "RepoDescribe": "\"不受限制地构建基于 React 的 CRUD 应用程序。 🌟 Star 支持我们的工作！\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "15,508/1,240"
+  },
+  {
+    "Repository": "formbricks/formbricks",
+    "RepoUrl": "https://github.com/formbricks/formbricks",
+    "RepoDescribe": "\"开源调查\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "3,485/631"
+  },
+  {
+    "Repository": "nextauthjs/next-auth",
+    "RepoUrl": "https://github.com/nextauthjs/next-auth",
+    "RepoDescribe": "\"Web 身份验证。\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "19,438/2,382"
+  },
+  {
+    "Repository": "lyswhut/lx-music-desktop",
+    "RepoUrl": "https://github.com/lyswhut/lx-music-desktop",
+    "RepoDescribe": "\"一个基于 electron 的音乐软件\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "32,159/5,089"
+  },
+  {
+    "Repository": "t3-oss/create-t3-app",
+    "RepoUrl": "https://github.com/t3-oss/create-t3-app",
+    "RepoDescribe": "\"启动全栈、类型安全的 Next.js 应用程序的最佳方式\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "20,866/885"
+  },
+  {
+    "Repository": "ionic-team/ionic-framework",
+    "RepoUrl": "https://github.com/ionic-team/ionic-framework",
+    "RepoDescribe": "\"一个强大的跨平台 UI 工具包，用于使用 HTML、CSS 和 JavaScript 构建原生质量的 iOS、Android 和渐进式 Web 应用程序。\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "49,785/13,703"
+  },
+  {
+    "Repository": "labring/FastGPT",
+    "RepoUrl": "https://github.com/labring/FastGPT",
+    "RepoDescribe": "\"FastGPT是一个基于LLM构建的基于知识的QA系统，提供开箱即用的数据处理和模型调用功能，允许通过流程可视化进行工作流程编排！\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "5,296/1,093"
+  },
+  {
+    "Repository": "immich-app/immich",
+    "RepoUrl": "https://github.com/immich-app/immich",
+    "RepoDescribe": "\"直接从您的手机自行托管的照片和视频备份解决方案。\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "19,850/820"
+  },
+  {
+    "Repository": "th-ch/youtube-music",
+    "RepoUrl": "https://github.com/th-ch/youtube-music",
+    "RepoDescribe": "\"YouTube 音乐桌面应用程序捆绑了自定义插件（以及内置广告拦截器/下载器）\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "4,373/294"
+  },
+  {
+    "Repository": "TanStack/query",
+    "RepoUrl": "https://github.com/TanStack/query",
+    "RepoDescribe": "\"🤖 强大的异步状态管理、服务器状态实用程序和网络数据获取。 TS/JS、React 查询、Solid 查询、Svelte 查询和 Vue 查询。\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "36,739/2,423"
+  },
+  {
+    "Repository": "huggingface/chat-ui",
+    "RepoUrl": "https://github.com/huggingface/chat-ui",
+    "RepoDescribe": "\"为 HuggingChat 应用程序提供支持的开源代码库\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "3,857/464"
+  },
+  {
+    "Repository": "calcom/cal.com",
+    "RepoUrl": "https://github.com/calcom/cal.com",
+    "RepoDescribe": "\"为所有人安排基础设施。\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "24,381/4,919"
+  },
+  {
+    "Repository": "payloadcms/payload",
+    "RepoUrl": "https://github.com/payloadcms/payload",
+    "RepoDescribe": "\"构建现代后端管理 UI 的最佳方法。 Payload 没有黑魔法，全是 TypeScript，并且完全开源，它既是一个应用程序框架，又是一个无头 CMS。\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "13,403/747"
+  },
+  {
+    "Repository": "run-llama/sec-insights",
+    "RepoUrl": "https://github.com/run-llama/sec-insights",
+    "RepoDescribe": "\"使用 LlamaIndex 的真实世界全栈应用程序\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "1,476/253"
+  },
+  {
+    "Repository": "cloudflare/workers-sdk",
+    "RepoUrl": "https://github.com/cloudflare/workers-sdk",
+    "RepoDescribe": "\"⛅️ Wrangler 的所在地，Cloudflare Workers® 的 CLI\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "1,822/388"
+  },
+  {
+    "Repository": "FreeTubeApp/FreeTube",
+    "RepoUrl": "https://github.com/FreeTubeApp/FreeTube",
+    "RepoDescribe": "\"一款保护隐私的开源 YouTube 应用\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "9,071/562"
+  },
+  {
+    "Repository": "GitSquared/edex-ui",
+    "RepoUrl": "https://github.com/GitSquared/edex-ui",
+    "RepoDescribe": "\"具有高级监控功能的跨平台、可定制的科幻终端模拟器\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "38,800/2,416"
+  },
+  {
+    "Repository": "gorhill/uBlock",
+    "RepoUrl": "https://github.com/gorhill/uBlock",
+    "RepoDescribe": "\"uBlock Origin - Chromium 和 Firefox 的高效拦截器。又快又瘦。\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "38,537/2,889"
+  },
+  {
+    "Repository": "videojs/video.js",
+    "RepoUrl": "https://github.com/videojs/video.js",
+    "RepoDescribe": "\"Video.js - 开源 HTML5 视频播放器\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "36,326/7,463"
+  },
+  {
+    "Repository": "apexcharts/apexcharts.js",
+    "RepoUrl": "https://github.com/apexcharts/apexcharts.js",
+    "RepoDescribe": "\"📊 基于 SVG 构建的交互式 JavaScript 图表\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "13,225/1,213"
+  },
+  {
+    "Repository": "midudev/curso-node-js",
+    "RepoUrl": "https://github.com/midudev/curso-node-js",
+    "RepoDescribe": "\"从头开始的 Node.js 课程\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "753/124"
+  },
+  {
+    "Repository": "langchain-ai/langserve",
+    "RepoUrl": "https://github.com/langchain-ai/langserve",
+    "RepoDescribe": "\"语言服务\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "448/40"
+  },
+  {
+    "Repository": "dream-num/Luckysheet",
+    "RepoUrl": "https://github.com/dream-num/Luckysheet",
+    "RepoDescribe": "\"Luckysheet 是一个类似于 excel 的在线电子表格，功能强大、配置简单且完全开源。\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "14,826/2,125"
+  },
+  {
+    "Repository": "krausest/js-framework-benchmark",
+    "RepoUrl": "https://github.com/krausest/js-framework-benchmark",
+    "RepoDescribe": "\"几种流行的javascript框架的性能比较\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "6,032/797"
+  },
+  {
+    "Repository": "brave/brave-browser",
+    "RepoUrl": "https://github.com/brave/brave-browser",
+    "RepoDescribe": "\"适用于 Android、Linux、macOS、Windows 的下一代 Brave 浏览器。\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "15,855/2,052"
+  },
+  {
+    "Repository": "Asabeneh/30-Days-Of-React",
+    "RepoUrl": "https://github.com/Asabeneh/30-Days-Of-React",
+    "RepoDescribe": "\"30 天的 React 挑战是在 30 天内学​​习 React 的分步指南。这些视频也可能有帮助：https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "23,081/6,475"
+  },
+  {
+    "Repository": "facebook/lexical",
+    "RepoUrl": "https://github.com/facebook/lexical",
+    "RepoDescribe": "\"Lexical 是一个可扩展的文本编辑器框架，提供出色的可靠性、可访问性和性能。\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "15,815/1,249"
+  },
+  {
+    "Repository": "appium/appium",
+    "RepoUrl": "https://github.com/appium/appium",
+    "RepoDescribe": "\"适用于基于 W3C WebDriver 协议构建的各种应用程序的跨平台自动化框架\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "17,064/5,923"
+  },
+  {
+    "Repository": "TheRealJoelmatic/RemoveAdblockThing",
+    "RepoUrl": "https://github.com/TheRealJoelmatic/RemoveAdblockThing",
+    "RepoDescribe": "\"删除“YouTube 上不允许使用广告拦截器”\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "2,443/82"
+  },
+  {
+    "Repository": "gethomepage/homepage",
+    "RepoUrl": "https://github.com/gethomepage/homepage",
+    "RepoDescribe": "\"具有 Docker 和服务 API 集成的高度可定制的主页（或起始页/应用程序仪表板）。\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "9,890/553"
+  },
+  {
+    "Repository": "Matt-Fontes/SendScriptWhatsApp",
+    "RepoUrl": "https://github.com/Matt-Fontes/SendScriptWhatsApp",
+    "RepoDescribe": "\"在 WhatsApp 上逐行发送《怪物史莱克》电影脚本的脚本\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "1,717/1,156"
+  }
+]
