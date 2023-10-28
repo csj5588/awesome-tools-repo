@@ -1,0 +1,366 @@
+[
+  {
+    "Repository": "thewhiteh4t/seeker",
+    "RepoUrl": "https://github.com/thewhiteh4t/seeker",
+    "RepoDescribe": "\"利用社会工程学准确定位智能手机\"",
+    "Language": "CSS",
+    "Stars/Forks": "5,846/1,534"
+  },
+  {
+    "Repository": "0x48piraj/fadblock",
+    "RepoUrl": "https://github.com/0x48piraj/fadblock",
+    "RepoDescribe": "\"友好的 YouTube Adblock：适用于 Chrome、Opera 和 Firefox 的快速、轻量且不易检测的 YouTube 广告拦截器。\"",
+    "Language": "CSS",
+    "Stars/Forks": "1,251/41"
+  },
+  {
+    "Repository": "bradtraversy/50projects50days",
+    "RepoUrl": "https://github.com/bradtraversy/50projects50days",
+    "RepoDescribe": "\"50 个使用 HTML、CSS 的迷你 Web 项目\"",
+    "Language": "CSS",
+    "Stars/Forks": "31,372/8,205"
+  },
+  {
+    "Repository": "hehonghui/awesome-english-ebooks",
+    "RepoUrl": "https://github.com/hehonghui/awesome-english-ebooks",
+    "RepoDescribe": "\"经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新\"",
+    "Language": "CSS",
+    "Stars/Forks": "14,174/988"
+  },
+  {
+    "Repository": "zhile-io/ChatGPTAuthHelper",
+    "RepoUrl": "https://github.com/zhile-io/ChatGPTAuthHelper",
+    "RepoDescribe": "\"一个简单的Chrome插件，用来帮助你登录ChatGPT。\"",
+    "Language": "CSS",
+    "Stars/Forks": "205/37"
+  },
+  {
+    "Repository": "end-4/dots-hyprland",
+    "RepoUrl": "https://github.com/end-4/dots-hyprland",
+    "RepoDescribe": "\"现代、易于访问且灵活的桌面配置。\"",
+    "Language": "CSS",
+    "Stars/Forks": "898/37"
+  },
+  {
+    "Repository": "primefaces/primevue",
+    "RepoUrl": "https://github.com/primefaces/primevue",
+    "RepoDescribe": "\"下一代 Vue UI 组件库\"",
+    "Language": "CSS",
+    "Stars/Forks": "4,869/845"
+  },
+  {
+    "Repository": "OpenBMB/XAgent",
+    "RepoUrl": "https://github.com/OpenBMB/XAgent",
+    "RepoDescribe": "\"用于解决复杂任务的自主 LLM 代理\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "3,722/296"
+  },
+  {
+    "Repository": "yangshun/tech-interview-handbook",
+    "RepoUrl": "https://github.com/yangshun/tech-interview-handbook",
+    "RepoDescribe": "\"💯 为忙碌的软件工程师精心准备的编码面试准备材料\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "99,419/12,809"
+  },
+  {
+    "Repository": "kamranahmedse/developer-roadmap",
+    "RepoUrl": "https://github.com/kamranahmedse/developer-roadmap",
+    "RepoDescribe": "\"交互式路线图、指南和其他教育内容可帮助开发人员在职业生涯中成长。\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "255,286/35,273"
+  },
+  {
+    "Repository": "lyswhut/lx-music-desktop",
+    "RepoUrl": "https://github.com/lyswhut/lx-music-desktop",
+    "RepoDescribe": "\"一个基于 electron 的音乐软件\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "32,442/5,130"
+  },
+  {
+    "Repository": "pmndrs/react-three-fiber",
+    "RepoUrl": "https://github.com/pmndrs/react-three-fiber",
+    "RepoDescribe": "\"🇨🇭 Three.js 的 React 渲染器\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "24,271/1,403"
+  },
+  {
+    "Repository": "nrwl/nx",
+    "RepoUrl": "https://github.com/nrwl/nx",
+    "RepoDescribe": "\"智能、快速且可扩展的构建系统\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "19,951/2,039"
+  },
+  {
+    "Repository": "AykutSarac/jsoncrack.com",
+    "RepoUrl": "https://github.com/AykutSarac/jsoncrack.com",
+    "RepoDescribe": "\"✨ 创新的开源可视化应用程序，可将 JSON、YAML、XML、CSV 等各种数据格式转换为交互式图表。\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "26,313/1,461"
+  },
+  {
+    "Repository": "Vendicated/Vencord",
+    "RepoUrl": "https://github.com/Vendicated/Vencord",
+    "RepoDescribe": "\"最可爱的 Discord 客户端模组\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "4,562/637"
+  },
+  {
+    "Repository": "t3-oss/create-t3-app",
+    "RepoUrl": "https://github.com/t3-oss/create-t3-app",
+    "RepoDescribe": "\"启动全栈、类型安全的 Next.js 应用程序的最佳方式\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "20,962/894"
+  },
+  {
+    "Repository": "formbricks/formbricks",
+    "RepoUrl": "https://github.com/formbricks/formbricks",
+    "RepoDescribe": "\"开源调查工具箱\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "3,629/656"
+  },
+  {
+    "Repository": "toeverything/AFFiNE",
+    "RepoUrl": "https://github.com/toeverything/AFFiNE",
+    "RepoDescribe": "\"不仅仅是 Notion 和 Miro。 AFFiNE 是一个下一代知识库，它将规划、排序和创建整合在一起。隐私第一、开源、可定制且随时可用。\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "23,096/1,596"
+  },
+  {
+    "Repository": "remix-run/remix",
+    "RepoUrl": "https://github.com/remix-run/remix",
+    "RepoDescribe": "\"建立更好的网站。利用 Web 基础知识创建现代、有弹性的用户体验。\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "25,115/2,088"
+  },
+  {
+    "Repository": "ionic-team/ionic-framework",
+    "RepoUrl": "https://github.com/ionic-team/ionic-framework",
+    "RepoDescribe": "\"一个强大的跨平台 UI 工具包，用于使用 HTML、CSS 和 JavaScript 构建原生质量的 iOS、Android 和渐进式 Web 应用程序。\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "49,789/13,708"
+  },
+  {
+    "Repository": "refinedev/refine",
+    "RepoUrl": "https://github.com/refinedev/refine",
+    "RepoDescribe": "\"不受限制地构建基于 React 的 CRUD 应用程序。 🌟 Star 支持我们的工作！\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "15,678/1,263"
+  },
+  {
+    "Repository": "puppeteer/puppeteer",
+    "RepoUrl": "https://github.com/puppeteer/puppeteer",
+    "RepoDescribe": "\"适用于 Chrome 的 Node.js API\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "84,870/9,131"
+  },
+  {
+    "Repository": "nextauthjs/next-auth",
+    "RepoUrl": "https://github.com/nextauthjs/next-auth",
+    "RepoDescribe": "\"Web 身份验证。\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "19,502/2,401"
+  },
+  {
+    "Repository": "yarnpkg/berry",
+    "RepoUrl": "https://github.com/yarnpkg/berry",
+    "RepoDescribe": "\"📦🐈 Yarn 的活跃开发主干 ⚒\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "6,736/1,067"
+  },
+  {
+    "Repository": "nuxt/nuxt",
+    "RepoUrl": "https://github.com/nuxt/nuxt",
+    "RepoDescribe": "\"直观的 Vue 框架。\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "48,092/4,496"
+  },
+  {
+    "Repository": "vuejs/vue",
+    "RepoUrl": "https://github.com/vuejs/vue",
+    "RepoDescribe": "\"这是 Vue 2 的存储库。对于 Vue 3，请访问 https://github.com/vuejs/core\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "205,590/34,469"
+  },
+  {
+    "Repository": "vuejs/core",
+    "RepoUrl": "https://github.com/vuejs/core",
+    "RepoDescribe": "\"🖖 Vue.js 是一个渐进式、可增量采用的 JavaScript 框架，用于在 Web 上构建 UI。\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "40,951/7,478"
+  },
+  {
+    "Repository": "apitable/apitable",
+    "RepoUrl": "https://github.com/apitable/apitable",
+    "RepoDescribe": "\"🚀🎉📚 APITable，一个面向 API 的低代码平台，用于构建协作应用程序，比所有其他 Airtable 开源替代品更好。\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "10,672/856"
+  },
+  {
+    "Repository": "vercel/next-learn",
+    "RepoUrl": "https://github.com/vercel/next-learn",
+    "RepoDescribe": "\"学习 Next.js 入门代码\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "2,153/1,374"
+  },
+  {
+    "Repository": "TabbyML/tabby",
+    "RepoUrl": "https://github.com/TabbyML/tabby",
+    "RepoDescribe": "\"自托管 AI 编码助手\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "12,144/415"
+  },
+  {
+    "Repository": "subsquid-quests/cryptopunks-subgraph-migration",
+    "RepoUrl": "https://github.com/subsquid-quests/cryptopunks-subgraph-migration",
+    "RepoDescribe": "\"将 CryptoPunks 子图迁移到 Subsquid 的任务\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "83/39"
+  },
+  {
+    "Repository": "awslabs/landing-zone-accelerator-on-aws",
+    "RepoUrl": "https://github.com/awslabs/landing-zone-accelerator-on-aws",
+    "RepoDescribe": "\"部署多账户云基础来支持高度监管的工作负载和复杂的合规性要求。\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "373/282"
+  },
+  {
+    "Repository": "TheRealJoelmatic/RemoveAdblockThing",
+    "RepoUrl": "https://github.com/TheRealJoelmatic/RemoveAdblockThing",
+    "RepoDescribe": "\"删除“YouTube 上不允许使用广告拦截器”\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "2,814/104"
+  },
+  {
+    "Repository": "zadam/trilium",
+    "RepoUrl": "https://github.com/zadam/trilium",
+    "RepoDescribe": "\"使用 Trilium Notes 构建您的个人知识库\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "23,093/1,553"
+  },
+  {
+    "Repository": "ryanmcdermott/clean-code-javascript",
+    "RepoUrl": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "RepoDescribe": "\"🛁 适用于 JavaScript 的干净代码概念\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "86,487/11,736"
+  },
+  {
+    "Repository": "Significant-Gravitas/AutoGPT",
+    "RepoUrl": "https://github.com/Significant-Gravitas/AutoGPT",
+    "RepoDescribe": "\"一项让 GPT-4 完全自治的实验性开源尝试。\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "151,902/35,343"
+  },
+  {
+    "Repository": "gorhill/uBlock",
+    "RepoUrl": "https://github.com/gorhill/uBlock",
+    "RepoDescribe": "\"uBlock Origin - Chromium 和 Firefox 的高效拦截器。又快又瘦。\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "38,752/2,893"
+  },
+  {
+    "Repository": "Matt-Fontes/SendScriptWhatsApp",
+    "RepoUrl": "https://github.com/Matt-Fontes/SendScriptWhatsApp",
+    "RepoDescribe": "\"在 WhatsApp 上逐行发送《怪物史莱克》电影脚本的脚本\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "1,863/1,197"
+  },
+  {
+    "Repository": "apexcharts/apexcharts.js",
+    "RepoUrl": "https://github.com/apexcharts/apexcharts.js",
+    "RepoDescribe": "\"📊 基于 SVG 构建的交互式 JavaScript 图表\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "13,263/1,216"
+  },
+  {
+    "Repository": "krausest/js-framework-benchmark",
+    "RepoUrl": "https://github.com/krausest/js-framework-benchmark",
+    "RepoDescribe": "\"几种流行的javascript框架的性能比较\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "6,054/799"
+  },
+  {
+    "Repository": "juliangarnier/anime",
+    "RepoUrl": "https://github.com/juliangarnier/anime",
+    "RepoDescribe": "\"JavaScript 动画引擎\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "47,334/3,749"
+  },
+  {
+    "Repository": "iptv-org/iptv",
+    "RepoUrl": "https://github.com/iptv-org/iptv",
+    "RepoDescribe": "\"来自世界各地的公开 IPTV 频道集合\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "69,532/898"
+  },
+  {
+    "Repository": "Mintplex-Labs/anything-llm",
+    "RepoUrl": "https://github.com/Mintplex-Labs/anything-llm",
+    "RepoDescribe": "\"一个全栈应用程序，可将任何文档转变为智能聊天机器人，具有时尚的 UI 和更轻松的工作空间管理方式。\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "2,567/340"
+  },
+  {
+    "Repository": "xenova/transformers.js",
+    "RepoUrl": "https://github.com/xenova/transformers.js",
+    "RepoDescribe": "\"最先进的网络机器学习。直接在浏览器中运行 🤗 Transformers，无需服务器！\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "4,035/225"
+  },
+  {
+    "Repository": "QiuChenlyOpenSource/MusicDownload",
+    "RepoUrl": "https://github.com/QiuChenlyOpenSource/MusicDownload",
+    "RepoDescribe": "\"歌曲下载\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "2,495/404"
+  },
+  {
+    "Repository": "gaotianliuyun/gao",
+    "RepoUrl": "https://github.com/gaotianliuyun/gao",
+    "RepoDescribe": "\"FongMi影视、tvbox、猫影视配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "1,874/724"
+  },
+  {
+    "Repository": "lecepin/WeChatVideoDownloader",
+    "RepoUrl": "https://github.com/lecepin/WeChatVideoDownloader",
+    "RepoDescribe": "\"超方便的微信视频号下载器\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "2,482/444"
+  },
+  {
+    "Repository": "sunner/ChatALL",
+    "RepoUrl": "https://github.com/sunner/ChatALL",
+    "RepoDescribe": "\"Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "10,511/1,566"
+  },
+  {
+    "Repository": "listen1/listen1_desktop",
+    "RepoUrl": "https://github.com/listen1/listen1_desktop",
+    "RepoDescribe": "\"中国所有免费音乐合一（Windows、Mac、Linux 桌面）\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "8,857/1,377"
+  },
+  {
+    "Repository": "vercel/next.js",
+    "RepoUrl": "https://github.com/vercel/next.js",
+    "RepoDescribe": "\"反应框架\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "113,810/25,048"
+  },
+  {
+    "Repository": "tangly1024/NotionNext",
+    "RepoUrl": "https://github.com/tangly1024/NotionNext",
+    "RepoDescribe": "\"使用 NextJS   Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "4,218/5,377"
+  },
+  {
+    "Repository": "eslint/eslint",
+    "RepoUrl": "https://github.com/eslint/eslint",
+    "RepoDescribe": "\"查找并修复 JavaScript 代码中的问题。\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "23,522/4,492"
+  }
+]
