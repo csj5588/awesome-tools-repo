@@ -1,0 +1,359 @@
+[
+  {
+    "Repository": "juliocesarfort/public-pentesting-reports",
+    "RepoUrl": "https://github.com/juliocesarfort/public-pentesting-reports",
+    "RepoDescribe": "\"多家咨询公司和学术安全团体发布的公开渗透测试报告列表。\"",
+    "Language": "CSS",
+    "Stars/Forks": "7,699/1,867"
+  },
+  {
+    "Repository": "zhile-io/ChatGPTAuthHelper",
+    "RepoUrl": "https://github.com/zhile-io/ChatGPTAuthHelper",
+    "RepoDescribe": "\"一个简单的Chrome插件，用来帮助你登录ChatGPT。\"",
+    "Language": "CSS",
+    "Stars/Forks": "258/49"
+  },
+  {
+    "Repository": "zzzgydi/clash-verge",
+    "RepoUrl": "https://github.com/zzzgydi/clash-verge",
+    "RepoDescribe": "\"基于 tauri 的 Clash GUI。支持 Windows、macOS 和 Linux。\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "16,333/2,424"
+  },
+  {
+    "Repository": "withastro/astro",
+    "RepoUrl": "https://github.com/withastro/astro",
+    "RepoDescribe": "\"随您扩展的 Web 框架 — 构建快速的内容网站、强大的 Web 应用程序、动态服务器 API 以及介于两者之间的一切 ⭐️ 星标以支持我们的工作！\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "36,851/1,909"
+  },
+  {
+    "Repository": "haishanh/yacd",
+    "RepoUrl": "https://github.com/haishanh/yacd",
+    "RepoDescribe": "\"另一个冲突仪表板\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "3,151/523"
+  },
+  {
+    "Repository": "angular/angular",
+    "RepoUrl": "https://github.com/angular/angular",
+    "RepoDescribe": "\"现代网络开发者平台\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "91,650/24,592"
+  },
+  {
+    "Repository": "Heroic-Games-Launcher/HeroicGamesLauncher",
+    "RepoUrl": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher",
+    "RepoDescribe": "\"适用于 Linux、Windows 和 Mac 的原生 GOG、Amazon 和 Epic Games 启动器。\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "6,297/352"
+  },
+  {
+    "Repository": "openai/openai-node",
+    "RepoUrl": "https://github.com/openai/openai-node",
+    "RepoDescribe": "\"OpenAI API 的官方 Node.js / Typescript 库\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "5,345/520"
+  },
+  {
+    "Repository": "RocketChat/Rocket.Chat",
+    "RepoUrl": "https://github.com/RocketChat/Rocket.Chat",
+    "RepoDescribe": "\"将数据保护放在首位的通信平台。\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "37,475/9,316"
+  },
+  {
+    "Repository": "supabase/supabase",
+    "RepoUrl": "https://github.com/supabase/supabase",
+    "RepoDescribe": "\"开源 Firebase 替代方案。\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "59,132/5,270"
+  },
+  {
+    "Repository": "microsoft/playwright",
+    "RepoUrl": "https://github.com/microsoft/playwright",
+    "RepoDescribe": "\"Playwright 是一个用于 Web 测试和自动化的框架。它允许使用单个 API 测试 Chromium、Firefox 和 WebKit。\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "56,410/3,120"
+  },
+  {
+    "Repository": "remix-run/remix",
+    "RepoUrl": "https://github.com/remix-run/remix",
+    "RepoDescribe": "\"建立更好的网站。利用 Web 基础知识创建现代、有弹性的用户体验。\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "25,369/2,109"
+  },
+  {
+    "Repository": "withfig/autocomplete",
+    "RepoUrl": "https://github.com/withfig/autocomplete",
+    "RepoDescribe": "\"适用于现有终端的 IDE 风格自动完成\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "23,321/5,226"
+  },
+  {
+    "Repository": "midudev/aprendiendo-react",
+    "RepoUrl": "https://github.com/midudev/aprendiendo-react",
+    "RepoDescribe": "\"从头开始学习 React 的课程\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "5,363/883"
+  },
+  {
+    "Repository": "Bin-Huang/chatbox",
+    "RepoUrl": "https://github.com/Bin-Huang/chatbox",
+    "RepoDescribe": "\"Chatbox 是一款适用于多种前沿 LLM 模型的桌面应用程序，可在 Windows、Mac、Linux 上使用\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "15,259/1,610"
+  },
+  {
+    "Repository": "bluesky-social/atproto",
+    "RepoUrl": "https://github.com/bluesky-social/atproto",
+    "RepoDescribe": "\"Bluesky 创建的社交网络技术\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "5,059/343"
+  },
+  {
+    "Repository": "slidevjs/slidev",
+    "RepoUrl": "https://github.com/slidevjs/slidev",
+    "RepoDescribe": "\"面向开发人员的演示幻灯片\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "28,863/1,127"
+  },
+  {
+    "Repository": "pingdotgg/uploadthing",
+    "RepoUrl": "https://github.com/pingdotgg/uploadthing",
+    "RepoDescribe": "\"现代网络开发人员的文件上传\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "2,841/175"
+  },
+  {
+    "Repository": "vuejs/core",
+    "RepoUrl": "https://github.com/vuejs/core",
+    "RepoDescribe": "\"🖖 Vue.js 是一个渐进式、可增量采用的 JavaScript 框架，用于在 Web 上构建 UI。\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "41,163/7,529"
+  },
+  {
+    "Repository": "shadcn-ui/ui",
+    "RepoUrl": "https://github.com/shadcn-ui/ui",
+    "RepoDescribe": "\"使用 Radix UI 和 Tailwind CSS 构建的设计精美的组件。\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "34,849/1,739"
+  },
+  {
+    "Repository": "actualbudget/actual",
+    "RepoUrl": "https://github.com/actualbudget/actual",
+    "RepoDescribe": "\"本地首创的个人理财应用\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "8,584/721"
+  },
+  {
+    "Repository": "freeCodeCamp/freeCodeCamp",
+    "RepoUrl": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "RepoDescribe": "\"freeCodeCamp.org 的开源代码库和课程。免费学习编码。\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "377,793/34,755"
+  },
+  {
+    "Repository": "MetaCubeX/metacubexd",
+    "RepoUrl": "https://github.com/MetaCubeX/metacubexd",
+    "RepoDescribe": "\"Clash.Meta 仪表板，官方的，XD\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "486/129"
+  },
+  {
+    "Repository": "pmndrs/zustand",
+    "RepoUrl": "https://github.com/pmndrs/zustand",
+    "RepoDescribe": "\"🐻 React 中状态管理的必需品\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "36,665/1,142"
+  },
+  {
+    "Repository": "starknet-io/starknet-website",
+    "RepoUrl": "https://github.com/starknet-io/starknet-website",
+    "RepoDescribe": "\"starknet.io 的主要仓库\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "377/133"
+  },
+  {
+    "Repository": "puppeteer/puppeteer",
+    "RepoUrl": "https://github.com/puppeteer/puppeteer",
+    "RepoDescribe": "\"适用于 Chrome 的 Node.js API\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "84,998/9,146"
+  },
+  {
+    "Repository": "honojs/hono",
+    "RepoUrl": "https://github.com/honojs/hono",
+    "RepoDescribe": "\"快速、轻量级、Web 标准\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "8,471/228"
+  },
+  {
+    "Repository": "microsoft/Web-Dev-For-Beginners",
+    "RepoUrl": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "RepoDescribe": "\"12 周 24 节课，Web 开发人员入门\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "78,125/12,028"
+  },
+  {
+    "Repository": "idurar/idurar-erp-crm",
+    "RepoUrl": "https://github.com/idurar/idurar-erp-crm",
+    "RepoDescribe": "\"IDURAR 开放代码源 ERP CRM 替代 SalesForce | Node Js React AntD MERN\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "3,414/784"
+  },
+  {
+    "Repository": "vernesong/OpenClash",
+    "RepoUrl": "https://github.com/vernesong/OpenClash",
+    "RepoDescribe": "\"OpenWrt 的 Clash 客户端\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "12,285/2,472"
+  },
+  {
+    "Repository": "isno/theByteBook",
+    "RepoUrl": "https://github.com/isno/theByteBook",
+    "RepoDescribe": "\"⭐ 出版作品开源。深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE指南。如发现错误，谢谢提issue\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "4,513/269"
+  },
+  {
+    "Repository": "sunner/ChatALL",
+    "RepoUrl": "https://github.com/sunner/ChatALL",
+    "RepoDescribe": "\"Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "10,913/1,610"
+  },
+  {
+    "Repository": "academind/react-complete-guide-course-resources",
+    "RepoUrl": "https://github.com/academind/react-complete-guide-course-resources",
+    "RepoDescribe": "\"React - 完整指南课程资源（代码、附件、幻灯片）\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "135/93"
+  },
+  {
+    "Repository": "preactjs/preact",
+    "RepoUrl": "https://github.com/preactjs/preact",
+    "RepoDescribe": "\"⚛️ 具有相同现代 API 的快速 3kB React 替代方案。成分\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "35,289/1,969"
+  },
+  {
+    "Repository": "gorhill/uBlock",
+    "RepoUrl": "https://github.com/gorhill/uBlock",
+    "RepoDescribe": "\"uBlock Origin - Chromium 和 Firefox 的高效拦截器。又快又瘦。\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "39,446/2,916"
+  },
+  {
+    "Repository": "xenova/transformers.js",
+    "RepoUrl": "https://github.com/xenova/transformers.js",
+    "RepoDescribe": "\"最先进的网络机器学习。直接在浏览器中运行 🤗 Transformers，无需服务器！\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "4,346/244"
+  },
+  {
+    "Repository": "louislam/uptime-kuma",
+    "RepoUrl": "https://github.com/louislam/uptime-kuma",
+    "RepoDescribe": "\"一个精美的自托管监控工具\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "40,359/3,583"
+  },
+  {
+    "Repository": "iptv-org/iptv",
+    "RepoUrl": "https://github.com/iptv-org/iptv",
+    "RepoDescribe": "\"来自世界各地的公开 IPTV 频道集合\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "70,203/940"
+  },
+  {
+    "Repository": "evershopcommerce/evershop",
+    "RepoUrl": "https://github.com/evershopcommerce/evershop",
+    "RepoDescribe": "\"🛍️ NodeJS 电子商务平台\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "2,192/572"
+  },
+  {
+    "Repository": "MHSanaei/3x-ui",
+    "RepoUrl": "https://github.com/MHSanaei/3x-ui",
+    "RepoDescribe": "\"支持多协议多用户到期日的 Xray 面板\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "3,761/697"
+  },
+  {
+    "Repository": "odoo/odoo",
+    "RepoUrl": "https://github.com/odoo/odoo",
+    "RepoDescribe": "\"奥杜。开源应用程序来发展您的业务。\"",
+    "Language": "Python",
+    "Stars/Forks": "31,411/20,506"
+  },
+  {
+    "Repository": "bigskysoftware/htmx",
+    "RepoUrl": "https://github.com/bigskysoftware/htmx",
+    "RepoDescribe": "\"</> htmx - 强大的 HTML 工具\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "23,168/838"
+  },
+  {
+    "Repository": "zadam/trilium",
+    "RepoUrl": "https://github.com/zadam/trilium",
+    "RepoDescribe": "\"使用 Trilium Notes 构建您的个人知识库\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "23,256/1,566"
+  },
+  {
+    "Repository": "blackmatrix7/ios_rule_script",
+    "RepoUrl": "https://github.com/blackmatrix7/ios_rule_script",
+    "RepoDescribe": "\"分流规则、重写写规则及脚本。\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "12,340/2,078"
+  },
+  {
+    "Repository": "Z-Siqi/Clash-for-Windows_Chinese",
+    "RepoUrl": "https://github.com/Z-Siqi/Clash-for-Windows_Chinese",
+    "RepoDescribe": "\"clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "12,681/1,691"
+  },
+  {
+    "Repository": "langchain-ai/langserve",
+    "RepoUrl": "https://github.com/langchain-ai/langserve",
+    "RepoDescribe": "\"朗服务🦜️🏓\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "767/61"
+  },
+  {
+    "Repository": "pinokiocomputer/pinokio",
+    "RepoUrl": "https://github.com/pinokiocomputer/pinokio",
+    "RepoDescribe": "\"人工智能浏览器\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "649/49"
+  },
+  {
+    "Repository": "drHyperion451/does-uBO-bypass-yt",
+    "RepoUrl": "https://github.com/drHyperion451/does-uBO-bypass-yt",
+    "RepoDescribe": "\"YouTube 广告是否被 Ublock 屏蔽？这个网站会告诉你！\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "230/26"
+  },
+  {
+    "Repository": "LayerZero-Labs/solidity-examples",
+    "RepoUrl": "https://github.com/LayerZero-Labs/solidity-examples",
+    "RepoDescribe": "\"合同示例\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "912/465"
+  },
+  {
+    "Repository": "sequelize/sequelize",
+    "RepoUrl": "https://github.com/sequelize/sequelize",
+    "RepoDescribe": "\"适用于现代 Node.js 和 TypeScript 的功能丰富的 ORM，它支持 PostgreSQL（支持 JSON 和 JSONB）、MySQL、MariaDB、SQLite、MS SQL Server、Snowflake、Oracle DB (v6)、DB2 和 DB2 for IBM i。\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "28,559/4,255"
+  },
+  {
+    "Repository": "poteto/hiring-without-whiteboards",
+    "RepoUrl": "https://github.com/poteto/hiring-without-whiteboards",
+    "RepoDescribe": "\"⭐️ 招聘流程没有问题的公司\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "39,023/3,255"
+  }
+]
