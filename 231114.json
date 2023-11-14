@@ -1,0 +1,345 @@
+[
+  {
+    "Repository": "primefaces/primeng",
+    "RepoUrl": "https://github.com/primefaces/primeng",
+    "RepoDescribe": "\"最完整的 Angular UI 组件库\"",
+    "Language": "CSS",
+    "Stars/Forks": "8,667/4,314"
+  },
+  {
+    "Repository": "AsmrProg-YT/Modern-Login",
+    "RepoUrl": "https://github.com/AsmrProg-YT/Modern-Login",
+    "RepoDescribe": "\"AsmrProg Youtube频道现代登录设计源代码\"",
+    "Language": "CSS",
+    "Stars/Forks": "85/19"
+  },
+  {
+    "Repository": "angular/angular",
+    "RepoUrl": "https://github.com/angular/angular",
+    "RepoDescribe": "\"现代网络开发者平台\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "91,932/24,648"
+  },
+  {
+    "Repository": "Yidadaa/ChatGPT-Next-Web",
+    "RepoUrl": "https://github.com/Yidadaa/ChatGPT-Next-Web",
+    "RepoDescribe": "\"A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "49,697/44,893"
+  },
+  {
+    "Repository": "expo/expo",
+    "RepoUrl": "https://github.com/expo/expo",
+    "RepoDescribe": "\"一个开源平台，用于使用 React 制作通用本机应用程序。 Expo 可在 Android、iOS 和 Web 上运行。\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "24,477/4,383"
+  },
+  {
+    "Repository": "withastro/astro",
+    "RepoUrl": "https://github.com/withastro/astro",
+    "RepoDescribe": "\"随您扩展的 Web 框架 — 构建快速的内容网站、强大的 Web 应用程序、动态服务器 API 以及介于两者之间的一切 ⭐️ 星标以支持我们的工作！\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "36,985/1,925"
+  },
+  {
+    "Repository": "refinedev/refine",
+    "RepoUrl": "https://github.com/refinedev/refine",
+    "RepoDescribe": "\"用于构建内部工具、管理面板、仪表板的 React 框架\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "16,458/1,318"
+  },
+  {
+    "Repository": "mckaywrigley/chatbot-ui",
+    "RepoUrl": "https://github.com/mckaywrigley/chatbot-ui",
+    "RepoDescribe": "\"开源 ChatGPT UI。\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "18,448/5,518"
+  },
+  {
+    "Repository": "lobehub/lobe-chat",
+    "RepoUrl": "https://github.com/lobehub/lobe-chat",
+    "RepoDescribe": "\"🤖 Lobe Chat - 一个开源、视觉支持、可扩展、高性能的聊天机器人框架。它支持一键免费部署您的私人 ChatGPT/LLM Web 应用程序。\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "2,744/500"
+  },
+  {
+    "Repository": "openai/openai-node",
+    "RepoUrl": "https://github.com/openai/openai-node",
+    "RepoDescribe": "\"OpenAI API 的官方 Node.js / Typescript 库\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "5,484/531"
+  },
+  {
+    "Repository": "Azure/azure-sdk-for-js",
+    "RepoUrl": "https://github.com/Azure/azure-sdk-for-js",
+    "RepoDescribe": "\"此存储库用于积极开发 Azure SDK for JavaScript (NodeJS\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "1,815/1,117"
+  },
+  {
+    "Repository": "supabase/supabase",
+    "RepoUrl": "https://github.com/supabase/supabase",
+    "RepoDescribe": "\"开源 Firebase 替代方案。\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "59,289/5,309"
+  },
+  {
+    "Repository": "honojs/hono",
+    "RepoUrl": "https://github.com/honojs/hono",
+    "RepoDescribe": "\"快速、轻量级、Web 标准\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "8,651/232"
+  },
+  {
+    "Repository": "angular/angular-cli",
+    "RepoUrl": "https://github.com/angular/angular-cli",
+    "RepoDescribe": "\"用于 Angular 的 CLI 工具\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "26,273/12,138"
+  },
+  {
+    "Repository": "withfig/autocomplete",
+    "RepoUrl": "https://github.com/withfig/autocomplete",
+    "RepoDescribe": "\"适用于现有终端的 IDE 风格自动完成\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "23,428/5,238"
+  },
+  {
+    "Repository": "vuejs/core",
+    "RepoUrl": "https://github.com/vuejs/core",
+    "RepoDescribe": "\"🖖 Vue.js 是一个渐进式、可增量采用的 JavaScript 框架，用于在 Web 上构建 UI。\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "41,261/7,558"
+  },
+  {
+    "Repository": "ztjhz/BetterChatGPT",
+    "RepoUrl": "https://github.com/ztjhz/BetterChatGPT",
+    "RepoDescribe": "\"OpenAI 的 ChatGPT 的令人惊叹的 UI（网站 Windows MacOS Linux）\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "6,410/2,213"
+  },
+  {
+    "Repository": "mui/material-ui",
+    "RepoUrl": "https://github.com/mui/material-ui",
+    "RepoDescribe": "\"MUI Core：即用型基础 React 组件，永久免费。它包括 Material UI，它实现了 Google 的 Material Design。\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "89,553/30,644"
+  },
+  {
+    "Repository": "actualbudget/actual",
+    "RepoUrl": "https://github.com/actualbudget/actual",
+    "RepoDescribe": "\"本地首创的个人理财应用\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "8,637/724"
+  },
+  {
+    "Repository": "microsoft/playwright",
+    "RepoUrl": "https://github.com/microsoft/playwright",
+    "RepoDescribe": "\"Playwright 是一个用于 Web 测试和自动化的框架。它允许使用单个 API 测试 Chromium、Firefox 和 WebKit。\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "56,534/3,131"
+  },
+  {
+    "Repository": "nuxt/nuxt",
+    "RepoUrl": "https://github.com/nuxt/nuxt",
+    "RepoDescribe": "\"直观的 Vue 框架。\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "48,403/4,535"
+  },
+  {
+    "Repository": "danny-avila/LibreChat",
+    "RepoUrl": "https://github.com/danny-avila/LibreChat",
+    "RepoDescribe": "\"增强型 ChatGPT 克隆：功能 OpenAI、Bing、Anthropic、OpenRouter、PaLM 2、AI 模型切换、消息搜索、langchain、DALL-E-3、ChatGPT 插件、OpenAI 功能、安全多用户系统、预设、完全开源自托管。更多功能正在开发中\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "2,044/630"
+  },
+  {
+    "Repository": "storybookjs/storybook",
+    "RepoUrl": "https://github.com/storybookjs/storybook",
+    "RepoDescribe": "\"Storybook 是一个用于独立构建 UI 组件和页面的前端研讨会。专为 UI 开发、测试和文档而设计。\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "80,878/8,833"
+  },
+  {
+    "Repository": "RocketChat/Rocket.Chat",
+    "RepoUrl": "https://github.com/RocketChat/Rocket.Chat",
+    "RepoDescribe": "\"将数据保护放在首位的通信平台。\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "37,513/9,351"
+  },
+  {
+    "Repository": "anse-app/chatgpt-demo",
+    "RepoUrl": "https://github.com/anse-app/chatgpt-demo",
+    "RepoDescribe": "\"ChatGPT 的最小 Web UI。\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "7,604/3,852"
+  },
+  {
+    "Repository": "AprilNEA/ChatGPT-Admin-Web",
+    "RepoUrl": "https://github.com/AprilNEA/ChatGPT-Admin-Web",
+    "RepoDescribe": "\"One-stop system for shared use of AI within teams and organizationswith | 在团队和组织内共享使用人工智能的一站式系统\"",
+    "Language": "TypeScript",
+    "Stars/Forks": "2,688/1,174"
+  },
+  {
+    "Repository": "nz-m/SocialEcho",
+    "RepoUrl": "https://github.com/nz-m/SocialEcho",
+    "RepoDescribe": "\"具有自动内容审核和基于上下文的身份验证系统的社交网络平台\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "1,010/205"
+  },
+  {
+    "Repository": "sveltejs/svelte",
+    "RepoUrl": "https://github.com/sveltejs/svelte",
+    "RepoDescribe": "\"控制论增强的网络应用程序\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "73,745/4,106"
+  },
+  {
+    "Repository": "Z-Siqi/Clash-for-Windows_Chinese",
+    "RepoUrl": "https://github.com/Z-Siqi/Clash-for-Windows_Chinese",
+    "RepoDescribe": "\"clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "12,906/1,753"
+  },
+  {
+    "Repository": "louislam/uptime-kuma",
+    "RepoUrl": "https://github.com/louislam/uptime-kuma",
+    "RepoDescribe": "\"一个精美的自托管监控工具\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "40,585/3,603"
+  },
+  {
+    "Repository": "idurar/idurar-erp-crm",
+    "RepoUrl": "https://github.com/idurar/idurar-erp-crm",
+    "RepoDescribe": "\"IDURAR 开放代码源 ERP CRM 替代 SalesForce | Node Js React AntD MERN\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "3,693/839"
+  },
+  {
+    "Repository": "gorhill/uBlock",
+    "RepoUrl": "https://github.com/gorhill/uBlock",
+    "RepoDescribe": "\"uBlock Origin - Chromium 和 Firefox 的高效拦截器。又快又瘦。\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "39,689/2,928"
+  },
+  {
+    "Repository": "LayerZero-Labs/solidity-examples",
+    "RepoUrl": "https://github.com/LayerZero-Labs/solidity-examples",
+    "RepoDescribe": "\"合同示例\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "922/473"
+  },
+  {
+    "Repository": "nodejs/node",
+    "RepoUrl": "https://github.com/nodejs/node",
+    "RepoDescribe": "\"Node.js JavaScript 运行时✨🐢🚀✨\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "99,340/27,654"
+  },
+  {
+    "Repository": "bigskysoftware/htmx",
+    "RepoUrl": "https://github.com/bigskysoftware/htmx",
+    "RepoDescribe": "\"</> htmx - 强大的 HTML 工具\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "23,426/851"
+  },
+  {
+    "Repository": "ddupont808/GPT-4V-Act",
+    "RepoUrl": "https://github.com/ddupont808/GPT-4V-Act",
+    "RepoDescribe": "\"使用 GPT-4V(ision) 的 AI 代理能够使用鼠标/键盘与 Web UI 交互\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "474/43"
+  },
+  {
+    "Repository": "AMAI-GmbH/AI-Expert-Roadmap",
+    "RepoUrl": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "RepoDescribe": "\"2022 年成为人工智能专家的路线图\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "27,199/2,344"
+  },
+  {
+    "Repository": "gethomepage/homepage",
+    "RepoUrl": "https://github.com/gethomepage/homepage",
+    "RepoDescribe": "\"具有 Docker 和服务 API 集成的高度可定制的主页（或起始页/应用程序仪表板）。\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "10,881/596"
+  },
+  {
+    "Repository": "MHSanaei/3x-ui",
+    "RepoUrl": "https://github.com/MHSanaei/3x-ui",
+    "RepoDescribe": "\"支持多协议多用户到期日的 Xray 面板\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "3,812/712"
+  },
+  {
+    "Repository": "openspug/spug",
+    "RepoUrl": "https://github.com/openspug/spug",
+    "RepoDescribe": "\"开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "9,242/1,917"
+  },
+  {
+    "Repository": "drHyperion451/does-uBO-bypass-yt",
+    "RepoUrl": "https://github.com/drHyperion451/does-uBO-bypass-yt",
+    "RepoDescribe": "\"YouTube 广告是否被 Ublock 屏蔽？这个网站会告诉你！\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "268/28"
+  },
+  {
+    "Repository": "prettier/prettier",
+    "RepoUrl": "https://github.com/prettier/prettier",
+    "RepoDescribe": "\"Prettier 是一个固执己见的代码格式化程序。\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "46,983/4,104"
+  },
+  {
+    "Repository": "Asabeneh/30-Days-Of-JavaScript",
+    "RepoUrl": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "RepoDescribe": "\"30 天 JavaScript 编程挑战是在 30 天内学​​习 JavaScript 编程语言的分步指南。本次挑战可能需要100多天，请按照自己的节奏进行。这些视频也可能有帮助：https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "39,146/9,308"
+  },
+  {
+    "Repository": "iptv-org/iptv",
+    "RepoUrl": "https://github.com/iptv-org/iptv",
+    "RepoDescribe": "\"来自世界各地的公开 IPTV 频道集合\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "70,493/959"
+  },
+  {
+    "Repository": "pinokiocomputer/pinokio",
+    "RepoUrl": "https://github.com/pinokiocomputer/pinokio",
+    "RepoDescribe": "\"人工智能浏览器\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "694/55"
+  },
+  {
+    "Repository": "mrdoob/three.js",
+    "RepoUrl": "https://github.com/mrdoob/three.js",
+    "RepoDescribe": "\"JavaScript 3D 库。\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "95,581/35,144"
+  },
+  {
+    "Repository": "blackmatrix7/ios_rule_script",
+    "RepoUrl": "https://github.com/blackmatrix7/ios_rule_script",
+    "RepoDescribe": "\"分流规则、重写写规则及脚本。\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "12,441/2,096"
+  },
+  {
+    "Repository": "fabricjs/fabric.js",
+    "RepoUrl": "https://github.com/fabricjs/fabric.js",
+    "RepoDescribe": "\"Javascript Canvas 库，SVG 到 Canvas (\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "26,246/3,409"
+  },
+  {
+    "Repository": "xenova/transformers.js",
+    "RepoUrl": "https://github.com/xenova/transformers.js",
+    "RepoDescribe": "\"最先进的网络机器学习。直接在浏览器中运行 🤗 Transformers，无需服务器！\"",
+    "Language": "JavaScript",
+    "Stars/Forks": "4,587/258"
+  }
+]
