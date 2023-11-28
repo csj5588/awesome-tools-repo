@@ -363,3 +363,4 @@ MetaMask/metamask-extension
 2hacc/TVBox
 MetaMask/metamask-mobile
 xianyuyimu/TVBOX-
+BrowserBox/BrowserBox
