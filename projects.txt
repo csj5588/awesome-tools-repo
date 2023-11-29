@@ -372,3 +372,9 @@ medusajs/nextjs-starter-medusa
 admineral/OpenAI-Assistant-API-Chat
 nocodb/nocodb
 apache/superset
+Expensify/App
+gildas-lormeau/SingleFile
+MichMich/MagicMirror
+typicode/json-server
+nolimits4web/swiper
+MobSF/Mobile-Security-Framework-MobSF
