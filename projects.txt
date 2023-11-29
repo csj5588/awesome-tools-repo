@@ -372,3 +372,9 @@ MichMich/MagicMirror
 typicode/json-server
 nolimits4web/swiper
 MobSF/Mobile-Security-Framework-MobSF
+jyjblrd/Mocap-Drones
+lxfater/inpaint-web
+medusajs/nextjs-starter-medusa
+admineral/OpenAI-Assistant-API-Chat
+nocodb/nocodb
+apache/superset
