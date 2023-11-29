@@ -364,3 +364,5 @@ MetaMask/metamask-extension
 MetaMask/metamask-mobile
 xianyuyimu/TVBOX-
 BrowserBox/BrowserBox
+cocktailpeanut/dalai
+wozulong/ChatGPTAuthHelper
