@@ -366,3 +366,9 @@ xianyuyimu/TVBOX-
 BrowserBox/BrowserBox
 cocktailpeanut/dalai
 wozulong/ChatGPTAuthHelper
+jyjblrd/Mocap-Drones
+lxfater/inpaint-web
+medusajs/nextjs-starter-medusa
+admineral/OpenAI-Assistant-API-Chat
+nocodb/nocodb
+apache/superset
