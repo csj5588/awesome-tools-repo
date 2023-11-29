@@ -366,3 +366,9 @@ xianyuyimu/TVBOX-
 BrowserBox/BrowserBox
 cocktailpeanut/dalai
 wozulong/ChatGPTAuthHelper
+Expensify/App
+gildas-lormeau/SingleFile
+MichMich/MagicMirror
+typicode/json-server
+nolimits4web/swiper
+MobSF/Mobile-Security-Framework-MobSF
