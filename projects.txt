@@ -378,3 +378,12 @@ MichMich/MagicMirror
 typicode/json-server
 nolimits4web/swiper
 MobSF/Mobile-Security-Framework-MobSF
+LouisShark/chatgpt_system_prompt
+run-llama/rags
+linexjlin/GPTs
+1Panel-dev/1Panel
+GrowingGit/GitHub-Chinese-Top-Charts
+opa334/TrollStore
+jordan-cutler/path-to-senior-engineer-handbook
+BurntSushi/ripgrep
+bgstaal/multipleWindow3dScene
