@@ -396,3 +396,11 @@ makeplane/plane
 FlowiseAI/Flowise
 ascoders/weekly
 quasarframework/quasar
+federico-busato/Modern-CPP-Programming
+nlohmann/json
+epfLLM/meditron
+comfyanonymous/ComfyUI
+openai/openai-python
+grpc-ecosystem/grpc-gateway
+mlabonne/llm-course
+lllyasviel/Fooocus
