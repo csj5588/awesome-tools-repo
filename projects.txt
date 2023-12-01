@@ -394,3 +394,5 @@ FuelLabs/fuels-ts
 StanGirard/quivr
 makeplane/plane
 FlowiseAI/Flowise
+ascoders/weekly
+quasarframework/quasar
