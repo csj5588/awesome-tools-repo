@@ -388,3 +388,9 @@ jordan-cutler/path-to-senior-engineer-handbook
 BurntSushi/ripgrep
 bgstaal/multipleWindow3dScene
 milenafelix/flowers
+keiko233/clash-nyanpasu
+joschan21/digitalhippo
+FuelLabs/fuels-ts
+StanGirard/quivr
+makeplane/plane
+FlowiseAI/Flowise
