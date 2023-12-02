@@ -404,3 +404,9 @@ openai/openai-python
 grpc-ecosystem/grpc-gateway
 mlabonne/llm-course
 lllyasviel/Fooocus
+renovatebot/renovate
+IErcOrg/ierc-miner-js
+unjs/nitro
+Stability-AI/StableStudio
+Chocobozzz/PeerTube
+langfuse/langfuse
