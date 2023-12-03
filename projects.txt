@@ -413,3 +413,4 @@ langfuse/langfuse
 frangoteam/FUXA
 fullcalendar/fullcalendar
 tinymce/tinymce
+friuns2/BlackFriday-GPTs-Prompts
