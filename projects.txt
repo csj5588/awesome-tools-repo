@@ -414,3 +414,8 @@ frangoteam/FUXA
 fullcalendar/fullcalendar
 tinymce/tinymce
 friuns2/BlackFriday-GPTs-Prompts
+pytorch-labs/gpt-fast
+LC044/WeChatMsg
+dangeng/visual_anagrams
+microsoft/TaskWeaver
+Mozilla-Ocho/llamafile
