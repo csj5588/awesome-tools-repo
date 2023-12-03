@@ -410,3 +410,6 @@ unjs/nitro
 Stability-AI/StableStudio
 Chocobozzz/PeerTube
 langfuse/langfuse
+frangoteam/FUXA
+fullcalendar/fullcalendar
+tinymce/tinymce
