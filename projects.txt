@@ -421,3 +421,4 @@ microsoft/TaskWeaver
 Mozilla-Ocho/llamafile
 desktop/desktop
 clash-verge-rev/clash-verge-rev
+facebookresearch/seamless_communication
