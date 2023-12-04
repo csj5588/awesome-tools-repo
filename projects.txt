@@ -419,3 +419,5 @@ LC044/WeChatMsg
 dangeng/visual_anagrams
 microsoft/TaskWeaver
 Mozilla-Ocho/llamafile
+desktop/desktop
+clash-verge-rev/clash-verge-rev
