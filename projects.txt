@@ -422,3 +422,7 @@ Mozilla-Ocho/llamafile
 desktop/desktop
 clash-verge-rev/clash-verge-rev
 facebookresearch/seamless_communication
+excalidraw/excalidraw
+openchatai/OpenCopilot
+maplibre/maplibre-gl-js
+outline/outline
