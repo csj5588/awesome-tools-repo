@@ -426,3 +426,15 @@ excalidraw/excalidraw
 openchatai/OpenCopilot
 maplibre/maplibre-gl-js
 outline/outline
+HumanAIGC/AnimateAnyone
+go-gost/gost
+krahets/hello-algo
+microsoft/ML-For-Beginners
+samuelcolvin/FastUI
+practical-tutorials/project-based-learning
+AUTOMATIC1111/stable-diffusion-webui
+coolsnowwolf/lede
+qbittorrent/qBittorrent
+sherlock-project/sherlock
+awesome-selfhosted/awesome-selfhosted
+cloudcommunity/Free-Certifications
