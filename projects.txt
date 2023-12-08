@@ -446,3 +446,11 @@ magic-research/magic-animate
 dream-num/univer
 Orillusion/orillusion
 laurent22/joplin
+JJTech0130/pypush
+google/style-aligned
+ise-uiuc/magicoder
+PRIS-CV/DemoFusion
+microsoft/PowerToys
+xaoyaoo/PyWxDump
+facebook/stylex
+SuperDuperDB/superduperdb
