@@ -456,3 +456,6 @@ facebook/stylex
 SuperDuperDB/superduperdb
 BuilderIO/qwik
 aws/aws-toolkit-vscode
+ml-explore/mlx
+ml-explore/mlx-examples
+CopilotKit/CopilotKit
