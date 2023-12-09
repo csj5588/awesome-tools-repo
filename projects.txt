@@ -454,3 +454,5 @@ microsoft/PowerToys
 xaoyaoo/PyWxDump
 facebook/stylex
 SuperDuperDB/superduperdb
+BuilderIO/qwik
+aws/aws-toolkit-vscode
