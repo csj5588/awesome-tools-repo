@@ -467,3 +467,10 @@ pocketbase/pocketbase
 ByteByteGoHq/system-design-101
 luciddreamer-cvlab/LucidDreamer
 HuolalaTech/page-spy-web
+illacloud/illa-builder
+mistralai/mistral-src
+codecrafters-io/build-your-own-x
+swisskyrepo/PayloadsAllTheThings
+mli/paper-reading
+pandora-next/deploy
+trimstray/the-book-of-secret-knowledge
