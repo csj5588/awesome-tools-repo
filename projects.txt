@@ -477,3 +477,10 @@ trimstray/the-book-of-secret-knowledge
 bbycroft/llm-viz
 appsmithorg/appsmith
 TheRamU/Fay
+amitsangani/Llama-2
+wy876/POC
+sdmg15/Best-websites-a-programmer-should-visit
+open-compass/MixtralKit
+guoqincode/AnimateAnyone-unofficial
+vllm-project/vllm
+lean-dojo/LeanCopilot
