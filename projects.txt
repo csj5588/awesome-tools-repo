@@ -484,3 +484,5 @@ open-compass/MixtralKit
 guoqincode/AnimateAnyone-unofficial
 vllm-project/vllm
 lean-dojo/LeanCopilot
+microsoft/promptbase
+nishuzumi/pow-erc20
