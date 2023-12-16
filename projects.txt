@@ -487,3 +487,4 @@ lean-dojo/LeanCopilot
 microsoft/promptbase
 nishuzumi/pow-erc20
 simeydotme/pokemon-cards-css
+webstudio-is/webstudio
