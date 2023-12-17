@@ -496,3 +496,6 @@ AvaloniaUI/Avalonia
 vinta/awesome-python
 threestudio-project/threestudio
 jmorganca/ollama
+missing-semester-cn/missing-semester-cn.github.io
+nanxiaobei/hugo-paper
+primefaces/sakai-ng
