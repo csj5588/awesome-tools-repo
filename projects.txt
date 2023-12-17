@@ -500,3 +500,16 @@ missing-semester-cn/missing-semester-cn.github.io
 nanxiaobei/hugo-paper
 primefaces/sakai-ng
 MichaelYuhe/ai-group-tabs
+google/generative-ai-swift
+bleedline/aimoneyhunter
+oxc-project/oxc
+yihong0618/tg_bot_collections
+GoogleCloudPlatform/python-docs-samples
+srush/Tensor-Puzzles
+Alamofire/Alamofire
+google/generative-ai-docs
+chatanywhere/GPT_API_free
+fastlane/fastlane
+damo-vilab/i2vgen-xl
+The-Run-Philosophy-Organization/run
+google/generative-ai-android
