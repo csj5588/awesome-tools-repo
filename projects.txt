@@ -513,3 +513,4 @@ fastlane/fastlane
 damo-vilab/i2vgen-xl
 The-Run-Philosophy-Organization/run
 google/generative-ai-android
+anoma/namada
