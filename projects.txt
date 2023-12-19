@@ -514,3 +514,6 @@ damo-vilab/i2vgen-xl
 The-Run-Philosophy-Organization/run
 google/generative-ai-android
 anoma/namada
+microsoft/Mastering-GitHub-Copilot-for-Paired-Programming
+zulip/zulip
+ordinals/ord
