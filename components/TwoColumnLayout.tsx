@@ -7,7 +7,6 @@ interface TwoColumnLayoutProps {
 }
 
 const TwoColumnLayout: React.FC<TwoColumnLayoutProps> = ({ children }) => {
-  console.log('children[1]', children[1])
   return (
     <PhotoProvider>
       <div
