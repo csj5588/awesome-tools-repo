@@ -517,3 +517,4 @@ anoma/namada
 microsoft/Mastering-GitHub-Copilot-for-Paired-Programming
 zulip/zulip
 ordinals/ord
+TheAlgorithms/JavaScript
