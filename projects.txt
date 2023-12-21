@@ -519,3 +519,6 @@ zulip/zulip
 ordinals/ord
 TheAlgorithms/JavaScript
 damo-vilab/AnyDoor
+Chalarangelo/30-seconds-of-code
+sfter/evm-inscription-mint
+elfvingralf/macOSpilot-ai-assistant
