@@ -542,3 +542,7 @@ danswer-ai/danswer
 ansible/ansible
 Mozilla-Ocho/Memory-Cache
 3Kmfi6HP/EDtunnel
+scratchfoundation/scratch-gui
+hiteshchoudhary/js-hindi-youtube
+InterstellarNetwork/Interstellar
+andersontr15/clean-code-javascript-es
