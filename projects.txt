@@ -561,3 +561,6 @@ Krypteria/AtlasLdr
 Unstructured-IO/unstructured
 RUB-NDS/Terrapin-Scanner
 solana-labs/solana-program-library
+adrianhajdin/project_next_13_ai_prompt_sharing
+neetcode-gh/leetcode
+projectdiscovery/nuclei-templates
