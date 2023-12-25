@@ -568,3 +568,4 @@ cumulo-autumn/StreamDiffusion
 suno-ai/bark
 beeper/imessage
 Anuken/Mindustry
+openai-translator/openai-translator
