@@ -569,3 +569,7 @@ suno-ai/bark
 beeper/imessage
 Anuken/Mindustry
 openai-translator/openai-translator
+mifi/lossless-cut
+kkevsekk1/AutoX
+lyfe00011/whatsapp-bot-md
+wukko/cobalt
