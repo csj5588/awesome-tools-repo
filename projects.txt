@@ -578,3 +578,10 @@ adrianhajdin/event_platform
 plasmicapp/plasmic
 date-fns/date-fns
 jquery/jquery
+babaohuang/GeminiProChat
+weaigc/bingo
+movie-web/movie-web
+TanStack/router
+gristlabs/grist-core
+open-metadata/OpenMetadata
+unisat-wallet/extension
