@@ -585,3 +585,4 @@ TanStack/router
 gristlabs/grist-core
 open-metadata/OpenMetadata
 unisat-wallet/extension
+Frooodle/Stirling-PDF
