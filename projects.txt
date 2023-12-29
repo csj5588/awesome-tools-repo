@@ -589,3 +589,13 @@ Frooodle/Stirling-PDF
 streetwriters/notesnook
 pastelsky/tsdocs
 elysiajs/elysia
+JoeanAmier/XHS-Downloader
+nodejs/undici
+jaywcjlove/awesome-mac
+jonasschmedtmann/ultimate-react-course
+moshang-xc/lottery
+anuraghazra/github-readme-stats
+actuallymentor/battery
+layui/layui
+tailwindlabs/heroicons
+beefproject/beef
