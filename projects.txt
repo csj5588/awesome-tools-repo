@@ -586,3 +586,6 @@ gristlabs/grist-core
 open-metadata/OpenMetadata
 unisat-wallet/extension
 Frooodle/Stirling-PDF
+streetwriters/notesnook
+pastelsky/tsdocs
+elysiajs/elysia
