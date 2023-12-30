@@ -617,3 +617,4 @@ ant-design/ant-design-web3
 jqnatividad/qsv
 baaivision/Emu
 ChatGPTNextWeb/ChatGPT-Next-Web
+vogler/free-games-claimer
