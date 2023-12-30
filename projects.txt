@@ -616,3 +616,4 @@ mouredev/roadmap-retos-programacion
 ant-design/ant-design-web3
 jqnatividad/qsv
 baaivision/Emu
+ChatGPTNextWeb/ChatGPT-Next-Web
