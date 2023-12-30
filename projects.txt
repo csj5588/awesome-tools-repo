@@ -618,3 +618,16 @@ jqnatividad/qsv
 baaivision/Emu
 ChatGPTNextWeb/ChatGPT-Next-Web
 vogler/free-games-claimer
+hrvach/deskhop
+paperless-ngx/paperless-ngx
+KRTirtho/spotube
+dair-ai/ML-Papers-of-the-Week
+SoilLabs/Solana-Foam
+Az0x7/vulnerability-Checklist
+songquanpeng/one-api
+danielmiessler/SecLists
+redcanaryco/atomic-red-team
+UberGuidoZ/Flipper
+dataease/dataease
+omnivore-app/omnivore
+dubinc/dub
