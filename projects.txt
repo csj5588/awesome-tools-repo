@@ -639,3 +639,13 @@ shadowcz007/comfyui-mixlab-nodes
 ajaxorg/ace
 pot-app/pot-desktop
 bytedance/xgplayer
+jasonjmcghee/rem
+Stirling-Tools/Stirling-PDF
+midudev/porfolio.dev
+commaai/openpilot
+radishes-music/radishes
+stacksmashing/tamarin-c
+ashishps1/awesome-system-design-resources
+midudev/esland-web
+xuchengsheng/spring-reading
+KwaiKEG/KwaiAgents
