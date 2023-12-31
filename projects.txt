@@ -631,3 +631,11 @@ UberGuidoZ/Flipper
 dataease/dataease
 omnivore-app/omnivore
 dubinc/dub
+heyman/heynote
+hiteshchoudhary/chai-aur-react
+hiteshchoudhary/apihub
+kska32/ebooks
+shadowcz007/comfyui-mixlab-nodes
+ajaxorg/ace
+pot-app/pot-desktop
+bytedance/xgplayer
