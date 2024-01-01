@@ -650,3 +650,7 @@ midudev/esland-web
 xuchengsheng/spring-reading
 KwaiKEG/KwaiAgents
 github/docs
+donnemartin/system-design-primer
+Universidade-Livre/rinha-de-algoritmos
+successfulstudy/promptoftheyear
+flowdriveai/flowpilot
