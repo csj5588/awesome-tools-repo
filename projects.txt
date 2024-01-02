@@ -660,3 +660,5 @@ solidjs/solid
 solana-labs/solana-web3.js
 popcorn-official/popcorn-desktop
 rphlr/42-Evals
+dvmazur/mixtral-offloading
+janhq/jan
