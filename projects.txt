@@ -655,3 +655,6 @@ Universidade-Livre/rinha-de-algoritmos
 successfulstudy/promptoftheyear
 flowdriveai/flowpilot
 adrianhajdin/project_modern_ui_ux_gpt3
+Innei/Shiro
+solidjs/solid
+solana-labs/solana-web3.js
