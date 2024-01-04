@@ -664,3 +664,5 @@ dvmazur/mixtral-offloading
 janhq/jan
 meshery/meshery
 myshell-ai/OpenVoice
+DustinBrett/daedalOS
+catvod/CatVodOpen
