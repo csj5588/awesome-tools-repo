@@ -666,3 +666,5 @@ meshery/meshery
 myshell-ai/OpenVoice
 DustinBrett/daedalOS
 catvod/CatVodOpen
+Sairyss/domain-driven-hexagon
+blacksmithgu/obsidian-dataview
