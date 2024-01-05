@@ -669,3 +669,8 @@ catvod/CatVodOpen
 Sairyss/domain-driven-hexagon
 blacksmithgu/obsidian-dataview
 spicetify/spicetify-cli
+gunnarmorling/1brc
+xiaolai/everyone-can-use-english
+uutils/coreutils
+microsoft/generative-ai-for-beginners
+hiroi-sora/Umi-OCR
