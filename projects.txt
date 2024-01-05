@@ -668,3 +668,4 @@ DustinBrett/daedalOS
 catvod/CatVodOpen
 Sairyss/domain-driven-hexagon
 blacksmithgu/obsidian-dataview
+spicetify/spicetify-cli
