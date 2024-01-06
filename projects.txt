@@ -677,3 +677,8 @@ hiroi-sora/Umi-OCR
 straight-tamago/misaka
 elie222/inbox-zero
 hoppscotch/hoppscotch
+iMAboud/iMSteam
+goldbergyoni/javascript-testing-best-practices
+Kong/insomnia
+liu673cn/box
+lutzroeder/netron
