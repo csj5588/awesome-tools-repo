@@ -674,3 +674,4 @@ xiaolai/everyone-can-use-english
 uutils/coreutils
 microsoft/generative-ai-for-beginners
 hiroi-sora/Umi-OCR
+straight-tamago/misaka
