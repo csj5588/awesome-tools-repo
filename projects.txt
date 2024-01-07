@@ -699,3 +699,4 @@ coqui-ai/TTS
 ktock/container2wasm
 vignshwarar/AI-Employe
 Teamlinker/Teamlinker
+facebookresearch/audio2photoreal
