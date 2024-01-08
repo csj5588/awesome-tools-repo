@@ -700,3 +700,4 @@ ktock/container2wasm
 vignshwarar/AI-Employe
 Teamlinker/Teamlinker
 facebookresearch/audio2photoreal
+neal-zhu/atomicals-miner
