@@ -701,3 +701,5 @@ vignshwarar/AI-Employe
 Teamlinker/Teamlinker
 facebookresearch/audio2photoreal
 neal-zhu/atomicals-miner
+processing/p5.js-web-editor
+easydiffusion/easydiffusion
