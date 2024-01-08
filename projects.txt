@@ -703,3 +703,12 @@ facebookresearch/audio2photoreal
 neal-zhu/atomicals-miner
 processing/p5.js-web-editor
 easydiffusion/easydiffusion
+joaomdmoura/crewAI
+MarkFzp/act-plus-plus
+MarkFzp/mobile-aloha
+embedchain/embedchain
+janhq/nitro
+fishaudio/Bert-VITS2
+wpilibsuite/allwpilib
+jzhang38/TinyLlama
+DataTalksClub/data-engineering-zoomcamp
