@@ -714,3 +714,5 @@ jzhang38/TinyLlama
 DataTalksClub/data-engineering-zoomcamp
 coral-xyz/backpack
 alibaba/lowcode-engine
+jonasschmedtmann/complete-node-bootcamp
+processing/p5.js
