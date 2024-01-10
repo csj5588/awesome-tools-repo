@@ -718,3 +718,5 @@ jonasschmedtmann/complete-node-bootcamp
 processing/p5.js
 themepark-dev/theme.park
 cypress-io/cypress-realworld-app
+UdaraJay/Pile
+MagicMirrorOrg/MagicMirror
