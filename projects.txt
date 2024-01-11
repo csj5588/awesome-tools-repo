@@ -723,3 +723,10 @@ MagicMirrorOrg/MagicMirror
 aaamoon/copilot-gpt4-service
 rafaelmardojai/firefox-gnome-theme
 bedimcode/responsive-portfolio-website-Alexa
+LSPosed/LSPosed
+wagoodman/dive
+tiann/KernelSU
+OdysseusYuan/LKY_OfficeTools
+ThePBone/tachiyomi-extensions-revived
+KillianLucas/open-interpreter
+mrousavy/react-native-vision-camera
