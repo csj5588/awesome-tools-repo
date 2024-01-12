@@ -731,3 +731,9 @@ ThePBone/tachiyomi-extensions-revived
 KillianLucas/open-interpreter
 mrousavy/react-native-vision-camera
 speer-technologies/aircall
+keiyoushi/extensions
+keiyoushi/extensions-source
+tachiyomiorg/tachiyomi
+atuinsh/atuin
+Meroser/IPTV
+kroma-network/tachyon
