@@ -730,3 +730,4 @@ OdysseusYuan/LKY_OfficeTools
 ThePBone/tachiyomi-extensions-revived
 KillianLucas/open-interpreter
 mrousavy/react-native-vision-camera
+speer-technologies/aircall
