@@ -750,3 +750,15 @@ FastForwardTeam/FastForward
 enricoros/big-AGI
 hiteshchoudhary/react-english
 moment/moment
+subquery/subql
+meilisearch/meilisearch
+maybe-finance/maybe
+morethanwords/tweb
+terraform-aws-modules/terraform-aws-eks
+apache/flink
+papers-we-love/papers-we-love
+Portkey-AI/gateway
+chakra-ui/chakra-ui
+opentofu/opentofu
+stanfordnlp/dspy
+ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
