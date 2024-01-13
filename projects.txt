@@ -742,3 +742,11 @@ tamagui/tamagui
 software-mansion/react-native-gesture-handler
 floating-ui/floating-ui
 strapi/strapi
+GoogleChrome/lighthouse
+parallax/jsPDF
+jgraph/drawio-desktop
+GoogleChrome/web-vitals
+FastForwardTeam/FastForward
+enricoros/big-AGI
+hiteshchoudhary/react-english
+moment/moment
