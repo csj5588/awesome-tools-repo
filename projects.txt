@@ -738,3 +738,7 @@ atuinsh/atuin
 Meroser/IPTV
 kroma-network/tachyon
 UndeadSec/SocialFish
+tamagui/tamagui
+software-mansion/react-native-gesture-handler
+floating-ui/floating-ui
+strapi/strapi
