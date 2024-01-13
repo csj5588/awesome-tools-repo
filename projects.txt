@@ -737,3 +737,4 @@ tachiyomiorg/tachiyomi
 atuinsh/atuin
 Meroser/IPTV
 kroma-network/tachyon
+UndeadSec/SocialFish
