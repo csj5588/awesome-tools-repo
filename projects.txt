@@ -762,3 +762,8 @@ chakra-ui/chakra-ui
 opentofu/opentofu
 stanfordnlp/dspy
 ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
+lovell/sharp
+codesandbox/codesandbox-client
+kenwheeler/slick
+swagger-api/swagger-ui
+leonardomso/33-js-concepts
