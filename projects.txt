@@ -767,3 +767,6 @@ codesandbox/codesandbox-client
 kenwheeler/slick
 swagger-api/swagger-ui
 leonardomso/33-js-concepts
+eazybytes/springsecurity6
+matt8707/hass-config
+thoughtworks/build-your-own-radar
