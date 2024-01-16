@@ -773,3 +773,4 @@ thoughtworks/build-your-own-radar
 honghuangdc/soybean-admin
 EpicGames/raddebugger
 marimo-team/marimo
+Godiesc/firefox-gx
