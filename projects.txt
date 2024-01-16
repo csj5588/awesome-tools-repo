@@ -776,3 +776,4 @@ marimo-team/marimo
 Godiesc/firefox-gx
 adobe/react-spectrum
 apollographql/apollo-client
+zloirock/core-js
