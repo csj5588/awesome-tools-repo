@@ -774,3 +774,5 @@ honghuangdc/soybean-admin
 EpicGames/raddebugger
 marimo-team/marimo
 Godiesc/firefox-gx
+adobe/react-spectrum
+apollographql/apollo-client
