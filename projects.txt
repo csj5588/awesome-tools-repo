@@ -777,3 +777,5 @@ Godiesc/firefox-gx
 adobe/react-spectrum
 apollographql/apollo-client
 zloirock/core-js
+tachiyomiorg/extensions
+microsoft/autogen
