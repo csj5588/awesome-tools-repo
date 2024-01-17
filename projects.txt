@@ -779,3 +779,4 @@ apollographql/apollo-client
 zloirock/core-js
 tachiyomiorg/extensions
 microsoft/autogen
+alyssaxuu/screenity
