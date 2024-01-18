@@ -780,3 +780,6 @@ zloirock/core-js
 tachiyomiorg/extensions
 microsoft/autogen
 alyssaxuu/screenity
+diegomura/react-pdf
+naveeddogar/KING-MD
+midudev/preguntas-entrevista-react
