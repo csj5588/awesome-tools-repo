@@ -783,3 +783,13 @@ alyssaxuu/screenity
 diegomura/react-pdf
 naveeddogar/KING-MD
 midudev/preguntas-entrevista-react
+TencentARC/PhotoMaker
+VikParuchuri/surya
+microsoft/STL
+skfolio/skfolio
+vanna-ai/vanna
+PKUFlyingPig/cs-self-learning
+friuns2/Leaked-GPTs
+react-native-webview/react-native-webview
+kubernetes/autoscaler
+facebookresearch/audiocraft
