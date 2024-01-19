@@ -795,3 +795,17 @@ kubernetes/autoscaler
 facebookresearch/audiocraft
 cure53/DOMPurify
 atlassian/react-beautiful-dnd
+mihonapp/mihon
+netease-youdao/QAnything
+justjavac/free-programming-books-zh_CN
+dair-ai/Prompt-Engineering-Guide
+RVC-Boss/GPT-SoVITS
+rails/rails
+XingangPan/DragGAN
+Dooy/chatgpt-web-midjourney-proxy
+roothide/Bootstrap
+dataelement/bisheng
+max32002/tixcraft_bot
+Azure/azure-rest-api-specs
+facebookresearch/dinov2
+fish-shell/fish-shell
