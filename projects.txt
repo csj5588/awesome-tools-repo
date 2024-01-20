@@ -809,3 +809,6 @@ max32002/tixcraft_bot
 Azure/azure-rest-api-specs
 facebookresearch/dinov2
 fish-shell/fish-shell
+Automattic/mongoose
+isanchop/stuhack
+advplyr/audiobookshelf
