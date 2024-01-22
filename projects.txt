@@ -817,3 +817,11 @@ spatie/holidays
 Andre0512/hon
 Lissy93/web-check
 SchemaStore/schemastore
+juice-shop/juice-shop
+weijunext/smart-excel-ai
+ionic-team/capacitor
+actions/cache
+resend/react-email
+vendure-ecommerce/vendure
+pk910/PoWFaucet
+software-mansion/react-native-reanimated
