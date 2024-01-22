@@ -826,3 +826,8 @@ vendure-ecommerce/vendure
 pk910/PoWFaucet
 software-mansion/react-native-reanimated
 hargata/lubelog
+rustdesk/rustdesk
+mingrammer/diagrams
+EbookFoundation/free-programming-books
+Codium-ai/AlphaCodium
+InstantID/InstantID
