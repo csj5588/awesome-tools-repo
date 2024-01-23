@@ -831,3 +831,6 @@ mingrammer/diagrams
 EbookFoundation/free-programming-books
 Codium-ai/AlphaCodium
 InstantID/InstantID
+Rakesh9100/Beautiify
+starknet-edu/starknetbook
+Comfy-Themes/Discord
