@@ -845,3 +845,7 @@ thijsvanloef/palworld-server-docker
 jammsen/docker-palworld-dedicated-server
 msys2/msys2.github.io
 meglerhagen/projectx
+wg-easy/wg-easy
+WebGoat/WebGoat
+jgraph/drawio
+Everduin94/better-commits
