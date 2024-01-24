@@ -843,3 +843,4 @@ SagerNet/sing-box
 ocornut/imgui
 thijsvanloef/palworld-server-docker
 jammsen/docker-palworld-dedicated-server
+msys2/msys2.github.io
