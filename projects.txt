@@ -849,3 +849,9 @@ wg-easy/wg-easy
 WebGoat/WebGoat
 jgraph/drawio
 Everduin94/better-commits
+jwasham/coding-interview-university
+byoungd/English-level-up-tips
+sst/demo-ai-app
+lucidrains/self-rewarding-lm-pytorch
+gabrielchua/RAGxplorer
+nerfstudio-project/nerfstudio
