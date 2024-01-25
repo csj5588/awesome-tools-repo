@@ -857,3 +857,7 @@ gabrielchua/RAGxplorer
 nerfstudio-project/nerfstudio
 Shopify/polaris
 continuedev/continue
+Yuyz0112/vx.dev
+szimek/sharedrop
+kleampa/not-paid
+mermaid-js/mermaid
