@@ -861,3 +861,5 @@ Yuyz0112/vx.dev
 szimek/sharedrop
 kleampa/not-paid
 mermaid-js/mermaid
+LiheYoung/Depth-Anything
+hiddify/hiddify-next
