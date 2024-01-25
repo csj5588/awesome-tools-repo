@@ -855,3 +855,5 @@ sst/demo-ai-app
 lucidrains/self-rewarding-lm-pytorch
 gabrielchua/RAGxplorer
 nerfstudio-project/nerfstudio
+Shopify/polaris
+continuedev/continue
