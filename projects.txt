@@ -866,3 +866,4 @@ hiddify/hiddify-next
 IBM/plex
 Akifyss/obsidian-border
 nusserstudios/tailbliss
+DefinitelyTyped/DefinitelyTyped
