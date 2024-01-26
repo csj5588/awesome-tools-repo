@@ -863,3 +863,6 @@ kleampa/not-paid
 mermaid-js/mermaid
 LiheYoung/Depth-Anything
 hiddify/hiddify-next
+IBM/plex
+Akifyss/obsidian-border
+nusserstudios/tailbliss
