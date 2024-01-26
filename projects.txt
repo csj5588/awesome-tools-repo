@@ -870,3 +870,5 @@ DefinitelyTyped/DefinitelyTyped
 suyalcinkaya/onur.dev
 31b4/Leetcode-Premium-Bypass
 carbon-design-system/carbon
+YangLing0818/RPG-DiffusionMaster
+iam-veeramalla/Azure-zero-to-hero
