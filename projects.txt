@@ -877,3 +877,9 @@ eliyantosarage/font-awesome-pro
 Shopify/react-native-skia
 medusajs/medusa
 anisurrahman072/React-Native-Advanced-Guide
+goenning/google-indexing-script
+ollama/ollama
+zed-industries/zed
+bregman-arie/devops-exercises
+NVIDIA/GenerativeAIExamples
+binhnguyennus/awesome-scalability
