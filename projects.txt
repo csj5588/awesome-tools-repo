@@ -887,3 +887,9 @@ recharts/recharts
 shuding/nextra
 JedWatson/react-select
 jaredpalmer/formik
+HumanSignal/label-studio
+mozilla/pdf.js
+Yuyz0112/dewhale
+tj/commander.js
+schlagmichdoch/PairDrop
+typicode/husky
