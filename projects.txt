@@ -893,3 +893,4 @@ Yuyz0112/dewhale
 tj/commander.js
 schlagmichdoch/PairDrop
 typicode/husky
+ZHO-ZHO-ZHO/ComfyUI-InstantID
