@@ -883,3 +883,7 @@ zed-industries/zed
 bregman-arie/devops-exercises
 NVIDIA/GenerativeAIExamples
 binhnguyennus/awesome-scalability
+recharts/recharts
+shuding/nextra
+JedWatson/react-select
+jaredpalmer/formik
