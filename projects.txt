@@ -896,3 +896,6 @@ typicode/husky
 ZHO-ZHO-ZHO/ComfyUI-InstantID
 nigelpoulton/gsd
 srikanth235/privy
+JC144/EDF_Simulateur_Prix
+learning-zone/website-templates
+brianpetro/obsidian-smart-connections
