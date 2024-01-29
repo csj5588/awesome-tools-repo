@@ -895,3 +895,4 @@ schlagmichdoch/PairDrop
 typicode/husky
 ZHO-ZHO-ZHO/ComfyUI-InstantID
 nigelpoulton/gsd
+srikanth235/privy
