@@ -899,3 +899,5 @@ srikanth235/privy
 JC144/EDF_Simulateur_Prix
 learning-zone/website-templates
 brianpetro/obsidian-smart-connections
+leptonai/search_with_lepton
+cheahjs/palworld-save-tools
