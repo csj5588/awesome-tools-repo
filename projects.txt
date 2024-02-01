@@ -912,3 +912,15 @@ rajnandan1/kener
 sahandghavidel/mern-blog
 atom/atom
 Leaflet/Leaflet
+danielmiessler/fabric
+leptonai/leptonai
+joevess/IPTV
+InkboxSoftware/excelCPU
+facebookresearch/codellama
+all-in-aigc/aicover
+rasbt/LLMs-from-scratch
+FlagOpen/FlagEmbedding
+PKU-YuanGroup/MoE-LLaVA
+mlflow/mlflow
+microsoft/sample-app-aoai-chatGPT
+vikhyat/moondream
