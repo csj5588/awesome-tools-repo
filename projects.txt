@@ -901,3 +901,7 @@ learning-zone/website-templates
 brianpetro/obsidian-smart-connections
 leptonai/search_with_lepton
 cheahjs/palworld-save-tools
+placemark/placemark
+lucia-auth/lucia
+colinhacks/zod
+rjsf-team/react-jsonschema-form
