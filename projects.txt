@@ -905,3 +905,10 @@ placemark/placemark
 lucia-auth/lucia
 colinhacks/zod
 rjsf-team/react-jsonschema-form
+plasma-umass/scalene
+spdustin/ChatGPT-AutoExpert
+bpmn-io/bpmn-js
+rajnandan1/kener
+sahandghavidel/mern-blog
+atom/atom
+Leaflet/Leaflet
