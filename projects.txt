@@ -924,3 +924,5 @@ PKU-YuanGroup/MoE-LLaVA
 mlflow/mlflow
 microsoft/sample-app-aoai-chatGPT
 vikhyat/moondream
+ag-grid/ag-grid
+katspaugh/wavesurfer.js
