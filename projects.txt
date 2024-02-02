@@ -926,3 +926,6 @@ microsoft/sample-app-aoai-chatGPT
 vikhyat/moondream
 ag-grid/ag-grid
 katspaugh/wavesurfer.js
+axios/axios
+denysdovhan/wtfjs
+replicate/scribble-diffusion
