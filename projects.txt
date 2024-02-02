@@ -929,3 +929,4 @@ katspaugh/wavesurfer.js
 axios/axios
 denysdovhan/wtfjs
 replicate/scribble-diffusion
+f/awesome-chatgpt-prompts
