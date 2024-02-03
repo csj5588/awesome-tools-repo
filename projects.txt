@@ -930,3 +930,7 @@ axios/axios
 denysdovhan/wtfjs
 replicate/scribble-diffusion
 f/awesome-chatgpt-prompts
+mlc-ai/web-llm
+softprops/action-gh-release
+wasp-lang/open-saas
+FuelLabs/swayswap
