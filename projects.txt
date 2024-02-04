@@ -938,3 +938,7 @@ elementor/elementor
 PipedreamHQ/pipedream
 haotian-liu/LLaVA
 lizongying/my-tv
+andrewnguonly/Lumos
+ollama/ollama-js
+Shopify/hydrogen
+quilljs/quill
