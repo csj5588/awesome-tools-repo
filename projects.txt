@@ -942,3 +942,6 @@ andrewnguonly/Lumos
 ollama/ollama-js
 Shopify/hydrogen
 quilljs/quill
+lencx/Noi
+aymene69/stremio-jackett
+HabitRPG/habitica
