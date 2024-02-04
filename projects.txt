@@ -945,3 +945,8 @@ quilljs/quill
 lencx/Noi
 aymene69/stremio-jackett
 HabitRPG/habitica
+OpenBMB/MiniCPM
+microsoft/terminal
+usememos/memos
+allenai/OLMo
+Sanster/IOPaint
