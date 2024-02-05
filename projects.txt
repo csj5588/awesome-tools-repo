@@ -950,3 +950,4 @@ microsoft/terminal
 usememos/memos
 allenai/OLMo
 Sanster/IOPaint
+ex3ndr/llama-coder
