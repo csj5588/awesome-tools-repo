@@ -951,3 +951,5 @@ usememos/memos
 allenai/OLMo
 Sanster/IOPaint
 ex3ndr/llama-coder
+0xsongsu/dailytask
+jquense/react-big-calendar
