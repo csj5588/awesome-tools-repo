@@ -953,3 +953,6 @@ Sanster/IOPaint
 ex3ndr/llama-coder
 0xsongsu/dailytask
 jquense/react-big-calendar
+AbanteAI/rawdog
+adrianhajdin/figma_clone
+enso-org/enso
