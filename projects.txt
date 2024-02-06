@@ -961,3 +961,6 @@ gchq/CyberChef
 microsoft/monaco-editor
 tastejs/todomvc
 xifangczy/cat-catch
+apple/pkl
+topjohnwu/Magisk
+X-PLUG/MobileAgent
