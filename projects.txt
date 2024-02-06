@@ -956,3 +956,4 @@ jquense/react-big-calendar
 AbanteAI/rawdog
 adrianhajdin/figma_clone
 enso-org/enso
+shikijs/shiki
