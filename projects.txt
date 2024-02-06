@@ -957,3 +957,7 @@ AbanteAI/rawdog
 adrianhajdin/figma_clone
 enso-org/enso
 shikijs/shiki
+gchq/CyberChef
+microsoft/monaco-editor
+tastejs/todomvc
+xifangczy/cat-catch
