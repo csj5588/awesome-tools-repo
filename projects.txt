@@ -968,3 +968,5 @@ waelmas/frameless-bitb
 primefaces/sakai-react
 chokcoco/CSS-Inspiration
 botpress/botpress
+ai/nanoid
+qist/tvbox
