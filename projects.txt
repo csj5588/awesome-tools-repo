@@ -970,3 +970,9 @@ chokcoco/CSS-Inspiration
 botpress/botpress
 ai/nanoid
 qist/tvbox
+mitsuhiko/rye
+martinvonz/jj
+facebook/react-native
+google/oss-fuzz-gen
+superbeyone/JetBrainsActiveCode
+home-assistant/core
