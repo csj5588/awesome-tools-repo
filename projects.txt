@@ -978,3 +978,5 @@ superbeyone/JetBrainsActiveCode
 home-assistant/core
 0x648/luna-ai
 agalwood/Motrix
+FujiwaraChoki/MoneyPrinter
+zanfranceschi/rinha-de-backend-2024-q1
