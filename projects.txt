@@ -980,3 +980,11 @@ home-assistant/core
 agalwood/Motrix
 FujiwaraChoki/MoneyPrinter
 zanfranceschi/rinha-de-backend-2024-q1
+awslabs/llrt
+phidatahq/phidata
+metavoiceio/metavoice-src
+Orange-OpenSource/hurl
+cyberus-technology/virtualbox-kvm
+AleoHQ/leo
+microsoft/sudo
+jixserver/free-for-dev
