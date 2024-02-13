@@ -988,3 +988,4 @@ cyberus-technology/virtualbox-kvm
 AleoHQ/leo
 microsoft/sudo
 jixserver/free-for-dev
+phaserjs/phaser
