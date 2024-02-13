@@ -989,3 +989,17 @@ AleoHQ/leo
 microsoft/sudo
 jixserver/free-for-dev
 phaserjs/phaser
+uclaml/SPIN
+bitcoin/bitcoin
+AdguardTeam/AdGuardHome
+skiff-org/skiff-apps
+bepass-org/oblivion
+projectx-codehagen/projectx
+hcengineering/platform
+odin-lang/Odin
+magicbear/palworld-server-toolkit
+anderspitman/awesome-tunneling
+yt-dlp/yt-dlp
+bevyengine/bevy
+conductor-oss/conductor
+ripienaar/free-for-dev
