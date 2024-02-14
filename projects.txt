@@ -1003,3 +1003,7 @@ yt-dlp/yt-dlp
 bevyengine/bevy
 conductor-oss/conductor
 ripienaar/free-for-dev
+Rectify11/Installer
+ethereumbook/ethereumbook
+jinenge/tvbox
+TheOdinProject/curriculum
