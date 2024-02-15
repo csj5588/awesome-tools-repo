@@ -1015,3 +1015,5 @@ biopython/biopython
 mamedev/mame
 echelon-theme/echelon
 microsoft/azurechat
+academicpages/academicpages.github.io
+markedjs/marked
