@@ -1017,3 +1017,4 @@ echelon-theme/echelon
 microsoft/azurechat
 academicpages/academicpages.github.io
 markedjs/marked
+BCG-X-Official/agentkit
