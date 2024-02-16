@@ -1018,3 +1018,4 @@ microsoft/azurechat
 academicpages/academicpages.github.io
 markedjs/marked
 BCG-X-Official/agentkit
+Lissy93/personal-security-checklist
