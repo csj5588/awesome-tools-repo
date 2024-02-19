@@ -1026,3 +1026,12 @@ adamcohenhillel/ADeus
 rocketseat-education/nlw-expert-react
 simple-icons/simple-icons
 progit/progit2
+webdriverio/webdriverio
+bluesky-social/feed-generator
+typescript-eslint/typescript-eslint
+catppuccin/catppuccin
+panaverse/learn-typescript
+dikshikaaa/Valentines-Day
+SKHon/diudiu
+vfarid/v2ray-worker
+FuelLabs/sway-farm
