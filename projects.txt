@@ -1037,3 +1037,5 @@ vfarid/v2ray-worker
 FuelLabs/sway-farm
 heryyy/bunga-buat-gift
 misskey-dev/misskey
+LeCoupa/awesome-cheatsheets
+namdosanwannabe/be-my-valentine
