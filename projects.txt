@@ -1040,3 +1040,5 @@ misskey-dev/misskey
 LeCoupa/awesome-cheatsheets
 namdosanwannabe/be-my-valentine
 karpathy/minbpe
+byquangthanh/valentine.github.io
+picocss/pico
