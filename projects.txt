@@ -1045,3 +1045,17 @@ picocss/pico
 sampotts/plyr
 AlexxAdrian/heart_letter
 charlax/professional-programming
+chatchat-space/Langchain-Chatchat
+levihsu/OOTDiffusion
+Speykious/cve-rs
+systemdesign42/system-design
+weijunext/indie-hacker-tools
+qarmin/czkawka
+mttaggart/I-S00N
+vvbbnn00/WARP-Clash-API
+keras-team/keras
+charlax/engineering-management
+facebookresearch/DiT
+camunda/camunda-bpm-platform
+ggerganov/llama.cpp
+dunwu/linux-tutorial
