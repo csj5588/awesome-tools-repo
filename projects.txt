@@ -1061,3 +1061,6 @@ ggerganov/llama.cpp
 dunwu/linux-tutorial
 An0nUD4Y/Evilginx2-Phishlets
 Consensys/doc.zk-evm
+Nutlope/notesGPT
+reorproject/reor
+bclswl0827/ChatGemini
