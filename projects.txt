@@ -1064,3 +1064,9 @@ Consensys/doc.zk-evm
 Nutlope/notesGPT
 reorproject/reor
 bclswl0827/ChatGemini
+google/gemma_pytorch
+google/gemma.cpp
+SoraWebui/SoraWebui
+facebook/react-strict-dom
+all-in-aigc/sorafm
+FujiwaraChoki/MoneyPrinterV2
