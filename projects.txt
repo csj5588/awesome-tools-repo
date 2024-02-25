@@ -1084,3 +1084,9 @@ redleafnew/Chinese-STD-GB-T-7714-related-csl
 danni-cool/wechatbot-webhook
 maboloshi/github-chinese
 EastWorld/wechat-app-mall
+WongKinYiu/yolov9
+google-deepmind/gemma
+NoteProtocol/NoteWallet
+pytorch/pytorch
+MegaManSec/SSH-Snake
+lowRISC/opentitan
