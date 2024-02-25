@@ -1070,3 +1070,12 @@ SoraWebui/SoraWebui
 facebook/react-strict-dom
 all-in-aigc/sorafm
 FujiwaraChoki/MoneyPrinterV2
+observablehq/framework
+subsquid-quests/algebra-subgraph-migration
+QuivrHQ/quivr
+element-plus/element-plus
+total-typescript/total-typescript-book
+umijs/umi
+BabylonJS/Babylon.js
+thecodingmachine/react-native-boilerplate
+Infisical/infisical
