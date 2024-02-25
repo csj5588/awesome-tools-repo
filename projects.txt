@@ -1079,3 +1079,8 @@ umijs/umi
 BabylonJS/Babylon.js
 thecodingmachine/react-native-boilerplate
 Infisical/infisical
+yize8888/maotai
+redleafnew/Chinese-STD-GB-T-7714-related-csl
+danni-cool/wechatbot-webhook
+maboloshi/github-chinese
+EastWorld/wechat-app-mall
