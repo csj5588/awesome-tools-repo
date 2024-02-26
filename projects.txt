@@ -1091,3 +1091,10 @@ pytorch/pytorch
 MegaManSec/SSH-Snake
 lowRISC/opentitan
 adrianhajdin/ai_saas_app
+Stability-AI/generative-models
+mut-ex/gligen-gui
+Azure/PyRIT
+FuelLabs/fuel-core
+radix-vue/radix-vue
+mouredev/Hello-Python
+google/highway
