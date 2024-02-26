@@ -1090,3 +1090,4 @@ NoteProtocol/NoteWallet
 pytorch/pytorch
 MegaManSec/SSH-Snake
 lowRISC/opentitan
+adrianhajdin/ai_saas_app
