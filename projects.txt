@@ -1102,3 +1102,5 @@ catsats/backpack_exchange
 zed-industries/extensions
 ScratchAddons/ScratchAddons
 overleaf/overleaf
+massgravel/Microsoft-Activation-Scripts
+jellyfin/jellyfin
