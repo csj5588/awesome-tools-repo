@@ -1098,3 +1098,7 @@ FuelLabs/fuel-core
 radix-vue/radix-vue
 mouredev/Hello-Python
 google/highway
+catsats/backpack_exchange
+zed-industries/extensions
+ScratchAddons/ScratchAddons
+overleaf/overleaf
