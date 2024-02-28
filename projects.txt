@@ -1107,3 +1107,5 @@ jellyfin/jellyfin
 gevendra2004/gevstack
 chakra-ui/panda
 Aylur/dotfiles
+xxxily/hello-ai
+ether/etherpad-lite
