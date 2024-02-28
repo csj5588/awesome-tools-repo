@@ -1109,3 +1109,8 @@ chakra-ui/panda
 Aylur/dotfiles
 xxxily/hello-ai
 ether/etherpad-lite
+tigerbeetle/tigerbeetle
+FuelLabs/sway
+Eladlev/AutoPrompt
+FuelLabs/fuels-rs
+MDK8888/GPTFast
