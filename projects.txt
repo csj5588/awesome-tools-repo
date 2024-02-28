@@ -1105,3 +1105,5 @@ overleaf/overleaf
 massgravel/Microsoft-Activation-Scripts
 jellyfin/jellyfin
 gevendra2004/gevstack
+chakra-ui/panda
+Aylur/dotfiles
