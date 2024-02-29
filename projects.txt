@@ -1119,3 +1119,9 @@ mrzachnugent/react-native-reusables
 formkit/tempo
 Kalabasa/htmz
 GoogleChrome/chrome-extensions-samples
+pmndrs/uikit
+OpenCodeInterpreter/OpenCodeInterpreter
+taikoxyz/taiko-mono
+dockur/windows
+SciPhi-AI/R2R
+myshell-ai/MeloTTS
