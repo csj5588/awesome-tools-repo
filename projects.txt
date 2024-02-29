@@ -1117,3 +1117,5 @@ MDK8888/GPTFast
 scaffold-eth/scaffold-eth
 mrzachnugent/react-native-reusables
 formkit/tempo
+Kalabasa/htmz
+GoogleChrome/chrome-extensions-samples
