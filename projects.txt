@@ -1125,3 +1125,5 @@ taikoxyz/taiko-mono
 dockur/windows
 SciPhi-AI/R2R
 myshell-ai/MeloTTS
+Qihoo360/WatchAD2.0
+HyperPlay-Gaming/hyperplay-desktop-client
