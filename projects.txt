@@ -1130,3 +1130,6 @@ HyperPlay-Gaming/hyperplay-desktop-client
 visgl/deck.gl
 yuzu-emu/yuzu
 Netflix/bpftop
+facebook/docusaurus
+remotion-dev/remotion
+vbenjs/vue-vben-admin
