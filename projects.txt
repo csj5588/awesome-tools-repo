@@ -1134,3 +1134,6 @@ facebook/docusaurus
 remotion-dev/remotion
 vbenjs/vue-vben-admin
 cloudflare/pingora
+electric-sql/pglite
+SoraWebui/FakeSoraAPI
+jitsi/jitsi-meet
