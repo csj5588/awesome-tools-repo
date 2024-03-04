@@ -1138,3 +1138,5 @@ electric-sql/pglite
 SoraWebui/FakeSoraAPI
 jitsi/jitsi-meet
 polyfillpolyfill/polyfill-service
+vercel/ai
+alan2207/bulletproof-react
