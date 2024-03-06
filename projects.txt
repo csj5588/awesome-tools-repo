@@ -1142,3 +1142,4 @@ vercel/ai
 alan2207/bulletproof-react
 layerdiffusion/sd-forge-layerdiffusion
 openreplay/openreplay
+coder/code-server
