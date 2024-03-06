@@ -1143,3 +1143,5 @@ alan2207/bulletproof-react
 layerdiffusion/sd-forge-layerdiffusion
 openreplay/openreplay
 coder/code-server
+PKU-YuanGroup/Open-Sora-Plan
+layerdiffusion/sd-forge-layerdiffuse
