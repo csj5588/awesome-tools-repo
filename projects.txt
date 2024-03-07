@@ -1148,3 +1148,4 @@ layerdiffusion/sd-forge-layerdiffuse
 heyxyz/hey
 web3/web3.js
 toeverything/blocksuite
+Ryujinx/Ryujinx
