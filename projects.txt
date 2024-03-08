@@ -1149,3 +1149,5 @@ heyxyz/hey
 web3/web3.js
 toeverything/blocksuite
 Ryujinx/Ryujinx
+vuejs/language-tools
+pure-admin/pure-admin-thin
