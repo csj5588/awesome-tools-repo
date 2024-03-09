@@ -1152,3 +1152,4 @@ Ryujinx/Ryujinx
 vuejs/language-tools
 pure-admin/pure-admin-thin
 redis/ioredis
+yjs/yjs
