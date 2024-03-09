@@ -1151,3 +1151,4 @@ toeverything/blocksuite
 Ryujinx/Ryujinx
 vuejs/language-tools
 pure-admin/pure-admin-thin
+redis/ioredis
