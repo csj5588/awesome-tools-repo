@@ -1160,3 +1160,7 @@ QwenLM/Qwen-Agent
 google/maxtext
 rmusser01/Infosec_Reference
 ente-io/ente
+plankanban/planka
+handsontable/handsontable
+polyfillpolyfill/fetch
+polyfillpolyfill/polyfill-library
