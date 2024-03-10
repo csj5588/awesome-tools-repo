@@ -1164,3 +1164,4 @@ plankanban/planka
 handsontable/handsontable
 polyfillpolyfill/fetch
 polyfillpolyfill/polyfill-library
+hpcaitech/Open-Sora
