@@ -1165,3 +1165,4 @@ handsontable/handsontable
 polyfillpolyfill/fetch
 polyfillpolyfill/polyfill-library
 hpcaitech/Open-Sora
+McShelby/hugo-theme-relearn
