@@ -1167,3 +1167,15 @@ polyfillpolyfill/polyfill-library
 hpcaitech/Open-Sora
 McShelby/hugo-theme-relearn
 webpack/webpack
+rolldown/rolldown
+OpenAccess-AI-Collective/axolotl
+Vahe1994/AQLM
+hatchet-dev/hatchet
+cuixueshe/earthworm
+anthropics/anthropic-cookbook
+appwrite/appwrite
+AnswerDotAI/fsdp_qlora
+spring-office-hours/resources-learning-spring
+Deeptrain-Community/chatnio
+Fanghua-Yu/SUPIR
+ixartz/Next-js-Boilerplate
