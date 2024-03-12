@@ -1181,3 +1181,5 @@ Fanghua-Yu/SUPIR
 ixartz/Next-js-Boilerplate
 cooderl/wewe-rss
 marcusGoncalvess/zap-gpt
+adrianhajdin/brainwave
+BlueWallet/BlueWallet
