@@ -1183,3 +1183,5 @@ cooderl/wewe-rss
 marcusGoncalvess/zap-gpt
 adrianhajdin/brainwave
 BlueWallet/BlueWallet
+PaperMC/Paper
+rust-lang/rust
