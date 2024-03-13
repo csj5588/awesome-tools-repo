@@ -1185,3 +1185,5 @@ adrianhajdin/brainwave
 BlueWallet/BlueWallet
 PaperMC/Paper
 rust-lang/rust
+hickeng/financial
+HeyPuter/puter
