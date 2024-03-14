@@ -1195,3 +1195,5 @@ fr0gger/Awesome-GPT-Agents
 ScoopInstaller/Main
 electron/electron
 doocs/source-code-hunter
+shuhongfan/sl-express
+datawhalechina/hugging-multi-agent
