@@ -1212,3 +1212,8 @@ curl/curl
 01-ai/Yi
 jacoblee93/fully-local-pdf-chatbot
 lionsoul2014/ip2region
+mickael-kerjean/filestash
+xxxily/h5player
+rollup/rollup
+NodeBB/NodeBB
+scutan90/DeepLearning-500-questions
