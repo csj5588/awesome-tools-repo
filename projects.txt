@@ -1226,3 +1226,11 @@ fingerprintjs/fingerprintjs
 youzan/vant
 meetqy/aspoem
 foxglove/studio
+NanmiCoder/MediaCrawler
+slint-ui/slint
+wasmerio/winterjs
+Unity-Technologies/megacity-metro
+Skyvern-AI/skyvern
+said7388/developer-portfolio
+google/googletest
+redis/go-redis
