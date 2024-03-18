@@ -1240,3 +1240,5 @@ open-ibc/ibc-app-solidity-template
 tabler/tabler-icons
 UnblockNeteaseMusic/server
 solotop999/auto_trade_backpack_exchange
+amazon-science/chronos-forecasting
+facefusion/facefusion
