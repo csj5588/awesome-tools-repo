@@ -1234,3 +1234,5 @@ Skyvern-AI/skyvern
 said7388/developer-portfolio
 google/googletest
 redis/go-redis
+fdundjer/solana-sniper-bot
+OI-wiki/OI-wiki
