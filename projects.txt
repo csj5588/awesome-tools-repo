@@ -1246,3 +1246,4 @@ aws-samples/bedrock-claude-chat
 ant-design/ant-design-mobile
 unjs/h3
 polywrap/evo.ninja
+BingyanStudio/LapisCV
