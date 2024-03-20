@@ -1247,3 +1247,6 @@ ant-design/ant-design-mobile
 unjs/h3
 polywrap/evo.ninja
 BingyanStudio/LapisCV
+scalar/scalar
+aidenybai/million
+NomicFoundation/hardhat
