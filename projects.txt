@@ -1258,3 +1258,11 @@ ZYYO666/homepage
 superagent-ai/superagent
 vercel/ai-chatbot
 egonSchiele/grokking_algorithms
+discord/embedded-app-sdk
+TheMMC/In-Place_Upgrade_Helper
+ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO
+laylavish/uBlockOrigin-HUGE-AI-Blocklist
+xyflow/xyflow
+nf-core/modules
+zylon-ai/private-gpt
+mealie-recipes/mealie
