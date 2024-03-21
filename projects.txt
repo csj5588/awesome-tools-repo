@@ -1255,3 +1255,5 @@ electerm/electerm
 xai-org/grok-1
 roboflow/supervision
 ZYYO666/homepage
+superagent-ai/superagent
+vercel/ai-chatbot
