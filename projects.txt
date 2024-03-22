@@ -1267,3 +1267,5 @@ nf-core/modules
 zylon-ai/private-gpt
 mealie-recipes/mealie
 adobe-fonts/source-code-pro
+wekan/wekan
+huanghanzhilian/c-shopping
