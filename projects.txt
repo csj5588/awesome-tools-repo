@@ -1279,3 +1279,4 @@ dotnet-smartcomponents/smartcomponents
 yesmore/vmail
 luijait/DarkGPT
 firebase/firebase-ios-sdk
+patrickloeber/chatbot-deployment
