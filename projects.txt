@@ -1285,3 +1285,4 @@ vuestorefront/vue-storefront
 putyy/res-downloader
 oldboyxx/jira_clone
 huggingface/transformers
+LibNyanpasu/clash-nyanpasu
