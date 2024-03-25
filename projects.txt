@@ -1289,3 +1289,5 @@ LibNyanpasu/clash-nyanpasu
 stitionai/devika
 OpenInterpreter/01
 OpenInterpreter/open-interpreter
+pretzelai/pretzelai
+raydium-io/raydium-sdk
