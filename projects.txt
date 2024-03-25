@@ -1291,3 +1291,5 @@ OpenInterpreter/01
 OpenInterpreter/open-interpreter
 pretzelai/pretzelai
 raydium-io/raydium-sdk
+huanghanzhilian/c-shopping-rn
+cmliu/WorkerVless2sub
