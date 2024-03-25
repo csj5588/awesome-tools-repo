@@ -1293,3 +1293,5 @@ pretzelai/pretzelai
 raydium-io/raydium-sdk
 huanghanzhilian/c-shopping-rn
 cmliu/WorkerVless2sub
+face-hh/griddycode
+harry0703/MoneyPrinterTurbo
