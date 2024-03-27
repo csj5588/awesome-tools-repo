@@ -1298,3 +1298,7 @@ harry0703/MoneyPrinterTurbo
 linkwarden/linkwarden
 aprxi/letsbuild-ai
 adrianhajdin/iphone
+OpenDevin/OpenDevin
+aishwaryanr/awesome-generative-ai-guide
+semanser/codel
+jasonppy/VoiceCraft
