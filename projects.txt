@@ -1296,3 +1296,4 @@ cmliu/WorkerVless2sub
 face-hh/griddycode
 harry0703/MoneyPrinterTurbo
 linkwarden/linkwarden
+aprxi/letsbuild-ai
