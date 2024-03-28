@@ -1304,3 +1304,5 @@ semanser/codel
 jasonppy/VoiceCraft
 emilkowalski/vaul
 grafana/grafana
+pt-plugins/PT-Plugin-Plus
+smallfawn/QLScriptPublic
