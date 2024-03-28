@@ -1302,3 +1302,5 @@ OpenDevin/OpenDevin
 aishwaryanr/awesome-generative-ai-guide
 semanser/codel
 jasonppy/VoiceCraft
+emilkowalski/vaul
+grafana/grafana
