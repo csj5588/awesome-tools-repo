@@ -1312,3 +1312,4 @@ actions/starter-workflows
 sst/ion
 buqiyuan/vue3-antdv-admin
 jayofelony/pwnagotchi
+langchain-ai/langchain-extract
