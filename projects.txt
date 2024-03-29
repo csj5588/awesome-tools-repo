@@ -1307,3 +1307,7 @@ grafana/grafana
 pt-plugins/PT-Plugin-Plus
 smallfawn/QLScriptPublic
 fudan-generative-vision/champ
+soybeanjs/soybean-admin
+actions/starter-workflows
+sst/ion
+buqiyuan/vue3-antdv-admin
