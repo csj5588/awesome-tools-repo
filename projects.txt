@@ -1319,3 +1319,7 @@ midday-ai/midday
 tailwindlabs/tailwindcss
 Superalgos/Superalgos
 mkkellogg/GaussianSplats3D
+Zejun-Yang/AniPortrait
+databricks/dbrx
+valkey-io/valkey
+developersdigest/llm-answer-engine
