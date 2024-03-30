@@ -1317,3 +1317,5 @@ refact0r/midnight-discord
 snipe-it-com/solana-sniper-bot
 midday-ai/midday
 tailwindlabs/tailwindcss
+Superalgos/Superalgos
+mkkellogg/GaussianSplats3D
