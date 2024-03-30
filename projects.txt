@@ -1314,3 +1314,6 @@ buqiyuan/vue3-antdv-admin
 jayofelony/pwnagotchi
 langchain-ai/langchain-extract
 refact0r/midnight-discord
+snipe-it-com/solana-sniper-bot
+midday-ai/midday
+tailwindlabs/tailwindcss
