@@ -1327,3 +1327,17 @@ remix-run/react-router
 elastic/kibana
 getumbrel/umbrel
 lidangzzz/How-to-run
+agiresearch/AIOS
+tiangolo/typer
+DioxusLabs/dioxus
+iv-org/invidious
+TMElyralab/MuseV
+adrianhajdin/zoom-clone
+OpenBMB/ChatDev
+btcpayserver/btcpayserver
+Atlas-OS/Atlas
+ReVanced/revanced-patches
+modularml/mojo
+RVC-Project/Retrieval-based-Voice-Conversion-WebUI
+helix-editor/helix
+jagrosh/MusicBot
