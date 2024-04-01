@@ -1325,3 +1325,5 @@ valkey-io/valkey
 developersdigest/llm-answer-engine
 remix-run/react-router
 elastic/kibana
+getumbrel/umbrel
+lidangzzz/How-to-run
