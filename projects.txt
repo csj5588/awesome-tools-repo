@@ -1352,3 +1352,8 @@ MsLolita/grass
 TencentARC/BrushNet
 LizardByte/Sunshine
 sympy/sympy
+LLM-Red-Team/kimi-free-api
+wevm/viem
+WalletConnect/web3modal
+pixijs/pixijs
+reactjs/react.dev
