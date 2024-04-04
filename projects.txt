@@ -1362,3 +1362,4 @@ halfrost/LeetCode-Go
 dvlab-research/MiniGemini
 billmei/every-chatgpt-gui
 city-super/Octree-GS
+TracecatHQ/tracecat
