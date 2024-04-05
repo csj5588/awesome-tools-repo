@@ -1364,3 +1364,8 @@ billmei/every-chatgpt-gui
 city-super/Octree-GS
 TracecatHQ/tracecat
 amlweems/xzbot
+princeton-nlp/SWE-agent
+zyronon/douyin
+intel-analytics/ipex-llm
+infiniflow/ragflow
+rocketseat-education/nlw-unite-nodejs
