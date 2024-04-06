@@ -1369,3 +1369,4 @@ zyronon/douyin
 intel-analytics/ipex-llm
 infiniflow/ragflow
 rocketseat-education/nlw-unite-nodejs
+logspace-ai/langflow
