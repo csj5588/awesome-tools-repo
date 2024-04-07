@@ -1372,3 +1372,4 @@ rocketseat-education/nlw-unite-nodejs
 logspace-ai/langflow
 plandex-ai/plandex
 mehmetkahya0/temp-mail
+nukeop/nuclear
