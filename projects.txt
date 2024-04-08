@@ -1375,3 +1375,5 @@ mehmetkahya0/temp-mail
 nukeop/nuclear
 yandex-praktikum/ono-tebe-nado
 HerbertHe/iptv-sources
+orkestral/venom
+naptha/tesseract.js
