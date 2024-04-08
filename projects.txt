@@ -1373,3 +1373,4 @@ logspace-ai/langflow
 plandex-ai/plandex
 mehmetkahya0/temp-mail
 nukeop/nuclear
+yandex-praktikum/ono-tebe-nado
