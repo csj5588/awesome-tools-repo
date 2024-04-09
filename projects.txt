@@ -1382,3 +1382,5 @@ winglang/wing
 PawanOsman/ChatGPT
 langflow-ai/langflow
 canove/whaticket-community
+nashsu/FreeAskInternet
+FoundationVision/VAR
