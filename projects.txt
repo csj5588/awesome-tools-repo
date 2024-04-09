@@ -1380,3 +1380,5 @@ naptha/tesseract.js
 vinceliuice/Orchis-theme
 winglang/wing
 PawanOsman/ChatGPT
+langflow-ai/langflow
+canove/whaticket-community
