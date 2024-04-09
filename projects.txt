@@ -1378,3 +1378,5 @@ HerbertHe/iptv-sources
 orkestral/venom
 naptha/tesseract.js
 vinceliuice/Orchis-theme
+winglang/wing
+PawanOsman/ChatGPT
