@@ -1385,3 +1385,6 @@ canove/whaticket-community
 nashsu/FreeAskInternet
 FoundationVision/VAR
 rishabhnmishra/Portfolio-Website-Template
+proposal-signals/proposal-signals
+drizzle-team/drizzle-orm
+actions/setup-node
