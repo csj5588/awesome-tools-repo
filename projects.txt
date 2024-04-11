@@ -1390,3 +1390,5 @@ drizzle-team/drizzle-orm
 actions/setup-node
 IsmaelMartinez/teams-for-linux
 drawdb-io/drawdb
+jamiebuilds/the-super-tiny-compiler
+google/zx
