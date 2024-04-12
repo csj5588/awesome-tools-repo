@@ -1393,3 +1393,6 @@ drawdb-io/drawdb
 jamiebuilds/the-super-tiny-compiler
 google/zx
 saucelabs/the-internet
+missuo/FreeGPT35
+pmndrs/drei
+monkeyWie/gopeed-extension-baiduwp
