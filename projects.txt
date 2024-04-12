@@ -1396,3 +1396,10 @@ saucelabs/the-internet
 missuo/FreeGPT35
 pmndrs/drei
 monkeyWie/gopeed-extension-baiduwp
+karpathy/llm.c
+miurla/morphic
+karpathy/llama2.c
+nus-apr/auto-code-rover
+1c7/chinese-independent-developer
+liguodongiot/llm-action
+tidwall/neco
