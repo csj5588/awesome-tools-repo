@@ -1403,3 +1403,5 @@ nus-apr/auto-code-rover
 1c7/chinese-independent-developer
 liguodongiot/llm-action
 tidwall/neco
+tc39/proposal-signals
+ixartz/SaaS-Boilerplate
