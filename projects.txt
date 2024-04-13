@@ -1405,3 +1405,10 @@ liguodongiot/llm-action
 tidwall/neco
 tc39/proposal-signals
 ixartz/SaaS-Boilerplate
+aixcoder-plugin/aiXcoder-7B
+PabloMK7/citra
+YuriiCrimson/ExploitGSM
+datawhalechina/self-llm
+paul-gauthier/aider
+google-gemini/cookbook
+PKU-YuanGroup/MagicTime
