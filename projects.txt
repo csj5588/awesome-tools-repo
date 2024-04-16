@@ -1417,3 +1417,12 @@ huggingface/parler-tts
 itsmattkc/dotnet9x
 stanford-oval/storm
 reduxjs/redux-essentials-example-app
+ggerganov/whisper.cpp
+TheAlgorithms/Python
+tonyke-bot/ore-miner
+jina-ai/reader
+datawhalechina/llm-universe
+GitHubDaily/GitHubDaily
+OpenBMB/MiniCPM-V
+RPCS3/rpcs3
+hydralauncher/hydra
