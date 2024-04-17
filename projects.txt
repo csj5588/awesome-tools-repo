@@ -1426,3 +1426,10 @@ GitHubDaily/GitHubDaily
 OpenBMB/MiniCPM-V
 RPCS3/rpcs3
 hydralauncher/hydra
+1Panel-dev/MaxKB
+GraphiteEditor/Graphite
+skydoves/pokedex-compose
+goharbor/harbor
+intuitem/ciso-assistant-community
+pointfreeco/swift-composable-architecture
+bitnami/containers
