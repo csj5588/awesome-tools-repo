@@ -1433,3 +1433,13 @@ goharbor/harbor
 intuitem/ciso-assistant-community
 pointfreeco/swift-composable-architecture
 bitnami/containers
+binary-husky/gpt_academic
+elastic/otel-profiling-agent
+Julien-cpsn/ATAC
+kevinbentley/Descent3
+figma/code-connect
+airbnb/lottie-ios
+apache/paimon
+qiye45/wechatDownload
+OpenTalker/SadTalker
+esphome/esphome
