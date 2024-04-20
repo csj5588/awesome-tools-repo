@@ -1443,3 +1443,13 @@ apache/paimon
 qiye45/wechatDownload
 OpenTalker/SadTalker
 esphome/esphome
+pytorch/torchtune
+rileytestut/Delta
+meta-llama/PurpleLlama
+WINSDK/bite
+amalshaji/portr
+meta-llama/codellama
+mendableai/firecrawl
+typst/typst
+MakiNaruto/Automatic_ticket_purchase
+facebookresearch/llm-transparency-tool
