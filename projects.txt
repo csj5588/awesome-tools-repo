@@ -1456,3 +1456,8 @@ facebookresearch/llm-transparency-tool
 ckeditor/ckeditor5
 franceking1/Flash-Md
 bia-pain-bache/BPB-Worker-Panel
+meta-llama/llama3
+code100x/chess
+meta-llama/llama-recipes
+sugarforever/chat-ollama
+meta-llama/llama
