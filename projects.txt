@@ -1462,3 +1462,6 @@ meta-llama/llama-recipes
 sugarforever/chat-ollama
 meta-llama/llama
 nasa/openmct
+mudler/LocalAI
+moest-np/center-randomize
+ziglang/zig
