@@ -1466,3 +1466,7 @@ mudler/LocalAI
 moest-np/center-randomize
 ziglang/zig
 UseInterstellar/Interstellar
+Aikoyori/ProgrammingVTuberLogos
+open-webui/open-webui
+hiyouga/LLaMA-Factory
+sadmann7/shadcn-table
