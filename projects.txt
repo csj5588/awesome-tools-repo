@@ -1470,3 +1470,9 @@ Aikoyori/ProgrammingVTuberLogos
 open-webui/open-webui
 hiyouga/LLaMA-Factory
 sadmann7/shadcn-table
+Dhravya/supermemory
+Vencord/Vesktop
+nextui-org/nextui
+Effect-TS/effect
+openstatusHQ/openstatus
+google-gemini/generative-ai-js
