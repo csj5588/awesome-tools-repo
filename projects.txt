@@ -1476,3 +1476,9 @@ nextui-org/nextui
 Effect-TS/effect
 openstatusHQ/openstatus
 google-gemini/generative-ai-js
+ntdevlabs/tiny11builder
+LlamaFamily/Llama-Chinese
+CrazyBoyM/llama3-Chinese-chat
+mishushakov/llm-scraper
+HqWu-HITCS/Awesome-Chinese-LLM
+unslothai/unsloth
