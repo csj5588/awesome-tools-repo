@@ -1482,3 +1482,4 @@ CrazyBoyM/llama3-Chinese-chat
 mishushakov/llm-scraper
 HqWu-HITCS/Awesome-Chinese-LLM
 unslothai/unsloth
+CyanVoxel/Obsidian-Colored-Sidebar
