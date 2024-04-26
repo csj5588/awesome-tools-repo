@@ -1484,3 +1484,5 @@ HqWu-HITCS/Awesome-Chinese-LLM
 unslothai/unsloth
 CyanVoxel/Obsidian-Colored-Sidebar
 adrianhajdin/aora
+digitalinnovationone/dio-lab-open-source
+CyanVoxel/TagStudio
