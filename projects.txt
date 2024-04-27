@@ -1487,3 +1487,17 @@ adrianhajdin/aora
 digitalinnovationone/dio-lab-open-source
 CyanVoxel/TagStudio
 mempool/mempool
+apple/corenet
+SAWARATSUKI/ServiceLogos
+cohere-ai/cohere-toolkit
+TagStudioDev/TagStudio
+zk-Call/zkp-hmac-communication-js
+Doriandarko/maestro
+McGill-NLP/webllama
+iperov/DeepFaceLive
+apache/seatunnel
+ml-explore/mlx-swift-examples
+github-copilot-resources/copilot-metrics-viewer
+Profluent-AI/OpenCRISPR
+xelis-project/xelis-blockchain
+yisol/IDM-VTON
