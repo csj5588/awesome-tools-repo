@@ -1502,3 +1502,5 @@ Profluent-AI/OpenCRISPR
 xelis-project/xelis-blockchain
 yisol/IDM-VTON
 atlassian/pragmatic-drag-and-drop
+replicate/llama-chat
+timpaul/form-extractor-prototype
