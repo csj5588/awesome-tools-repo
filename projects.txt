@@ -1504,3 +1504,10 @@ yisol/IDM-VTON
 atlassian/pragmatic-drag-and-drop
 replicate/llama-chat
 timpaul/form-extractor-prototype
+adam-maj/tiny-gpu
+microsoft/MS-DOS
+chat2db/Chat2DB
+EricLBuehler/mistral.rs
+academic/awesome-datascience
+KingsGambitLab/Lecture_Notes
+TheCod3rYouTube/PS5NorModifier
