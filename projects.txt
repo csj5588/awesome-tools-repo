@@ -1511,3 +1511,4 @@ EricLBuehler/mistral.rs
 academic/awesome-datascience
 KingsGambitLab/Lecture_Notes
 TheCod3rYouTube/PS5NorModifier
+mui/mui-x
