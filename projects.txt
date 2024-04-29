@@ -1512,3 +1512,9 @@ academic/awesome-datascience
 KingsGambitLab/Lecture_Notes
 TheCod3rYouTube/PS5NorModifier
 mui/mui-x
+pytorch/torchtitan
+plaintextpackets/netprobe_lite
+dcharatan/flowmap
+SerenityOS/serenity
+yuliskov/SmartTube
+lapce/lapce
