@@ -1518,3 +1518,5 @@ dcharatan/flowmap
 SerenityOS/serenity
 yuliskov/SmartTube
 lapce/lapce
+latentcat/latentbox
+run-llama/create-llama
