@@ -1524,3 +1524,5 @@ chartjs/Chart.js
 SortableJS/Sortable
 Misaka-blog/cf-wkrs-pages-vless
 archtaurus/RetroPieBIOS
+truefoundry/cognita
+LukeMathWalker/zero-to-production
