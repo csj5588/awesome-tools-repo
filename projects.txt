@@ -1520,3 +1520,7 @@ yuliskov/SmartTube
 lapce/lapce
 latentcat/latentbox
 run-llama/create-llama
+chartjs/Chart.js
+SortableJS/Sortable
+Misaka-blog/cf-wkrs-pages-vless
+archtaurus/RetroPieBIOS
