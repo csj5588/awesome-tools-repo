@@ -1529,3 +1529,12 @@ LukeMathWalker/zero-to-production
 balena-io/etcher
 measuredco/puck
 h5bp/html5-boilerplate
+ItzCrazyKns/Perplexica
+Kludex/fastapi-tips
+zk-Call/zkp-hmac-communication-python
+xlang-ai/OSWorld
+obhq/jailbreak-11
+Azure/azure-sdk-for-net
+rejunity/z80-open-silicon
+JackAILab/ConsistentID
+module-federation/core
