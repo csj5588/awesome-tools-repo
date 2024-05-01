@@ -1526,3 +1526,5 @@ Misaka-blog/cf-wkrs-pages-vless
 archtaurus/RetroPieBIOS
 truefoundry/cognita
 LukeMathWalker/zero-to-production
+balena-io/etcher
+measuredco/puck
