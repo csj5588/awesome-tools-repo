@@ -1538,3 +1538,5 @@ Azure/azure-sdk-for-net
 rejunity/z80-open-silicon
 JackAILab/ConsistentID
 module-federation/core
+catdad/canvas-confetti
+ErickWendel/parallelizing-nodejs-ops
