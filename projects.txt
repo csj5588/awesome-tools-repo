@@ -1541,3 +1541,8 @@ module-federation/core
 catdad/canvas-confetti
 ErickWendel/parallelizing-nodejs-ops
 documenso/documenso
+dnhkng/GlaDOS
+TheOfficialFloW/PPPwn
+fastfetch-cli/fastfetch
+coollabsio/coolify
+dylanaraps/neofetch
