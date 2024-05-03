@@ -1540,3 +1540,4 @@ JackAILab/ConsistentID
 module-federation/core
 catdad/canvas-confetti
 ErickWendel/parallelizing-nodejs-ops
+documenso/documenso
