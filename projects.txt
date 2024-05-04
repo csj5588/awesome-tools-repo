@@ -1546,3 +1546,5 @@ TheOfficialFloW/PPPwn
 fastfetch-cli/fastfetch
 coollabsio/coolify
 dylanaraps/neofetch
+KindXiaoming/pykan
+espeak-ng/espeak-ng
