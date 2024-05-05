@@ -1548,3 +1548,5 @@ coollabsio/coolify
 dylanaraps/neofetch
 KindXiaoming/pykan
 espeak-ng/espeak-ng
+is-a-dev/register
+TacoGuy21/Greatsword-V3
