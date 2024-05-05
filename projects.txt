@@ -1550,3 +1550,9 @@ KindXiaoming/pykan
 espeak-ng/espeak-ng
 is-a-dev/register
 TacoGuy21/Greatsword-V3
+adrianhajdin/banking
+IvanGlinkin/CCTV
+verlab/accelerated_features
+pytorch/executorch
+novuhq/novu
+mantinedev/mantine
