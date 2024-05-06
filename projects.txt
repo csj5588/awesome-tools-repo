@@ -1556,3 +1556,14 @@ verlab/accelerated_features
 pytorch/executorch
 novuhq/novu
 mantinedev/mantine
+xM4ddy/OFGB
+Blealtan/efficient-kan
+lmstudio-ai/lms
+solana-labs/solana
+pydantic/logfire
+HVision-NKU/StoryDiffusion
+huggingface/candle
+MaaAssistantArknights/MaaAssistantArknights
+cpacker/MemGPT
+Universidade-Livre/ciencia-da-computacao
+tokio-rs/axum
