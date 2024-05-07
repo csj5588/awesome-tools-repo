@@ -1567,3 +1567,5 @@ MaaAssistantArknights/MaaAssistantArknights
 cpacker/MemGPT
 Universidade-Livre/ciencia-da-computacao
 tokio-rs/axum
+yokoffing/Betterfox
+prabathLK/PRABATH-MD
