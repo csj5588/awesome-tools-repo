@@ -1569,3 +1569,8 @@ Universidade-Livre/ciencia-da-computacao
 tokio-rs/axum
 yokoffing/Betterfox
 prabathLK/PRABATH-MD
+dev-xo/remix-saas
+abi/secret-llama
+bepass-org/oblivion-desktop
+lencx/ChatGPT
+VinciGit00/Scrapegraph-ai
