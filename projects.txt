@@ -1574,3 +1574,10 @@ abi/secret-llama
 bepass-org/oblivion-desktop
 lencx/ChatGPT
 VinciGit00/Scrapegraph-ai
+AtotheY/saas-landingpage
+assafelovic/gpt-researcher
+tangzhiyao/boss-show-time
+apache/dolphinscheduler
+ca110us/epeius
+DataTalksClub/llm-zoomcamp
+StarRocks/starrocks
