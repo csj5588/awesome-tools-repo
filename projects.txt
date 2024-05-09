@@ -1582,3 +1582,9 @@ ca110us/epeius
 DataTalksClub/llm-zoomcamp
 StarRocks/starrocks
 tobychui/zoraxy
+huggingface/lerobot
+hbb1/2d-gaussian-splatting
+IcarusRyy/NewJob
+gabime/spdlog
+DataTalksClub/mlops-zoomcamp
+cloudwu/skynet
