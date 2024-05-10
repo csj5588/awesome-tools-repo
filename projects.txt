@@ -1588,3 +1588,5 @@ IcarusRyy/NewJob
 gabime/spdlog
 DataTalksClub/mlops-zoomcamp
 cloudwu/skynet
+pagefaultgames/pokerogue
+Dokploy/dokploy
