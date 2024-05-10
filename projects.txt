@@ -1591,3 +1591,6 @@ cloudwu/skynet
 pagefaultgames/pokerogue
 Dokploy/dokploy
 select2/select2
+phenaproxima/starshot-prototype
+FunkinCrew/Funkin
+AdityaNG/kan-gpt
