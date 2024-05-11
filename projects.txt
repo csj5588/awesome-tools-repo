@@ -1595,3 +1595,5 @@ phenaproxima/starshot-prototype
 FunkinCrew/Funkin
 AdityaNG/kan-gpt
 Zproger/bspwm-dotfiles
+openai/openai-assistants-quickstart
+cs-lazy-tools/ChatGPT-On-CS
