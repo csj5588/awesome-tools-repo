@@ -1598,3 +1598,5 @@ Zproger/bspwm-dotfiles
 openai/openai-assistants-quickstart
 cs-lazy-tools/ChatGPT-On-CS
 koodo-reader/koodo-reader
+CorentinTh/it-tools
+lllyasviel/IC-Light
