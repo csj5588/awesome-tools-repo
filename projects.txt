@@ -1594,3 +1594,4 @@ select2/select2
 phenaproxima/starshot-prototype
 FunkinCrew/Funkin
 AdityaNG/kan-gpt
+Zproger/bspwm-dotfiles
