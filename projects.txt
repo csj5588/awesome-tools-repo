@@ -1601,3 +1601,7 @@ koodo-reader/koodo-reader
 CorentinTh/it-tools
 lllyasviel/IC-Light
 atisawd/boxicons
+anyproto/anytype-ts
+Hiram-Wong/ZyPlayer
+callstack/react-native-paper
+invoke-ai/InvokeAI
