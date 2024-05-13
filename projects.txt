@@ -1607,3 +1607,5 @@ callstack/react-native-paper
 invoke-ai/InvokeAI
 yonggekkk/Cloudflare_vless_trojan
 SOS-RS/backend
+artsyfriedchicken/EdgyArc-fr
+TryGhost/Casper
