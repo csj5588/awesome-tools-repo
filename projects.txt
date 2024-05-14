@@ -1612,3 +1612,8 @@ TryGhost/Casper
 anuragdevnath/Portfolio
 isocpp/CppCoreGuidelines
 bitwarden/clients
+Mr-Wiseguy/N64Recomp
+Mr-Wiseguy/Zelda64Recomp
+rt64/rt64
+glanceapp/glance
+mustafaaljadery/gemma-2B-10M
