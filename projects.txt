@@ -1617,3 +1617,4 @@ Mr-Wiseguy/Zelda64Recomp
 rt64/rt64
 glanceapp/glance
 mustafaaljadery/gemma-2B-10M
+moveit/moveit2_tutorials
