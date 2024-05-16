@@ -1621,3 +1621,5 @@ moveit/moveit2_tutorials
 joschan21/casecobra
 CesiumGS/cesium
 linyiLYi/bilibot
+baptisteArno/typebot.io
+CapSoftware/Cap
