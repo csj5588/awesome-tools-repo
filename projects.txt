@@ -1624,3 +1624,11 @@ linyiLYi/bilibot
 baptisteArno/typebot.io
 CapSoftware/Cap
 jellyfin/jellyfin-web
+HazyResearch/ThunderKittens
+fishaudio/fish-speech
+BasedHardware/OpenGlass
+dependabot/dependabot-core
+pipecat-ai/pipecat
+openai/tiktoken
+Alpha-VLLM/Lumina-T2X
+elastic/elasticsearch
