@@ -1623,3 +1623,4 @@ CesiumGS/cesium
 linyiLYi/bilibot
 baptisteArno/typebot.io
 CapSoftware/Cap
+jellyfin/jellyfin-web
