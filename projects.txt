@@ -1634,3 +1634,10 @@ Alpha-VLLM/Lumina-T2X
 elastic/elasticsearch
 rustx-labs/effective-rust-cn
 mattermost/mattermost
+controlpaths/hackbat
+andydunstall/piko
+Tencent/HunyuanDiT
+android/kotlin-multiplatform-samples
+OpenGVLab/InternVL
+zhayujie/chatgpt-on-wechat
+openai/openai-cookbook
