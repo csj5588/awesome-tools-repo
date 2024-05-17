@@ -1632,3 +1632,4 @@ pipecat-ai/pipecat
 openai/tiktoken
 Alpha-VLLM/Lumina-T2X
 elastic/elasticsearch
+rustx-labs/effective-rust-cn
