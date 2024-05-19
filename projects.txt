@@ -1646,3 +1646,6 @@ BuilderIO/mitosis
 likejazz/llama3.np
 tegonhq/tegon
 taskforcesh/bullmq
+HigherOrderCO/HVM
+neovim/neovim
+HigherOrderCO/Bend
