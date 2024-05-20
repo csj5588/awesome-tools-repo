@@ -1650,3 +1650,8 @@ HigherOrderCO/HVM
 neovim/neovim
 HigherOrderCO/Bend
 Suchitra-Sahoo/AgriLearnNetwork
+adrianhajdin/portfolio
+iluwatar/java-design-patterns
+mainmatter/100-exercises-to-learn-rust
+extrawurst/gitui
+rashadphz/farfalle
