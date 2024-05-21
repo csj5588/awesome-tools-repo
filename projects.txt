@@ -1655,3 +1655,7 @@ iluwatar/java-design-patterns
 mainmatter/100-exercises-to-learn-rust
 extrawurst/gitui
 rashadphz/farfalle
+zalando/restful-api-guidelines
+HimanshuNarware/CareerZunction_Intern
+piug-07/blogzen-OpenSource
+CSEdgeOfficial/learn.csedge.courses
