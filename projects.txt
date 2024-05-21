@@ -1659,3 +1659,4 @@ zalando/restful-api-guidelines
 HimanshuNarware/CareerZunction_Intern
 piug-07/blogzen-OpenSource
 CSEdgeOfficial/learn.csedge.courses
+SOS-RS/frontend
