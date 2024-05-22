@@ -1661,3 +1661,14 @@ piug-07/blogzen-OpenSource
 CSEdgeOfficial/learn.csedge.courses
 SOS-RS/frontend
 Anishkagupta04/RAPIDOC-HEALTHCARE-WEBSITE-
+KAYOKG/BibliotecaDev
+naklecha/llama3-from-scratch
+entropy-research/Devon
+AI4Finance-Foundation/FinGPT
+folke/tokyonight.nvim
+ventoy/Ventoy
+ZCShou/GoGoGo
+ngc660sec/NGCBot
+Raphire/Win11Debloat
+BlackINT3/OpenArk
+LLMBook-zh/LLMBook-zh.github.io
