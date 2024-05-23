@@ -1675,3 +1675,11 @@ LLMBook-zh/LLMBook-zh.github.io
 Canner/WrenAI
 kysely-org/kysely
 EvolutionAPI/evolution-api
+it-ebooks-0/geektime-books
+amalmurali47/git_rce
+Codium-ai/cover-agent
+THUDM/CogVLM2
+hudy9x/namviek
+gothinkster/realworld
+khoj-ai/khoj
+weaviate/Verba
