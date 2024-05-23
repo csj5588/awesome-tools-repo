@@ -1672,3 +1672,6 @@ ngc660sec/NGCBot
 Raphire/Win11Debloat
 BlackINT3/OpenArk
 LLMBook-zh/LLMBook-zh.github.io
+Canner/WrenAI
+kysely-org/kysely
+EvolutionAPI/evolution-api
