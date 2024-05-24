@@ -1683,3 +1683,9 @@ hudy9x/namviek
 gothinkster/realworld
 khoj-ai/khoj
 weaviate/Verba
+JetBrains/kotlin
+psf/requests
+microsoft/Phi-3CookBook
+folke/ts-comments.nvim
+triton-lang/triton
+solidjs/solid-start
