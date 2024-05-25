@@ -1692,3 +1692,6 @@ solidjs/solid-start
 nkzw-tech/athena-crisis
 GrapesJS/grapesjs
 visgl/react-google-maps
+Admiral-Billy/Pokerogue-App
+fishjar/kiss-translator
+google-ai-edge/model-explorer
