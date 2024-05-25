@@ -1695,3 +1695,12 @@ visgl/react-google-maps
 Admiral-Billy/Pokerogue-App
 fishjar/kiss-translator
 google-ai-edge/model-explorer
+Ph0enixKM/Amber
+nucleuscloud/neosync
+vulhub/vulhub
+foolstack-omg/block-tech-sharing
+CADmium-Co/CADmium
+6677-ai/tap4-ai-webui
+modelscope/swift
+searxng/searxng
+astral-sh/ruff
