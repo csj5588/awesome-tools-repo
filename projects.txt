@@ -1704,3 +1704,10 @@ CADmium-Co/CADmium
 modelscope/swift
 searxng/searxng
 astral-sh/ruff
+DataExpert-io/data-engineer-handbook
+lvgl/lvgl
+apache/flink-cdc
+chiteroman/PlayIntegrityFix
+W01fh4cker/CVE-2024-21683-RCE
+ragapp/ragapp
+dotnet/aspire
