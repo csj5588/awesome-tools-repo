@@ -1711,3 +1711,7 @@ chiteroman/PlayIntegrityFix
 W01fh4cker/CVE-2024-21683-RCE
 ragapp/ragapp
 dotnet/aspire
+joye61/pic-smaller
+CodeWithHarry/Sigma-Web-Dev-Course
+laravel/breeze-next
+metaskills/experts
