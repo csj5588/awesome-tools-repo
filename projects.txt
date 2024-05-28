@@ -1718,3 +1718,10 @@ metaskills/experts
 THU-MIG/yolov10
 QuilibriumNetwork/ceremonyclient
 Dataherald/dataherald
+HITsz-TMG/UMOE-Scaling-Unified-Multimodal-LLMs
+wintermute-cell/ngrrram
+shamhi/HamsterKombatBot
+ccbikai/Sink
+zakirkun/arsip-gorengan-is
+godotengine/godot
+es3n1n/no-defender
