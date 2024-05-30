@@ -1731,3 +1731,4 @@ iyaja/llama-fs
 lihaoyun6/QuickRecorder
 darrenburns/elia
 kdn251/interviews
+Openpanel-dev/openpanel
