@@ -1733,3 +1733,12 @@ darrenburns/elia
 kdn251/interviews
 Openpanel-dev/openpanel
 aframevr/aframe
+RUC-NLPIR/FlashRAG
+Kong/kong
+cameron314/concurrentqueue
+vladmandic/automatic
+goauthentik/authentik
+quickwit-oss/tantivy
+cilium/cilium
+protocolbuffers/protobuf
+sudachi-emu/sudachi
