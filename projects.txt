@@ -1743,3 +1743,4 @@ cilium/cilium
 protocolbuffers/protobuf
 sudachi-emu/sudachi
 promptfoo/promptfoo
+FortAwesome/Font-Awesome
