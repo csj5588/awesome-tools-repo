@@ -1742,3 +1742,4 @@ quickwit-oss/tantivy
 cilium/cilium
 protocolbuffers/protobuf
 sudachi-emu/sudachi
+promptfoo/promptfoo
