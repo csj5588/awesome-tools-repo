@@ -1744,3 +1744,12 @@ protocolbuffers/protobuf
 sudachi-emu/sudachi
 promptfoo/promptfoo
 FortAwesome/Font-Awesome
+2noise/ChatTTS
+tencent-ailab/V-Express
+googleapis/elixir-google-api
+webprodigies/corinna-ai
+TMElyralab/MusePose
+PrefectHQ/prefect
+neondatabase/neon
+AI4Finance-Foundation/FinRobot
+Jeff-LiangF/streamv2v
