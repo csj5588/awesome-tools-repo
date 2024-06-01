@@ -1753,3 +1753,5 @@ PrefectHQ/prefect
 neondatabase/neon
 AI4Finance-Foundation/FinRobot
 Jeff-LiangF/streamv2v
+magicuidesign/magicui
+langchain-ai/langchain-nextjs-template
