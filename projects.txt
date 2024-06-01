@@ -1755,3 +1755,10 @@ AI4Finance-Foundation/FinRobot
 Jeff-LiangF/streamv2v
 magicuidesign/magicui
 langchain-ai/langchain-nextjs-template
+redpanda-data/connect
+alibaba-yuanjing-aigclab/ViViD
+apple/swift
+pdm-project/pdm
+GaiaNet-AI/gaianet-node
+mustafaaljadery/llama3v
+duckdb/duckdb
