@@ -1765,3 +1765,10 @@ duckdb/duckdb
 readtedium/udm14
 hoarder-app/hoarder
 AIsouler/GKD_subscription
+jianchang512/ChatTTS-ui
+StasPlov/docker-unlock
+ToonCrafter/ToonCrafter
+digital-go-jp/design-system-example-components
+bin123apple/AutoCoder
+novitalabs/AnimateAnyone
+Shubhamsaboo/awesome-llm-apps
