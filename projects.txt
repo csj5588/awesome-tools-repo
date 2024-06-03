@@ -1774,3 +1774,6 @@ novitalabs/AnimateAnyone
 Shubhamsaboo/awesome-llm-apps
 lowlighter/matcha
 jfmartinz/ResourceHub
+slab/quill
+brocoders/nestjs-boilerplate
+M-cheng-web/web-tracing
