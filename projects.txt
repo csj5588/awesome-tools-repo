@@ -1777,3 +1777,11 @@ jfmartinz/ResourceHub
 slab/quill
 brocoders/nestjs-boilerplate
 M-cheng-web/web-tracing
+lllyasviel/Omost
+face-hh/webx
+lanqian528/chat2api
+ishaan1013/sandbox
+raysan5/raylib
+anthropics/courses
+kholia/OSX-KVM
+xmrig/xmrig
