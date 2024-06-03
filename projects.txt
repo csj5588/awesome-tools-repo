@@ -1772,3 +1772,5 @@ digital-go-jp/design-system-example-components
 bin123apple/AutoCoder
 novitalabs/AnimateAnyone
 Shubhamsaboo/awesome-llm-apps
+lowlighter/matcha
+jfmartinz/ResourceHub
