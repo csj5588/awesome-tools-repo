@@ -1788,3 +1788,6 @@ xmrig/xmrig
 anuragverma108/SwapReads
 vercel/swr
 imputnet/cobalt
+onuratakan/gpt-computer-assistant
+VikParuchuri/marker
+folke/lazy.nvim
