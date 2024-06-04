@@ -1786,3 +1786,4 @@ anthropics/courses
 kholia/OSX-KVM
 xmrig/xmrig
 anuragverma108/SwapReads
+vercel/swr
