@@ -1791,3 +1791,4 @@ imputnet/cobalt
 onuratakan/gpt-computer-assistant
 VikParuchuri/marker
 folke/lazy.nvim
+chaitin/SafeLine
