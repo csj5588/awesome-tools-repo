@@ -1792,3 +1792,6 @@ onuratakan/gpt-computer-assistant
 VikParuchuri/marker
 folke/lazy.nvim
 chaitin/SafeLine
+isaac-sim/IsaacLab
+TheAlgorithms/Rust
+Anduin2017/HowToCook
