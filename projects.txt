@@ -1795,3 +1795,6 @@ chaitin/SafeLine
 isaac-sim/IsaacLab
 TheAlgorithms/Rust
 Anduin2017/HowToCook
+state-spaces/mamba
+syncthing/syncthing
+Lightning-AI/litgpt
