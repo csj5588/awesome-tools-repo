@@ -1804,3 +1804,7 @@ kunjgit/GameZone
 openssl/openssl
 TypeCellOS/BlockNote
 rjmacarthy/twinny
+jordanbaird/Ice
+Stability-AI/stable-audio-tools
+KenneyNL/Adobe-Alternatives
+livekit/livekit
