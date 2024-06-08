@@ -1802,3 +1802,5 @@ vitest-dev/vitest
 mediacms-io/mediacms
 kunjgit/GameZone
 openssl/openssl
+TypeCellOS/BlockNote
+rjmacarthy/twinny
