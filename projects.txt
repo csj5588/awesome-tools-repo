@@ -1808,3 +1808,5 @@ jordanbaird/Ice
 Stability-AI/stable-audio-tools
 KenneyNL/Adobe-Alternatives
 livekit/livekit
+plotly/plotly.js
+jagenjo/litegraph.js
