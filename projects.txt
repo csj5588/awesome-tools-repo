@@ -1810,3 +1810,5 @@ KenneyNL/Adobe-Alternatives
 livekit/livekit
 plotly/plotly.js
 jagenjo/litegraph.js
+idootop/mi-gpt
+hackerb9/lsix
