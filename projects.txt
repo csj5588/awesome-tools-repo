@@ -1812,3 +1812,11 @@ plotly/plotly.js
 jagenjo/litegraph.js
 idootop/mi-gpt
 hackerb9/lsix
+LazyVim/LazyVim
+nerfstudio-project/gsplat
+JanDeDobbeleer/oh-my-posh
+libretro/RetroArch
+alist-org/alist
+blakeblackshear/frigate
+termux/termux-app
+jackyzha0/quartz
