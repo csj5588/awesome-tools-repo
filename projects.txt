@@ -1820,3 +1820,4 @@ alist-org/alist
 blakeblackshear/frigate
 termux/termux-app
 jackyzha0/quartz
+JAYESHBATRA/Virtuo-Learn
