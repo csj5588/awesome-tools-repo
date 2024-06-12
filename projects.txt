@@ -1822,3 +1822,5 @@ termux/termux-app
 jackyzha0/quartz
 JAYESHBATRA/Virtuo-Learn
 SoftFever/OrcaSlicer
+logto-io/logto
+felixmosh/bull-board
