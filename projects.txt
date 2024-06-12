@@ -1824,3 +1824,10 @@ JAYESHBATRA/Virtuo-Learn
 SoftFever/OrcaSlicer
 logto-io/logto
 felixmosh/bull-board
+karpathy/nanoGPT
+piku/piku
+openai/gpt-2
+nvm-sh/nvm
+aws/amazon-sagemaker-examples
+litestar-org/litestar
+python-poetry/poetry
