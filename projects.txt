@@ -1831,3 +1831,5 @@ nvm-sh/nvm
 aws/amazon-sagemaker-examples
 litestar-org/litestar
 python-poetry/poetry
+sst/sst
+yamada-ui/yamada-ui
