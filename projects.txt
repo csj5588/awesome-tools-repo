@@ -1841,3 +1841,6 @@ apple/axlearn
 juspay/hyperswitch
 dortania/OpenCore-Legacy-Patcher
 KiKaraage/ArcWTF
+olifolkerd/tabulator
+Neet-Nestor/Telegram-Media-Downloader
+darkroomengineering/lenis
