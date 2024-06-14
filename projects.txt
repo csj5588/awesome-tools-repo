@@ -1844,3 +1844,9 @@ KiKaraage/ArcWTF
 olifolkerd/tabulator
 Neet-Nestor/Telegram-Media-Downloader
 darkroomengineering/lenis
+huggingface/diffusers
+fchollet/ARC-AGI
+warpdotdev/Warp
+datastrato/gravitino
+goldmansachs/gs-quant
+IDEA-Research/GroundingDINO
