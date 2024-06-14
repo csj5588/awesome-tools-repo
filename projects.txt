@@ -1840,3 +1840,4 @@ apple/axlearn
 3b1b/manim
 juspay/hyperswitch
 dortania/OpenCore-Legacy-Patcher
+KiKaraage/ArcWTF
