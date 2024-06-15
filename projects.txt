@@ -1851,3 +1851,12 @@ datastrato/gravitino
 goldmansachs/gs-quant
 IDEA-Research/GroundingDINO
 keshavgbpecdelhi/Web-Development
+NVIDIA/TensorRT
+Azure/azure-sdk-for-java
+web-platform-tests/wpt
+fleetdm/fleet
+facebook/folly
+microsoft/LightGBM
+meetecho/janus-gateway
+lexbor/lexbor
+Stability-AI/StableSwarmUI
