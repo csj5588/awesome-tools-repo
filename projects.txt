@@ -1860,3 +1860,6 @@ microsoft/LightGBM
 meetecho/janus-gateway
 lexbor/lexbor
 Stability-AI/StableSwarmUI
+AIGODLIKE/AIGODLIKE-ComfyUI-Translation
+dimdenGD/OldTweetDeck
+ltdrdata/ComfyUI-Manager
