@@ -1863,3 +1863,7 @@ Stability-AI/StableSwarmUI
 AIGODLIKE/AIGODLIKE-ComfyUI-Translation
 dimdenGD/OldTweetDeck
 ltdrdata/ComfyUI-Manager
+lepoco/wpfui
+hashicorp/terraform-provider-aws
+StevenBlack/hosts
+argmaxinc/WhisperKit
