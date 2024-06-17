@@ -1869,3 +1869,6 @@ StevenBlack/hosts
 argmaxinc/WhisperKit
 Aylur/ags
 ghostfolio/ghostfolio
+Anjok07/ultimatevocalremovergui
+pymc-devs/pymc
+NVIDIA/warp
