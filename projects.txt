@@ -1867,3 +1867,5 @@ lepoco/wpfui
 hashicorp/terraform-provider-aws
 StevenBlack/hosts
 argmaxinc/WhisperKit
+Aylur/ags
+ghostfolio/ghostfolio
