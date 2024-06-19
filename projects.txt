@@ -1873,3 +1873,5 @@ Anjok07/ultimatevocalremovergui
 pymc-devs/pymc
 NVIDIA/warp
 obsproject/obs-studio
+xenova/whisper-web
+refined-github/refined-github
