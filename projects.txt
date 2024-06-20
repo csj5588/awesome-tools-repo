@@ -1881,3 +1881,5 @@ projectdiscovery/katana
 netdata/netdata
 gin-gonic/gin
 datawhalechina/leedl-tutorial
+argilla-io/argilla
+tencentmusic/supersonic
