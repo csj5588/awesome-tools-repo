@@ -1884,3 +1884,5 @@ datawhalechina/leedl-tutorial
 argilla-io/argilla
 tencentmusic/supersonic
 redotvideo/revideo
+tensorflow/tensorflow
+PowerShell/PowerShell
