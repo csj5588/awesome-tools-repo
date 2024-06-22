@@ -1886,3 +1886,8 @@ tencentmusic/supersonic
 redotvideo/revideo
 tensorflow/tensorflow
 PowerShell/PowerShell
+StamusNetworks/SELKS
+4ian/GDevelop
+MrKai77/Loop
+gitleaks/gitleaks
+google/flatbuffers
