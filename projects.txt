@@ -1891,3 +1891,4 @@ StamusNetworks/SELKS
 MrKai77/Loop
 gitleaks/gitleaks
 google/flatbuffers
+sanity-io/sanity
