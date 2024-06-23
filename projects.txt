@@ -1892,3 +1892,6 @@ MrKai77/Loop
 gitleaks/gitleaks
 google/flatbuffers
 sanity-io/sanity
+niedev/RTranslator
+karpathy/micrograd
+influxdata/telegraf
