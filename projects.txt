@@ -1898,3 +1898,9 @@ influxdata/telegraf
 node-red/node-red
 MrXujiang/h5-Dooring
 qishibo/AnotherRedisDesktopManager
+mindsdb/mindsdb
+mayneyao/eidos
+CleverRaven/Cataclysm-DDA
+SimplifyJobs/Summer2025-Internships
+espressif/esp-idf
+daytonaio/daytona
