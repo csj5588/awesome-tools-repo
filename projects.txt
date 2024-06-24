@@ -1895,3 +1895,6 @@ sanity-io/sanity
 niedev/RTranslator
 karpathy/micrograd
 influxdata/telegraf
+node-red/node-red
+MrXujiang/h5-Dooring
+qishibo/AnotherRedisDesktopManager
