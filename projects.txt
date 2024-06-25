@@ -1904,3 +1904,7 @@ CleverRaven/Cataclysm-DDA
 SimplifyJobs/Summer2025-Internships
 espressif/esp-idf
 daytonaio/daytona
+modelscope/DiffSynth-Studio
+TeamNewPipe/NewPipe
+sxyazi/yazi
+ExpressLRS/ExpressLRS
