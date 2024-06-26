@@ -1910,3 +1910,5 @@ sxyazi/yazi
 ExpressLRS/ExpressLRS
 ciiiii/cloudflare-docker-proxy
 OpenCTI-Platform/opencti
+jart/cosmopolitan
+mehdihadeli/awesome-software-architecture
