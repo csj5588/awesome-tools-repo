@@ -1913,3 +1913,4 @@ OpenCTI-Platform/opencti
 jart/cosmopolitan
 mehdihadeli/awesome-software-architecture
 liriliri/eruda
+farcasterxyz/hub-monorepo
