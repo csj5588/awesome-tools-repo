@@ -1914,3 +1914,4 @@ jart/cosmopolitan
 mehdihadeli/awesome-software-architecture
 liriliri/eruda
 farcasterxyz/hub-monorepo
+snipe/snipe-it
