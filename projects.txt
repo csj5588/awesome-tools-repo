@@ -1915,3 +1915,8 @@ mehdihadeli/awesome-software-architecture
 liriliri/eruda
 farcasterxyz/hub-monorepo
 snipe/snipe-it
+microsoft/semantic-kernel
+ChrisTitusTech/winutil
+astral-sh/uv
+stacks-network/stacks-core
+NVIDIA/NeMo
