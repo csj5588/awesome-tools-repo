@@ -1922,3 +1922,8 @@ stacks-network/stacks-core
 NVIDIA/NeMo
 ZuodaoTech/everyone-can-use-english
 nlkitai/nlux
+Asabeneh/30-Days-Of-Python
+YimMenu/YimMenu
+snakers4/silero-vad
+ray-project/kuberay
+goatcorp/FFXIVQuickLauncher
