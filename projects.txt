@@ -1920,3 +1920,5 @@ ChrisTitusTech/winutil
 astral-sh/uv
 stacks-network/stacks-core
 NVIDIA/NeMo
+ZuodaoTech/everyone-can-use-english
+nlkitai/nlux
