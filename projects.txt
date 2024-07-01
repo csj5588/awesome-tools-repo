@@ -1927,3 +1927,4 @@ YimMenu/YimMenu
 snakers4/silero-vad
 ray-project/kuberay
 goatcorp/FFXIVQuickLauncher
+facebook/create-react-app
