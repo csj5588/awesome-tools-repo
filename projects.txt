@@ -1928,3 +1928,11 @@ snakers4/silero-vad
 ray-project/kuberay
 goatcorp/FFXIVQuickLauncher
 facebook/create-react-app
+ClayAmore/ER-Save-Editor
+starship/starship
+mrdbourke/pytorch-deep-learning
+google/leveldb
+WerWolv/ImHex
+wolfpld/tracy
+goatcorp/Dalamud
+ruffle-rs/ruffle
