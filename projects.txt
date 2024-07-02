@@ -1936,3 +1936,5 @@ WerWolv/ImHex
 wolfpld/tracy
 goatcorp/Dalamud
 ruffle-rs/ruffle
+RabbyHub/Rabby
+eclipse-theia/theia
