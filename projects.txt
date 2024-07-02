@@ -1939,3 +1939,5 @@ ruffle-rs/ruffle
 RabbyHub/Rabby
 eclipse-theia/theia
 SBoudrias/Inquirer.js
+YaLTeR/niri
+hajimehoshi/ebiten
