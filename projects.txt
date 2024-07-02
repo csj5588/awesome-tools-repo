@@ -1938,3 +1938,4 @@ goatcorp/Dalamud
 ruffle-rs/ruffle
 RabbyHub/Rabby
 eclipse-theia/theia
+SBoudrias/Inquirer.js
