@@ -1942,3 +1942,4 @@ SBoudrias/Inquirer.js
 YaLTeR/niri
 hajimehoshi/ebiten
 react-hook-form/react-hook-form
+shaka-project/shaka-player
