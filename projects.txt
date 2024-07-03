@@ -1943,3 +1943,7 @@ YaLTeR/niri
 hajimehoshi/ebiten
 react-hook-form/react-hook-form
 shaka-project/shaka-player
+moby/moby
+iam-veeramalla/aws-devops-zero-to-hero
+restic/restic
+NVIDIA/gpu-operator
