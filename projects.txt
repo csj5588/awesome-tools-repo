@@ -1950,3 +1950,6 @@ NVIDIA/gpu-operator
 OHIF/Viewers
 anthropics/anthropic-sdk-typescript
 react-grid-layout/react-grid-layout
+BLAKE3-team/BLAKE3
+jeremylong/DependencyCheck
+ydb-platform/ydb
