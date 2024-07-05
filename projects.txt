@@ -1954,3 +1954,6 @@ BLAKE3-team/BLAKE3
 jeremylong/DependencyCheck
 ydb-platform/ydb
 wix/react-native-calendars
+microsoft/graphrag
+Azure-Samples/graphrag-accelerator
+laravel/laravel
