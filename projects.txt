@@ -1959,3 +1959,6 @@ Azure-Samples/graphrag-accelerator
 laravel/laravel
 posit-dev/positron
 dotenvx/dotenvx
+aome510/spotify-player
+zeromicro/go-zero
+jumpserver/jumpserver
