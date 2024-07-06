@@ -1958,3 +1958,4 @@ microsoft/graphrag
 Azure-Samples/graphrag-accelerator
 laravel/laravel
 posit-dev/positron
+dotenvx/dotenvx
