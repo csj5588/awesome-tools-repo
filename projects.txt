@@ -1962,3 +1962,4 @@ dotenvx/dotenvx
 aome510/spotify-player
 zeromicro/go-zero
 jumpserver/jumpserver
+antfu/vscode-file-nesting-config
