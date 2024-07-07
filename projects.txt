@@ -1963,3 +1963,6 @@ aome510/spotify-player
 zeromicro/go-zero
 jumpserver/jumpserver
 antfu/vscode-file-nesting-config
+albertobsd/keyhunt
+google/security-research
+disposable-email-domains/disposable-email-domains
