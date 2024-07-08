@@ -1966,3 +1966,6 @@ antfu/vscode-file-nesting-config
 albertobsd/keyhunt
 google/security-research
 disposable-email-domains/disposable-email-domains
+signalapp/Signal-Desktop
+vuejs/devtools-next
+infinitered/ignite
