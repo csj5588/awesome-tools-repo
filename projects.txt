@@ -1971,3 +1971,5 @@ vuejs/devtools-next
 infinitered/ignite
 adrianhajdin/project_next_14_ai_prompt_sharing
 wangrongding/wechat-bot
+Grasscutters/Grasscutter
+alex-shpak/hugo-book
