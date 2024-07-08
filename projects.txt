@@ -1969,3 +1969,5 @@ disposable-email-domains/disposable-email-domains
 signalapp/Signal-Desktop
 vuejs/devtools-next
 infinitered/ignite
+adrianhajdin/project_next_14_ai_prompt_sharing
+wangrongding/wechat-bot
