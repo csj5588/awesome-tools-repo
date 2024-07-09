@@ -1974,3 +1974,4 @@ wangrongding/wechat-bot
 Grasscutters/Grasscutter
 alex-shpak/hugo-book
 cvat-ai/cvat
+brunodev85/winlator
