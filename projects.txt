@@ -1975,3 +1975,6 @@ Grasscutters/Grasscutter
 alex-shpak/hugo-book
 cvat-ai/cvat
 brunodev85/winlator
+techschool/simplebank
+pi-hole/pi-hole
+ethereum-optimism/optimism
