@@ -1981,3 +1981,6 @@ ethereum-optimism/optimism
 bcakmakoglu/vue-flow
 parse-community/parse-server
 soumyajit4419/Portfolio
+microsoft/pyright
+helm/helm
+FiloSottile/mkcert
