@@ -1985,3 +1985,5 @@ microsoft/pyright
 helm/helm
 FiloSottile/mkcert
 gridstack/gridstack.js
+swiftlang/swift
+flutter/flutter
