@@ -1987,3 +1987,4 @@ FiloSottile/mkcert
 gridstack/gridstack.js
 swiftlang/swift
 flutter/flutter
+web-infra-dev/rsbuild
