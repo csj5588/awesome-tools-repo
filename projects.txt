@@ -1988,3 +1988,7 @@ gridstack/gridstack.js
 swiftlang/swift
 flutter/flutter
 web-infra-dev/rsbuild
+TeamNewPipe/NewPipeExtractor
+PaddlePaddle/PaddleOCR
+bunkerity/bunkerweb
+apify/crawlee-python
