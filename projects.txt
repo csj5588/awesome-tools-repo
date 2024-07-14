@@ -1994,3 +1994,5 @@ bunkerity/bunkerweb
 apify/crawlee-python
 Chainlit/chainlit
 JSv4/OpenContracts
+MystenLabs/sui
+openvinotoolkit/openvino
