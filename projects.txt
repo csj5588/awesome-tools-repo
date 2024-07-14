@@ -1992,3 +1992,5 @@ TeamNewPipe/NewPipeExtractor
 PaddlePaddle/PaddleOCR
 bunkerity/bunkerweb
 apify/crawlee-python
+Chainlit/chainlit
+JSv4/OpenContracts
