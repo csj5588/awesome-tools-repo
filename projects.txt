@@ -2003,3 +2003,8 @@ termux/termux-packages
 oobabooga/text-generation-webui
 caorushizi/mediago
 Tencent/wujie
+DiceDB/dice
+PCSX2/pcsx2
+neo4j-labs/llm-graph-builder
+pytube/pytube
+ish-app/ish
