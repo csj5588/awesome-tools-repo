@@ -2010,3 +2010,10 @@ pytube/pytube
 ish-app/ish
 GitbookIO/gitbook
 cookpete/react-player
+free-educa/books
+git-ecosystem/git-credential-manager
+tokio-rs/tokio
+oceanbase/oceanbase
+mem0ai/mem0
+sebastianstarke/AI4Animation
+actions/runner-images
