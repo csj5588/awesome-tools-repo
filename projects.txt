@@ -2024,3 +2024,5 @@ MervinPraison/PraisonAI
 abseil/abseil-cpp
 hashicorp/vault
 prowler-cloud/prowler
+samber/lo
+NVIDIA/TensorRT-LLM
