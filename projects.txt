@@ -2028,3 +2028,9 @@ samber/lo
 NVIDIA/TensorRT-LLM
 ComposioHQ/composio
 johnfactotum/foliate
+TraceMachina/nativelink
+NVIDIA/open-gpu-kernel-modules
+alibaba/nacos
+apache/airflow
+psf/black
+aptos-labs/aptos-core
