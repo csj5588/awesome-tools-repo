@@ -2027,3 +2027,4 @@ prowler-cloud/prowler
 samber/lo
 NVIDIA/TensorRT-LLM
 ComposioHQ/composio
+johnfactotum/foliate
