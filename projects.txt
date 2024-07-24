@@ -2040,3 +2040,7 @@ g1879/DrissionPage
 qmk/qmk_firmware
 kando-menu/kando
 sindresorhus/type-fest
+XTLS/Xray-core
+stretchr/testify
+sinaatalay/rendercv
+lit/lit
