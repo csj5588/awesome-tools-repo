@@ -2044,3 +2044,4 @@ XTLS/Xray-core
 stretchr/testify
 sinaatalay/rendercv
 lit/lit
+jothepro/doxygen-awesome-css
