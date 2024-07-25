@@ -2045,3 +2045,5 @@ stretchr/testify
 sinaatalay/rendercv
 lit/lit
 jothepro/doxygen-awesome-css
+xtermjs/xterm.js
+middlewarehq/middleware
