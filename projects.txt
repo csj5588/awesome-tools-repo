@@ -2047,3 +2047,7 @@ lit/lit
 jothepro/doxygen-awesome-css
 xtermjs/xterm.js
 middlewarehq/middleware
+Netflix/maestro
+DarkFlippers/unleashed-firmware
+lz4/lz4
+qdrant/qdrant
