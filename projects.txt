@@ -2056,3 +2056,5 @@ reworkd/AgentGPT
 google/blockly
 rrweb-io/rrweb
 streamich/react-use
+sindresorhus/awesome
+AutoMQ/automq
