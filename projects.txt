@@ -2052,3 +2052,7 @@ DarkFlippers/unleashed-firmware
 lz4/lz4
 qdrant/qdrant
 fullstackhero/dotnet-starter-kit
+reworkd/AgentGPT
+google/blockly
+rrweb-io/rrweb
+streamich/react-use
