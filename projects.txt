@@ -2058,3 +2058,4 @@ rrweb-io/rrweb
 streamich/react-use
 sindresorhus/awesome
 AutoMQ/automq
+justadudewhohacks/face-api.js
