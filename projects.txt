@@ -2060,3 +2060,8 @@ sindresorhus/awesome
 AutoMQ/automq
 justadudewhohacks/face-api.js
 expo/examples
+leanprover/lean4
+alpkeskin/mosint
+ollama/ollama-python
+opendatalab/MinerU
+freeCodeCamp/devdocs
