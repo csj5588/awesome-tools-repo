@@ -2066,3 +2066,5 @@ ollama/ollama-python
 opendatalab/MinerU
 freeCodeCamp/devdocs
 mikro-orm/mikro-orm
+RayTracing/raytracing.github.io
+OpenGenerativeAI/llm-colosseum
