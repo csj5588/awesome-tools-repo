@@ -2069,3 +2069,9 @@ mikro-orm/mikro-orm
 RayTracing/raytracing.github.io
 OpenGenerativeAI/llm-colosseum
 RSSNext/follow
+ValdikSS/GoodbyeDPI
+c3lang/c3c
+miss-mumu/developer2gwy
+GyulyVGC/sniffnet
+freqtrade/freqtrade
+lipku/metahuman-stream
