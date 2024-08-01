@@ -2075,3 +2075,4 @@ miss-mumu/developer2gwy
 GyulyVGC/sniffnet
 freqtrade/freqtrade
 lipku/metahuman-stream
+steven-tey/novel
