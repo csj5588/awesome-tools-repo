@@ -2082,3 +2082,7 @@ recloudstream/cloudstream
 projectdiscovery/nuclei
 ClickHouse/ClickHouse
 mingw-w64/mingw-w64.github.io
+sickcodes/Docker-OSX
+bol-van/zapret
+PixarAnimationStudios/OpenUSD
+RedisInsight/RedisInsight
