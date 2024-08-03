@@ -2087,3 +2087,7 @@ bol-van/zapret
 PixarAnimationStudios/OpenUSD
 RedisInsight/RedisInsight
 goldfire/howler.js
+pytorch/torchchat
+teaxyz/white-paper
+rancher/rancher
+getredash/redash
