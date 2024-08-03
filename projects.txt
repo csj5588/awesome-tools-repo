@@ -2086,3 +2086,4 @@ sickcodes/Docker-OSX
 bol-van/zapret
 PixarAnimationStudios/OpenUSD
 RedisInsight/RedisInsight
+goldfire/howler.js
