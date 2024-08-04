@@ -2091,3 +2091,4 @@ pytorch/torchchat
 teaxyz/white-paper
 rancher/rancher
 getredash/redash
+johannesjo/super-productivity
