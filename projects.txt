@@ -2092,3 +2092,9 @@ teaxyz/white-paper
 rancher/rancher
 getredash/redash
 johannesjo/super-productivity
+asg017/sqlite-vec
+mtdvio/every-programmer-should-know
+xvzc/SpoofDPI
+mlc-ai/mlc-llm
+google/benchmark
+apache/apisix
