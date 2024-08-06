@@ -2100,3 +2100,4 @@ google/benchmark
 apache/apisix
 vercel/commerce
 hufrea/byedpi
+spring-petclinic/spring-petclinic-microservices
