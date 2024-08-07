@@ -2104,3 +2104,6 @@ spring-petclinic/spring-petclinic-microservices
 jackocnr/intl-tel-input
 marticliment/UniGetUI
 gohugoio/hugoDocs
+trailofbits/multiplier
+bghira/SimpleTuner
+ardalis/CleanArchitecture
