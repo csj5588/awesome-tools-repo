@@ -2110,3 +2110,4 @@ ardalis/CleanArchitecture
 RSSNext/Follow
 sqlchat/sqlchat
 ssoready/ssoready
+dessant/buster
