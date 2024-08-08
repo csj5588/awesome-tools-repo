@@ -2111,3 +2111,6 @@ RSSNext/Follow
 sqlchat/sqlchat
 ssoready/ssoready
 dessant/buster
+CanadaHonk/porffor
+google/guava
+pgvector/pgvector
