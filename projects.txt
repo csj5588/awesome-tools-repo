@@ -2107,3 +2107,6 @@ gohugoio/hugoDocs
 trailofbits/multiplier
 bghira/SimpleTuner
 ardalis/CleanArchitecture
+RSSNext/Follow
+sqlchat/sqlchat
+ssoready/ssoready
