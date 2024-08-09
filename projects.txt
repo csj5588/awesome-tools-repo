@@ -2115,3 +2115,6 @@ CanadaHonk/porffor
 google/guava
 pgvector/pgvector
 Jigsaw-Code/outline-apps
+hacksider/Deep-Live-Cam
+getsentry/sentry
+THUDM/CogVideo
