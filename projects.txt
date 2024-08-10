@@ -2118,3 +2118,5 @@ Jigsaw-Code/outline-apps
 hacksider/Deep-Live-Cam
 getsentry/sentry
 THUDM/CogVideo
+goldbergyoni/nodebestpractices
+Avaiga/taipy
