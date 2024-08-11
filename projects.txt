@@ -2120,3 +2120,4 @@ getsentry/sentry
 THUDM/CogVideo
 goldbergyoni/nodebestpractices
 Avaiga/taipy
+FreeCodeCampChina/freecodecamp.cn
