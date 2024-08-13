@@ -2126,3 +2126,4 @@ SadeghHayeri/GreenTunnel
 mbrg/power-pwn
 jeecgboot/JeecgBoot
 penpot/penpot
+vinceliuice/Fluent-gtk-theme
