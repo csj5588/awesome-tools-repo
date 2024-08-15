@@ -2133,3 +2133,8 @@ arkenfox/user.js
 versotile-org/verso
 Vinzent03/obsidian-git
 seanprashad/leetcode-patterns
+ostris/ai-toolkit
+DroidKaigi/conference-app-2024
+TheAlgorithms/Go
+erincatto/box2d
+xorbitsai/inference
