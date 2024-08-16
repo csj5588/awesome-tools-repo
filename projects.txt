@@ -2140,3 +2140,7 @@ erincatto/box2d
 xorbitsai/inference
 PacktPublishing/Django-5-By-Example
 SwiftGGTeam/the-swift-programming-language-in-chinese
+thingsboard/thingsboard
+k2-fsa/sherpa-onnx
+Zipstack/unstract
+florinpop17/app-ideas
