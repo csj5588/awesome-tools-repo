@@ -2144,3 +2144,5 @@ thingsboard/thingsboard
 k2-fsa/sherpa-onnx
 Zipstack/unstract
 florinpop17/app-ideas
+parcel-bundler/parcel
+WebKit/WebKit
