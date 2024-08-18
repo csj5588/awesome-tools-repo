@@ -2153,3 +2153,6 @@ gogf/gf
 liangjingkanji/DrakeTyporaTheme
 poloclub/transformer-explainer
 ryanhanwu/How-To-Ask-Questions-The-Smart-Way
+duckdb/pg_duckdb
+intelowlproject/IntelOwl
+tiny-craft/tiny-rdm
