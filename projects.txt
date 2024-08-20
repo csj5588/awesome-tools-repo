@@ -2158,3 +2158,7 @@ intelowlproject/IntelOwl
 tiny-craft/tiny-rdm
 shardeum/shardeum
 clerk/javascript
+OpenBB-finance/OpenBB
+toss/es-toolkit
+wistbean/learn_python3_spider
+tinygrad/tinygrad
