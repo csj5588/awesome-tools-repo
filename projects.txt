@@ -2157,3 +2157,4 @@ duckdb/pg_duckdb
 intelowlproject/IntelOwl
 tiny-craft/tiny-rdm
 shardeum/shardeum
+clerk/javascript
