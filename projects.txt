@@ -2163,3 +2163,6 @@ toss/es-toolkit
 wistbean/learn_python3_spider
 tinygrad/tinygrad
 keldaanCommunity/pokemonAutoChess
+LibreTranslate/LibreTranslate
+thuml/Time-Series-Library
+SorellaLabs/brontes
