@@ -2177,3 +2177,16 @@ mouday/domain-admin
 pymumu/smartdns
 maotoumao/MusicFree
 buqiyuan/nest-admin
+AppFlowy-IO/AppFlowy
+Predidit/Kazumi
+canxin121/app_rhyme
+dart-lang/sdk
+guozhigq/pilipala
+ImranR98/Obtainium
+rrousselGit/riverpod
+flutter/packages
+GopeedLab/gopeed
+Solido/awesome-flutter
+wgh136/PicaComic
+miru-project/miru-app
+xiaoyaocz/dart_simple_live
