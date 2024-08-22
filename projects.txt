@@ -2166,3 +2166,14 @@ keldaanCommunity/pokemonAutoChess
 LibreTranslate/LibreTranslate
 thuml/Time-Series-Library
 SorellaLabs/brontes
+JoeanAmier/TikTokDownloader
+xiaolincoder/CS-Base
+MatsuriDayo/nekoray
+egametang/ET
+jeecgboot/JimuReport
+xiaojieonly/Ehviewer_CN_SXJ
+midoks/mdserver-web
+mouday/domain-admin
+pymumu/smartdns
+maotoumao/MusicFree
+buqiyuan/nest-admin
