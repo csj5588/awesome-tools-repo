@@ -2194,3 +2194,9 @@ vueuse/vueuse
 PlasmoHQ/plasmo
 d07RiV/diabloweb
 marcelscruz/public-apis
+NVlabs/VILA
+fmtlib/fmt
+s0md3v/roop
+grafana/k6
+microsoft/mimalloc
+All-Hands-AI/OpenHands
