@@ -2190,3 +2190,5 @@ Solido/awesome-flutter
 wgh136/PicaComic
 miru-project/miru-app
 xiaoyaocz/dart_simple_live
+vueuse/vueuse
+PlasmoHQ/plasmo
