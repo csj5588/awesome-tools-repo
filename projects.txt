@@ -2192,3 +2192,5 @@ miru-project/miru-app
 xiaoyaocz/dart_simple_live
 vueuse/vueuse
 PlasmoHQ/plasmo
+d07RiV/diabloweb
+marcelscruz/public-apis
