@@ -2200,3 +2200,6 @@ s0md3v/roop
 grafana/k6
 microsoft/mimalloc
 All-Hands-AI/OpenHands
+aws/aws-cli
+amnezia-vpn/amnezia-client
+deepset-ai/haystack
