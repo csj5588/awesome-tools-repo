@@ -2203,3 +2203,7 @@ All-Hands-AI/OpenHands
 aws/aws-cli
 amnezia-vpn/amnezia-client
 deepset-ai/haystack
+nashtech-garage/yas
+PlatformLab/NanoLog
+flxzt/rnote
+Z4nzu/hackingtool
