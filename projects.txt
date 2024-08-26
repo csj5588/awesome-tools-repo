@@ -2207,3 +2207,14 @@ nashtech-garage/yas
 PlatformLab/NanoLog
 flxzt/rnote
 Z4nzu/hackingtool
+ccfos/nightingale
+AmazingAng/WTF-Solidity
+forthespada/CS-Books
+iDvel/rime-ice
+EricZhu-42/SteamTradingSiteTracker
+Evil0ctal/Douyin_TikTok_Download_API
+Tencent/puerts
+halo-dev/halo
+oceanbase/miniob
+zxwk1998/vue-admin-better
+ljinkai/weekly
