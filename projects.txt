@@ -2227,3 +2227,4 @@ felangel/bloc
 nubank/nuvigator
 Predidit/oneAnime
 xiaoyaocz/flutter_dmzj
+gitkraken/vscode-gitlens
