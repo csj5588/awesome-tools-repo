@@ -2218,3 +2218,12 @@ halo-dev/halo
 oceanbase/miniob
 zxwk1998/vue-admin-better
 ljinkai/weekly
+iampawan/FlutterExampleApps
+niuhuan/jasmine
+imaNNeo/fl_chart
+academind/flutter-complete-guide-course-resources
+niuhuan/kobi
+felangel/bloc
+nubank/nuvigator
+Predidit/oneAnime
+xiaoyaocz/flutter_dmzj
