@@ -2228,3 +2228,6 @@ nubank/nuvigator
 Predidit/oneAnime
 xiaoyaocz/flutter_dmzj
 gitkraken/vscode-gitlens
+Lightning-AI/LitServe
+umami-software/umami
+casey/just
