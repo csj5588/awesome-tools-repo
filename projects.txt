@@ -2235,3 +2235,5 @@ jeequan/jeepay
 tw93/Pake
 WTFAcademy/WTF-Ethers
 valarchie/AgileBoot-Back-End
+firebase/flutterfire
+syncfusion/flutter-widgets
