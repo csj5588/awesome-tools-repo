@@ -2231,3 +2231,7 @@ gitkraken/vscode-gitlens
 Lightning-AI/LitServe
 umami-software/umami
 casey/just
+jeequan/jeepay
+tw93/Pake
+WTFAcademy/WTF-Ethers
+valarchie/AgileBoot-Back-End
