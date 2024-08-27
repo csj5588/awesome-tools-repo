@@ -2237,3 +2237,7 @@ WTFAcademy/WTF-Ethers
 valarchie/AgileBoot-Back-End
 firebase/flutterfire
 syncfusion/flutter-widgets
+milanm/DevOps-Roadmap
+spotDL/spotify-downloader
+TelegramMessenger/Telegram-iOS
+telegramdesktop/tdesktop
