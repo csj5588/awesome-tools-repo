@@ -2242,3 +2242,6 @@ spotDL/spotify-downloader
 TelegramMessenger/Telegram-iOS
 telegramdesktop/tdesktop
 wechatpay-apiv3/wechatpay-java
+krille-chan/fluffychat
+hui-z/image_gallery_saver
+leoafarias/fvm
