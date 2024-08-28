@@ -2245,3 +2245,4 @@ wechatpay-apiv3/wechatpay-java
 krille-chan/fluffychat
 hui-z/image_gallery_saver
 leoafarias/fvm
+playcanvas/engine
