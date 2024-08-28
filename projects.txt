@@ -2246,3 +2246,8 @@ krille-chan/fluffychat
 hui-z/image_gallery_saver
 leoafarias/fvm
 playcanvas/engine
+Permify/permify
+khcrysalis/Feather
+DrKLO/Telegram
+PromtEngineer/Verbi
+Pierian-Data/Complete-Python-3-Bootcamp
