@@ -2241,3 +2241,4 @@ milanm/DevOps-Roadmap
 spotDL/spotify-downloader
 TelegramMessenger/Telegram-iOS
 telegramdesktop/tdesktop
+wechatpay-apiv3/wechatpay-java
