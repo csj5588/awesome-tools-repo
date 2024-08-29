@@ -2252,3 +2252,5 @@ DrKLO/Telegram
 PromtEngineer/Verbi
 Pierian-Data/Complete-Python-3-Bootcamp
 getActivity/XXPermissions
+openai/whisper
+asavinov/intelligent-trading-bot
