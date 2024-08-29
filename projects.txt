@@ -2254,3 +2254,5 @@ Pierian-Data/Complete-Python-3-Bootcamp
 getActivity/XXPermissions
 openai/whisper
 asavinov/intelligent-trading-bot
+sarbagyastha/youtube_player_flutter
+CarGuo/gsy_github_app_flutter
