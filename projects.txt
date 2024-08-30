@@ -2273,3 +2273,8 @@ Lyokone/flutterlocation
 singerdmx/flutter-quill
 open-telemetry/opentelemetry-js
 Floorp-Projects/Floorp
+Cinnamon/kotaemon
+krishnadey30/LeetCode-Questions-CompanyWise
+cemu-project/Cemu
+dokku/dokku
+dani-garcia/vaultwarden
