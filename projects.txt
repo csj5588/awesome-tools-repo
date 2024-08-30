@@ -2272,3 +2272,4 @@ ReVanced/revanced-manager
 Lyokone/flutterlocation
 singerdmx/flutter-quill
 open-telemetry/opentelemetry-js
+Floorp-Projects/Floorp
