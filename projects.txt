@@ -2267,3 +2267,7 @@ xushengfeng/eSearch
 XayahSuSuSu/Android-DataBackup
 jitwxs/163MusicLyrics
 frappe/erpnext
+flame-engine/flame
+ReVanced/revanced-manager
+Lyokone/flutterlocation
+singerdmx/flutter-quill
