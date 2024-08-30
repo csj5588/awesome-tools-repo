@@ -2271,3 +2271,4 @@ flame-engine/flame
 ReVanced/revanced-manager
 Lyokone/flutterlocation
 singerdmx/flutter-quill
+open-telemetry/opentelemetry-js
