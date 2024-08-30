@@ -2266,3 +2266,4 @@ tinygo-org/tinygo
 xushengfeng/eSearch
 XayahSuSuSu/Android-DataBackup
 jitwxs/163MusicLyrics
+frappe/erpnext
