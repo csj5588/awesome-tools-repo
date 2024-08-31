@@ -2284,3 +2284,5 @@ yaklang/yakit
 explodinggradients/ragas
 frappe/frappe
 jonataslaw/getx
+frappe/frappe_docker
+nginx/nginx
