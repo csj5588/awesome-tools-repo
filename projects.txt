@@ -2278,3 +2278,6 @@ krishnadey30/LeetCode-Questions-CompanyWise
 cemu-project/Cemu
 dokku/dokku
 dani-garcia/vaultwarden
+d2l-ai/d2l-zh
+nilaoda/N_m3u8DL-RE
+yaklang/yakit
