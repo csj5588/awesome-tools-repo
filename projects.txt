@@ -2286,3 +2286,5 @@ frappe/frappe
 jonataslaw/getx
 frappe/frappe_docker
 nginx/nginx
+shadow1ng/fscan
+EndlessCheng/codeforces-go
