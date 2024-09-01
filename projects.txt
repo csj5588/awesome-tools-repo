@@ -2292,3 +2292,4 @@ SylphAI-Inc/AdalFlow
 dstark5/Openlib
 flyerhq/flutter_chat_ui
 TheLastGimbus/GooglePhotosTakeoutHelper
+Azure/azure-sdk-for-python
