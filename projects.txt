@@ -2289,3 +2289,6 @@ nginx/nginx
 shadow1ng/fscan
 EndlessCheng/codeforces-go
 SylphAI-Inc/AdalFlow
+dstark5/Openlib
+flyerhq/flutter_chat_ui
+TheLastGimbus/GooglePhotosTakeoutHelper
