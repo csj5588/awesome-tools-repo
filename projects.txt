@@ -2298,3 +2298,8 @@ Mereithhh/vanblog
 DGP-Studio/Snap.Hutao
 wanghongenpin/network_proxy_flutter
 MaikuB/flutter_local_notifications
+Zeyi-Lin/HivisionIDPhotos
+gitroomhq/postiz-app
+seerge/g-helper
+libsdl-org/SDL
+AppFlowy-IO/AppFlowy-Cloud
