@@ -2296,3 +2296,5 @@ Azure/azure-sdk-for-python
 cuifengcn/TAICHI-flet
 Mereithhh/vanblog
 DGP-Studio/Snap.Hutao
+wanghongenpin/network_proxy_flutter
+MaikuB/flutter_local_notifications
