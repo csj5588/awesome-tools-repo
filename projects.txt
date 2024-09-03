@@ -2305,3 +2305,5 @@ libsdl-org/SDL
 AppFlowy-IO/AppFlowy-Cloud
 eunomia-bpf/bpf-developer-tutorial
 wanglin2/mind-map
+vwxyzjn/cleanrl
+deepfakes/faceswap
