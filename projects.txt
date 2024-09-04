@@ -2315,3 +2315,6 @@ MLSysOps/MLE-agent
 yangzongzhuan/RuoYi-Vue3
 MrOtherGuy/firefox-csshacks
 QwenLM/Qwen-VL
+juliansteenbakker/mobile_scanner
+simolus3/drift
+flutter/samples
