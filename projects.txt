@@ -2314,3 +2314,4 @@ aceberg/WatchYourLAN
 MLSysOps/MLE-agent
 yangzongzhuan/RuoYi-Vue3
 MrOtherGuy/firefox-csshacks
+QwenLM/Qwen-VL
