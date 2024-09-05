@@ -2318,3 +2318,5 @@ QwenLM/Qwen-VL
 juliansteenbakker/mobile_scanner
 simolus3/drift
 flutter/samples
+ProletRevDicta/Prolet
+dromara/dynamic-tp
