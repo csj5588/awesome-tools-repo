@@ -2322,3 +2322,5 @@ ProletRevDicta/Prolet
 dromara/dynamic-tp
 doronz88/pymobiledevice3
 DavBfr/dart_pdf
+quarto-dev/quarto-cli
+horsicq/Detect-It-Easy
