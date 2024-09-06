@@ -2329,3 +2329,4 @@ YSGStudyHards/DotNetGuide
 Sub6Resources/flutter_html
 serverpod/serverpod
 isar/isar
+SigNoz/signoz
