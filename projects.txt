@@ -2330,3 +2330,5 @@ Sub6Resources/flutter_html
 serverpod/serverpod
 isar/isar
 SigNoz/signoz
+invertase/react-native-firebase
+stripe-samples/accept-a-payment
