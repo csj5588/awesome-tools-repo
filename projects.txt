@@ -2326,3 +2326,6 @@ quarto-dev/quarto-cli
 horsicq/Detect-It-Easy
 itwanger/toBeBetterJavaer
 YSGStudyHards/DotNetGuide
+Sub6Resources/flutter_html
+serverpod/serverpod
+isar/isar
