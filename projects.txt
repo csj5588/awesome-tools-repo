@@ -2345,3 +2345,6 @@ foss42/apidash
 xnx3/translate
 knownsec/KCon
 lockfale/OSINT-Framework
+autowarefoundation/autoware
+SimplifyJobs/New-Grad-Positions
+apache/arrow
