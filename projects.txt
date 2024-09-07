@@ -2338,3 +2338,4 @@ confluentinc/librdkafka
 CarGuo/GSYVideoPlayer
 jaywcjlove/linux-command
 XIU2/CloudflareSpeedTest
+barryclark/jekyll-now
