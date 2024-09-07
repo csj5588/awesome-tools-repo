@@ -2342,3 +2342,6 @@ barryclark/jekyll-now
 OWASP/Nettacker
 django/django
 foss42/apidash
+xnx3/translate
+knownsec/KCon
+lockfale/OSINT-Framework
