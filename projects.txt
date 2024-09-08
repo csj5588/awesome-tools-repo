@@ -2352,3 +2352,5 @@ skywind3000/kcp
 microsoft/unilm
 miguelpruivo/flutter_file_picker
 deckerst/aves
+betaflight/betaflight-configurator
+Azgaar/Fantasy-Map-Generator
