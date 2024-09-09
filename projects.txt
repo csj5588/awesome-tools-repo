@@ -2360,3 +2360,6 @@ etcd-io/etcd
 youlaitech/vue3-element-admin
 numpy/numpy
 MatrixTM/MHDDoS
+HemantKArya/BloomeeTunes
+lollipopkit/flutter_server_box
+mitesh77/Best-Flutter-UI-Templates
