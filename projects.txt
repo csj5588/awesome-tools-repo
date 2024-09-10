@@ -2367,3 +2367,4 @@ refact0r/system24
 simonw/llm
 flutter-ml/google_ml_kit_flutter
 fluttercommunity/plus_plugins
+afadil/wealthfolio
