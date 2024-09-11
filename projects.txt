@@ -2368,3 +2368,6 @@ simonw/llm
 flutter-ml/google_ml_kit_flutter
 fluttercommunity/plus_plugins
 afadil/wealthfolio
+NVIDIA/Megatron-LM
+gradio-app/gradio
+Farama-Foundation/Gymnasium
