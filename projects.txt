@@ -2371,3 +2371,5 @@ afadil/wealthfolio
 NVIDIA/Megatron-LM
 gradio-app/gradio
 Farama-Foundation/Gymnasium
+iam-veeramalla/observability-zero-to-hero
+spicetify/cli
