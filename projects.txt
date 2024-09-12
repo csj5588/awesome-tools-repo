@@ -2383,3 +2383,8 @@ soimort/you-get
 mulaRahul/keyviz
 mylxsw/aidea
 openwrt/luci
+dair-ai/ML-YouTube-Courses
+hashicorp/terraform
+RfidResearchGroup/proxmark3
+openedx/edx-platform
+ArduPilot/ardupilot
