@@ -2394,3 +2394,5 @@ MrForExample/ComfyUI-3D-Pack
 networkx/networkx
 anandnet/Harmony-Music
 chipweinberger/flutter_blue_plus
+flipperdevices/flipperzero-firmware
+bridgecrewio/checkov
