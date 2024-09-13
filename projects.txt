@@ -2392,3 +2392,5 @@ lich0821/WeChatRobot
 dromara/domain-admin
 MrForExample/ComfyUI-3D-Pack
 networkx/networkx
+anandnet/Harmony-Music
+chipweinberger/flutter_blue_plus
