@@ -2388,3 +2388,5 @@ hashicorp/terraform
 RfidResearchGroup/proxmark3
 openedx/edx-platform
 ArduPilot/ardupilot
+lich0821/WeChatRobot
+dromara/domain-admin
