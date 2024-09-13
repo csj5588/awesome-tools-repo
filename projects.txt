@@ -2390,3 +2390,5 @@ openedx/edx-platform
 ArduPilot/ardupilot
 lich0821/WeChatRobot
 dromara/domain-admin
+MrForExample/ComfyUI-3D-Pack
+networkx/networkx
