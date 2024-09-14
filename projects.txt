@@ -2398,3 +2398,4 @@ flipperdevices/flipperzero-firmware
 bridgecrewio/checkov
 PlexPt/awesome-chatgpt-prompts-zh
 datawhalechina/thorough-pytorch
+mvt-project/mvt
