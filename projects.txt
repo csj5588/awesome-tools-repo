@@ -2404,3 +2404,4 @@ abuanwar072/E-commerce-Complete-Flutter-UI
 pichillilorenzo/flutter_inappwebview
 DogeNetwork/v4
 gojue/ecapture
+rust-lang/nomicon
