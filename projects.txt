@@ -2412,3 +2412,8 @@ flutter/gallery
 pavlobu/deskreen
 dcloudio/uni-app
 lyfe00011/whatsapp-bot
+Future-House/paper-qa
+google/jax
+squidfunk/mkdocs-material
+FRRouting/frr
+sissbruecker/linkding
