@@ -2418,3 +2418,4 @@ squidfunk/mkdocs-material
 FRRouting/frr
 sissbruecker/linkding
 XX-net/XX-Net
+mikel-brostrom/boxmot
