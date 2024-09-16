@@ -2421,3 +2421,7 @@ XX-net/XX-Net
 mikel-brostrom/boxmot
 jing332/AListFlutter
 toly1994328/FlutterUnit
+frdel/agent-zero
+apache/iotdb
+phil-opp/blog_os
+0voice/expert_readed_books
