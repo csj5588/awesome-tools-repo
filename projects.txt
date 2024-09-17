@@ -2427,3 +2427,5 @@ phil-opp/blog_os
 0voice/expert_readed_books
 triton-inference-server/server
 schultek/jaspr
+ToTheBeginning/PuLID
+krayin/laravel-crm
