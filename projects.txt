@@ -2434,3 +2434,7 @@ robotframework/robotframework
 tjy-gitnub/win12
 HariSekhon/DevOps-Bash-tools
 Morganamilo/paru
+gfriends/gfriends
+DSPBluePrints/FactoryBluePrints
+Moriafly/SaltPlayerSource
+jaywcjlove/reference
