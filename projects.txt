@@ -2462,3 +2462,6 @@ unclecode/crawl4ai
 Free-TV/IPTV
 fastify/fastify
 anticensority/runet-censorship-bypass
+sz3/libcimbar
+QwenLM/Qwen2.5
+dotnet/eShop
