@@ -2460,3 +2460,5 @@ pybind/pybind11
 lss233/chatgpt-mirai-qq-bot
 unclecode/crawl4ai
 Free-TV/IPTV
+fastify/fastify
+anticensority/runet-censorship-bypass
