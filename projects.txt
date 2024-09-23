@@ -2467,3 +2467,7 @@ QwenLM/Qwen2.5
 dotnet/eShop
 memochou1993/gpt-ai-assistant
 reflex-dev/reflex
+Kanaries/pygwalker
+thomhurst/TUnit
+SharifiZarchi/Introduction_to_Machine_Learning
+basecamp/kamal
