@@ -2477,3 +2477,5 @@ n8n-io/self-hosted-ai-starter-kit
 aristocratos/btop
 Tencent/APIJSON
 dleemiller/WordLlama
+lamarios/clipious
+kodjodevf/mangayomi
