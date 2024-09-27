@@ -2490,3 +2490,8 @@ compiler-explorer/compiler-explorer
 microsoft/azurelinux
 kestra-io/kestra
 cxasm/notepad--
+meta-llama/llama-stack
+hyperknot/openfreemap
+meta-llama/llama-stack-apps
+Hacker0x01/react-datepicker
+RustPython/RustPython
