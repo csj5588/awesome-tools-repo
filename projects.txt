@@ -2501,3 +2501,7 @@ WalletConnect/walletconnect-docs
 ReFirmLabs/binwalk
 Yonom/assistant-ui
 ritwickdey/vscode-live-server
+src-d/hercules
+systeminit/si
+statamic/cms
+meta-llama/llama-models
