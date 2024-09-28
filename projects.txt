@@ -2495,3 +2495,5 @@ hyperknot/openfreemap
 meta-llama/llama-stack-apps
 Hacker0x01/react-datepicker
 RustPython/RustPython
+iamseancheney/python_for_data_analysis_2nd_chinese_version
+easzlab/kubeasz
