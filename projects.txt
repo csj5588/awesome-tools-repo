@@ -2507,3 +2507,8 @@ statamic/cms
 meta-llama/llama-models
 airbytehq/airbyte
 Mobile-Artificial-Intelligence/maid
+mediar-ai/screenpipe
+exo-explore/exo
+huggingface/trl
+nikitabobko/AeroSpace
+microsoft/RD-Agent
