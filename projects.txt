@@ -2506,3 +2506,4 @@ systeminit/si
 statamic/cms
 meta-llama/llama-models
 airbytehq/airbyte
+Mobile-Artificial-Intelligence/maid
