@@ -2513,3 +2513,5 @@ huggingface/trl
 nikitabobko/AeroSpace
 microsoft/RD-Agent
 media-kit/media-kit
+wavetermdev/waveterm
+ProtonMail/WebClients
