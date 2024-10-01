@@ -2518,3 +2518,6 @@ ProtonMail/WebClients
 apache/nuttx
 Sinaptik-AI/pandas-ai
 stonith404/pingvin-share
+bettercap/bettercap
+dequelabs/axe-core
+therealgliz/blooket-hacks
