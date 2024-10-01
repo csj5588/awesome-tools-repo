@@ -2521,3 +2521,4 @@ stonith404/pingvin-share
 bettercap/bettercap
 dequelabs/axe-core
 therealgliz/blooket-hacks
+Hannibal046/Awesome-LLM
