@@ -2524,3 +2524,4 @@ therealgliz/blooket-hacks
 Hannibal046/Awesome-LLM
 RayWangQvQ/BiliBiliToolPro
 whyour/qinglong
+lichess-org/mobile
