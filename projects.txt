@@ -2522,3 +2522,5 @@ bettercap/bettercap
 dequelabs/axe-core
 therealgliz/blooket-hacks
 Hannibal046/Awesome-LLM
+RayWangQvQ/BiliBiliToolPro
+whyour/qinglong
