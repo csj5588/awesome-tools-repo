@@ -2537,3 +2537,4 @@ StarsWarrior/BlackHole
 markmap/markmap
 zlsl/flibusta
 github-linguist/linguist
+shorebirdtech/shorebird
