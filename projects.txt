@@ -2540,3 +2540,9 @@ github-linguist/linguist
 shorebirdtech/shorebird
 responsively-org/responsively-app
 import-js/eslint-plugin-import
+XengShi/materialYouNewTab
+simplex-chat/simplex-chat
+mandiant/capa
+dolphin-emu/dolphin
+LadybirdBrowser/ladybird
+armbian/build
