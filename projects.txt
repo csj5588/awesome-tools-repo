@@ -2538,3 +2538,5 @@ markmap/markmap
 zlsl/flibusta
 github-linguist/linguist
 shorebirdtech/shorebird
+responsively-org/responsively-app
+import-js/eslint-plugin-import
