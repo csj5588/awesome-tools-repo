@@ -2546,3 +2546,5 @@ mandiant/capa
 dolphin-emu/dolphin
 LadybirdBrowser/ladybird
 armbian/build
+zdz/ServerStatus-Rust
+zjhellofss/KuiperInfer
