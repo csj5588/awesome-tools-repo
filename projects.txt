@@ -2550,3 +2550,4 @@ zdz/ServerStatus-Rust
 zjhellofss/KuiperInfer
 JideGuru/FlutterEbookApp
 isar/hive
+ThePansmith/Monifactory
