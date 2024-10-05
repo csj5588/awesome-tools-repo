@@ -2548,3 +2548,5 @@ LadybirdBrowser/ladybird
 armbian/build
 zdz/ServerStatus-Rust
 zjhellofss/KuiperInfer
+JideGuru/FlutterEbookApp
+isar/hive
