@@ -2558,3 +2558,4 @@ ManimCommunity/manim
 fluttercommunity/flutter_launcher_icons
 jiangtian616/JHenTai
 aleksanderwozniak/table_calendar
+saadpasta/developerFolio
