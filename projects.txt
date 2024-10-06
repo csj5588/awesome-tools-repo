@@ -2552,3 +2552,5 @@ JideGuru/FlutterEbookApp
 isar/hive
 ThePansmith/Monifactory
 fineanmol/Hacktoberfest2024
+Pik-4/HsMod
+stupidloud/nanopi-openwrt
