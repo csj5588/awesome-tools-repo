@@ -2554,3 +2554,4 @@ ThePansmith/Monifactory
 fineanmol/Hacktoberfest2024
 Pik-4/HsMod
 stupidloud/nanopi-openwrt
+ManimCommunity/manim
