@@ -2564,3 +2564,8 @@ Rockyzsu/stock
 livekit/agents
 blacklanternsecurity/bbot
 SYSTRAN/faster-whisper
+lukasz-madon/awesome-remote-job
+joonspk-research/generative_agents
+onejs/one
+zauberzeug/nicegui
+ErikBjare/gptme
