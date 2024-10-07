@@ -2561,3 +2561,6 @@ aleksanderwozniak/table_calendar
 saadpasta/developerFolio
 NAStool/nas-tools
 Rockyzsu/stock
+livekit/agents
+blacklanternsecurity/bbot
+SYSTRAN/faster-whisper
