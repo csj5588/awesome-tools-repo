@@ -2569,3 +2569,4 @@ joonspk-research/generative_agents
 onejs/one
 zauberzeug/nicegui
 ErikBjare/gptme
+gdy666/lucky
