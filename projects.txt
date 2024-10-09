@@ -2573,3 +2573,5 @@ gdy666/lucky
 abuanwar072/Welcome-Login-Signup-Page-Flutter
 zulip/zulip-flutter
 hyprwm/Hyprland
+ayusharma/birthday
+panr/hugo-theme-terminal
