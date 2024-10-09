@@ -2576,3 +2576,4 @@ hyprwm/Hyprland
 ayusharma/birthday
 panr/hugo-theme-terminal
 megadose/holehe
+niuhuan/daisy
