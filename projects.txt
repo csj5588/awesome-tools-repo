@@ -2582,3 +2582,4 @@ alibaba/fastjson2
 crmeb/crmeb_java
 iamrahulmahato/master-web-development
 fineanmol/Annoying-submit-button
+vnpy/vnpy
