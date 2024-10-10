@@ -2583,3 +2583,7 @@ crmeb/crmeb_java
 iamrahulmahato/master-web-development
 fineanmol/Annoying-submit-button
 vnpy/vnpy
+dbeaver/dbeaver
+hibernate/hibernate-orm
+deskflow/deskflow
+hashicorp/terraform-provider-azurerm
