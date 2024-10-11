@@ -2588,3 +2588,4 @@ hibernate/hibernate-orm
 deskflow/deskflow
 hashicorp/terraform-provider-azurerm
 Dod-o/Statistical-Learning-Method_Code
+speechbrain/speechbrain
