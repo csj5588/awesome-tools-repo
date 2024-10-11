@@ -2590,3 +2590,8 @@ hashicorp/terraform-provider-azurerm
 Dod-o/Statistical-Learning-Method_Code
 speechbrain/speechbrain
 e2b-dev/fragments
+clinebot/cline
+open-mmlab/mmsegmentation
+hcengineering/huly-selfhost
+openai/CLIP
+dagger/dagger
