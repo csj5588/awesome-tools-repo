@@ -2598,3 +2598,5 @@ dagger/dagger
 Super-Badmen-Viper/NSMusicS
 SocialSisterYi/CxKitty
 pre-commit/pre-commit-hooks
+flutter-stripe/flutter_stripe
+fleaflet/flutter_map
