@@ -2597,3 +2597,4 @@ openai/CLIP
 dagger/dagger
 Super-Badmen-Viper/NSMusicS
 SocialSisterYi/CxKitty
+pre-commit/pre-commit-hooks
