@@ -2595,3 +2595,5 @@ open-mmlab/mmsegmentation
 hcengineering/huly-selfhost
 openai/CLIP
 dagger/dagger
+Super-Badmen-Viper/NSMusicS
+SocialSisterYi/CxKitty
