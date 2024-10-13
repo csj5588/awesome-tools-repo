@@ -2610,3 +2610,5 @@ yamadashy/repopack
 cline/cline
 ant-design/pro-components
 OCA/web
+teamhanko/hanko
+nextcloud/server
