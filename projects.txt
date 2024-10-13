@@ -2606,3 +2606,6 @@ mfts/papermark
 google-deepmind/alphafold
 mxrch/GHunt
 TheAlphamerc/flutter_twitter_clone
+yamadashy/repopack
+cline/cline
+ant-design/pro-components
