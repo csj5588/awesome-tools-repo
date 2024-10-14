@@ -2616,3 +2616,4 @@ nextcloud/server
 Guovin/TV
 TEN-framework/TEN-Agent
 Pythagora-io/pythagora
+pbatard/rufus
