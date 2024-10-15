@@ -2617,3 +2617,5 @@ Guovin/TV
 TEN-framework/TEN-Agent
 Pythagora-io/pythagora
 pbatard/rufus
+KruxAI/ragbuilder
+RosettaCommons/RFdiffusion
