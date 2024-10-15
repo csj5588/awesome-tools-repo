@@ -2620,3 +2620,9 @@ pbatard/rufus
 KruxAI/ragbuilder
 RosettaCommons/RFdiffusion
 surveyjs/survey-library
+openai/swarm
+eloialonso/diamond
+golemcloud/golem
+stenzek/duckstation
+roc-lang/roc
+LibraHp/GetQzonehistory
