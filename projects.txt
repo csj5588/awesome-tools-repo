@@ -2629,3 +2629,4 @@ LibraHp/GetQzonehistory
 divyanshudhruv/Minifolio
 SurajPratap10/Imagine_AI
 modelscope/FunASR
+wechat-miniprogram/miniprogram-demo
