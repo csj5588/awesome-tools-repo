@@ -2632,3 +2632,4 @@ modelscope/FunASR
 wechat-miniprogram/miniprogram-demo
 kubernetes-sigs/controller-runtime
 cph-cachet/flutter-plugins
+revoltchat/self-hosted
