@@ -2633,3 +2633,7 @@ wechat-miniprogram/miniprogram-demo
 kubernetes-sigs/controller-runtime
 cph-cachet/flutter-plugins
 revoltchat/self-hosted
+CyC2018/CS-Notes
+dagster-io/dagster
+google-ai-edge/mediapipe
+serengil/deepface
