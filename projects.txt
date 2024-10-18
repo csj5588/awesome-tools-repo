@@ -2637,3 +2637,4 @@ CyC2018/CS-Notes
 dagster-io/dagster
 google-ai-edge/mediapipe
 serengil/deepface
+OFA-Sys/Chinese-CLIP
