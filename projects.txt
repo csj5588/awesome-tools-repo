@@ -2641,3 +2641,5 @@ OFA-Sys/Chinese-CLIP
 iamparas0/TIC-TAC-TOE
 Pennyw0rth/NetExec
 modelscope/ms-swift
+samarthagarwal/FlutterScreens
+MarcelGarus/marquee
