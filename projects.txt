@@ -2638,3 +2638,4 @@ dagster-io/dagster
 google-ai-edge/mediapipe
 serengil/deepface
 OFA-Sys/Chinese-CLIP
+iamparas0/TIC-TAC-TOE
