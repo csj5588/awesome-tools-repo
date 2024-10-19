@@ -2650,3 +2650,5 @@ Mbed-TLS/mbedtls
 firecracker-microvm/firecracker
 primefaces/primevue-examples
 apu52/METAVERSE
+ArchiveBox/ArchiveBox
+lucidrains/alphafold3-pytorch
