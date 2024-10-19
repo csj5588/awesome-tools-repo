@@ -2652,3 +2652,4 @@ primefaces/primevue-examples
 apu52/METAVERSE
 ArchiveBox/ArchiveBox
 lucidrains/alphafold3-pytorch
+kokkos/kokkos
