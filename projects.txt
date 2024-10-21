@@ -2657,3 +2657,4 @@ microsoft/openvmm
 yangzongzhuan/RuoYi-Vue
 home-assistant/operating-system
 kyegomez/swarms
+latitude-dev/latitude-llm
