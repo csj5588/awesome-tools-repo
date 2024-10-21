@@ -2655,3 +2655,5 @@ lucidrains/alphafold3-pytorch
 kokkos/kokkos
 microsoft/openvmm
 yangzongzhuan/RuoYi-Vue
+home-assistant/operating-system
+kyegomez/swarms
