@@ -2654,3 +2654,4 @@ ArchiveBox/ArchiveBox
 lucidrains/alphafold3-pytorch
 kokkos/kokkos
 microsoft/openvmm
+yangzongzhuan/RuoYi-Vue
