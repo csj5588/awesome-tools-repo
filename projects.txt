@@ -2661,3 +2661,7 @@ latitude-dev/latitude-llm
 solana-developers/program-examples
 rany2/edge-tts
 mqyqingfeng/Blog
+getomni-ai/zerox
+norvig/pytudes
+facebookresearch/co-tracker
+ranaroussi/yfinance
