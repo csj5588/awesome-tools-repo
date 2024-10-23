@@ -2665,3 +2665,4 @@ getomni-ai/zerox
 norvig/pytudes
 facebookresearch/co-tracker
 ranaroussi/yfinance
+VRSEN/agency-swarm
