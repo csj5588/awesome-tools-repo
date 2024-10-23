@@ -2666,3 +2666,5 @@ norvig/pytudes
 facebookresearch/co-tracker
 ranaroussi/yfinance
 VRSEN/agency-swarm
+chrislgarry/Apollo-11
+OJ/gobuster
