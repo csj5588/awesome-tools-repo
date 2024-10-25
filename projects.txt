@@ -2670,3 +2670,4 @@ chrislgarry/Apollo-11
 OJ/gobuster
 homebrewltd/ichigo
 BerriAI/litellm
+barvian/number-flow
