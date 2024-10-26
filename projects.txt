@@ -2671,3 +2671,4 @@ OJ/gobuster
 homebrewltd/ichigo
 BerriAI/litellm
 barvian/number-flow
+crewAIInc/crewAI
