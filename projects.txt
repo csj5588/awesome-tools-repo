@@ -2673,3 +2673,5 @@ BerriAI/litellm
 barvian/number-flow
 crewAIInc/crewAI
 wanghongenpin/proxypin
+dittofeed/dittofeed
+vfsfitvnm/ViMusic
