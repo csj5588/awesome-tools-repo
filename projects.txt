@@ -2675,3 +2675,4 @@ crewAIInc/crewAI
 wanghongenpin/proxypin
 dittofeed/dittofeed
 vfsfitvnm/ViMusic
+RapidAI/RapidOCR
