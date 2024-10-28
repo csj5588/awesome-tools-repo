@@ -2683,3 +2683,5 @@ abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard
 mui/toolpad
 asterinas/asterinas
 FishHawk/auto-novel
+mit-han-lab/efficientvit
+TencentARC/GFPGAN
