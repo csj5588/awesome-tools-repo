@@ -2685,3 +2685,4 @@ asterinas/asterinas
 FishHawk/auto-novel
 mit-han-lab/efficientvit
 TencentARC/GFPGAN
+3003h/Eros-FE
