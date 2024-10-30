@@ -2689,3 +2689,7 @@ TencentARC/GFPGAN
 labmlai/annotated_deep_learning_paper_implementations
 ai16z/eliza
 mementum/backtrader
+airtai/faststream
+naver/mast3r
+Marker-Inc-Korea/AutoRAG
+tensorflow/models
