@@ -2688,3 +2688,4 @@ TencentARC/GFPGAN
 3003h/Eros-FE
 labmlai/annotated_deep_learning_paper_implementations
 ai16z/eliza
+mementum/backtrader
