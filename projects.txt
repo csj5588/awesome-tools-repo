@@ -2695,3 +2695,4 @@ Marker-Inc-Korea/AutoRAG
 tensorflow/models
 dgtlmoon/changedetection.io
 fzyzcjy/flutter_rust_bridge
+vuejs/devtools
