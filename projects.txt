@@ -2697,3 +2697,4 @@ dgtlmoon/changedetection.io
 fzyzcjy/flutter_rust_bridge
 vuejs/devtools
 xszyou/Fay
+saber-notes/saber
