@@ -2704,3 +2704,9 @@ Azure-Samples/azure-search-openai-demo
 avelino/awesome-go
 jackc/pgx
 flybywiresim/aircraft
+microsoft/genaiscript
+filamentphp/filament
+getmaxun/maxun
+GeostatsGuy/DataScienceInteractivePython
+timescale/pgai
+electric-capital/crypto-ecosystems
