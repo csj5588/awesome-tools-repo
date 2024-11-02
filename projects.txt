@@ -2703,3 +2703,4 @@ trufflesecurity/trufflehog
 Azure-Samples/azure-search-openai-demo
 avelino/awesome-go
 jackc/pgx
+flybywiresim/aircraft
