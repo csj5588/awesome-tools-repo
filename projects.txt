@@ -2717,3 +2717,4 @@ Hack-with-Github/Awesome-Hacking
 CodePhiliaX/Chat2DB
 jtroo/kanata
 DS4SD/docling
+TahaSh/swapy
