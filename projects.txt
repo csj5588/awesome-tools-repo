@@ -2718,3 +2718,4 @@ CodePhiliaX/Chat2DB
 jtroo/kanata
 DS4SD/docling
 TahaSh/swapy
+ParisNeo/lollms-webui
