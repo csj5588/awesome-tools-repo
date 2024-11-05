@@ -2719,3 +2719,4 @@ jtroo/kanata
 DS4SD/docling
 TahaSh/swapy
 ParisNeo/lollms-webui
+AIHawk-app/Auto_Jobs_Applier
