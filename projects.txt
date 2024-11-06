@@ -2722,3 +2722,4 @@ ParisNeo/lollms-webui
 AIHawk-app/Auto_Jobs_Applier
 antvis/X6
 Richard9394/MingCute
+instructlab/instructlab
