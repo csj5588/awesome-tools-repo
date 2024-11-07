@@ -2727,3 +2727,8 @@ geekcomputers/Python
 livekit/client-sdk-flutter
 microsoft/data-formulator
 GSSoC24/Postman-Challenge
+zmh-program/chatnio
+haydenbleasel/next-forge
+Shpota/github-activity-generator
+iterative/datachain
+llvm/llvm-project
