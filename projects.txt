@@ -2733,3 +2733,4 @@ Shpota/github-activity-generator
 iterative/datachain
 llvm/llvm-project
 jdan/98.css
+KaringX/karing
