@@ -2736,3 +2736,4 @@ jdan/98.css
 KaringX/karing
 Nutlope/llamacoder
 ml-tooling/best-of-ml-python
+d2l-ai/d2l-en
