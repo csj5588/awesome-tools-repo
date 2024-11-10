@@ -2743,3 +2743,5 @@ Azure-Samples/cognitive-services-speech-sdk
 ray-project/ray
 letta-ai/letta
 AgoraIO-Extensions/Agora-Flutter-SDK
+react-navigation/react-navigation
+faker-js/faker
