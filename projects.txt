@@ -2740,3 +2740,5 @@ d2l-ai/d2l-en
 hagopj13/node-express-boilerplate
 vectordotdev/vector
 Azure-Samples/cognitive-services-speech-sdk
+ray-project/ray
+letta-ai/letta
