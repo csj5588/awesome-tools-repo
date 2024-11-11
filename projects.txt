@@ -2751,3 +2751,4 @@ AlexxIT/go2rtc
 dromara/Sa-Token
 DJDoubleD/refreezer
 browserbase/stagehand
+stdlib-js/stdlib
