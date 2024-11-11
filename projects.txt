@@ -2749,3 +2749,4 @@ alexlenail/NN-SVG
 infinition/Bjorn
 AlexxIT/go2rtc
 dromara/Sa-Token
+DJDoubleD/refreezer
