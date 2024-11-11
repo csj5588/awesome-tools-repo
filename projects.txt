@@ -2752,3 +2752,5 @@ dromara/Sa-Token
 DJDoubleD/refreezer
 browserbase/stagehand
 stdlib-js/stdlib
+pr3y/Bruce
+adityatelange/hugo-PaperMod
