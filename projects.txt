@@ -2759,3 +2759,4 @@ automatisch/automatisch
 filecxx/FileCentipede
 haizlin/fe-interview
 learningequality/kolibri
+QwenLM/Qwen2.5-Coder
