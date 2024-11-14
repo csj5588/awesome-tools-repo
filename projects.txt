@@ -2764,3 +2764,5 @@ dart-lang/http
 coaidev/coai
 docsifyjs/docsify
 codemirror/codemirror5
+dockur/macos
+microsoft/TinyTroupe
