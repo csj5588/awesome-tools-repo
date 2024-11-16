@@ -2772,3 +2772,4 @@ Huanshere/VideoLingo
 motiondivision/motion
 spack/spack
 Uahh/ToastFish
+opendatalab/PDF-Extract-Kit
