@@ -2773,3 +2773,6 @@ motiondivision/motion
 spack/spack
 Uahh/ToastFish
 opendatalab/PDF-Extract-Kit
+Baseflow/flutter-geolocator
+juliuscanute/qr_code_scanner
+FlutterKaigi/2024
