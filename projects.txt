@@ -2780,3 +2780,4 @@ headlamp-k8s/headlamp
 OpenDroneMap/WebODM
 rabbitmq/rabbitmq-server
 Stremio/stremio-web
+trungdq88/Awesome-Black-Friday-Cyber-Monday
