@@ -2782,3 +2782,7 @@ rabbitmq/rabbitmq-server
 Stremio/stremio-web
 trungdq88/Awesome-Black-Friday-Cyber-Monday
 novnc/noVNC
+leaningtech/webvm
+tursodatabase/libsql
+epasveer/seer
+docusealco/docuseal
