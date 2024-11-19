@@ -2786,3 +2786,4 @@ leaningtech/webvm
 tursodatabase/libsql
 epasveer/seer
 docusealco/docuseal
+highlightjs/highlight.js
