@@ -2788,3 +2788,4 @@ epasveer/seer
 docusealco/docuseal
 highlightjs/highlight.js
 NVIDIA/garak
+NexaAI/nexa-sdk
