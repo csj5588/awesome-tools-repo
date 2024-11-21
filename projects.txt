@@ -2793,3 +2793,4 @@ dart-lang/site-www
 QuiteAFancyEmerald/Holy-Unblocker
 arkohut/pensieve
 awslabs/multi-agent-orchestrator
+stevenjoezhang/live2d-widget
