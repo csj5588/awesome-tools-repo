@@ -2795,3 +2795,6 @@ arkohut/pensieve
 awslabs/multi-agent-orchestrator
 stevenjoezhang/live2d-widget
 videah/SkyBridge
+Melkeydev/go-blueprint
+FreeCAD/FreeCAD
+android/nowinandroid
