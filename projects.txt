@@ -2799,3 +2799,5 @@ Melkeydev/go-blueprint
 FreeCAD/FreeCAD
 android/nowinandroid
 sngyai/Sequoia
+fixie-ai/ultravox
+run-llama/llama_parse
