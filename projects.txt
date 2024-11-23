@@ -2798,3 +2798,4 @@ videah/SkyBridge
 Melkeydev/go-blueprint
 FreeCAD/FreeCAD
 android/nowinandroid
+sngyai/Sequoia
