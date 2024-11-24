@@ -2802,3 +2802,4 @@ sngyai/Sequoia
 fixie-ai/ultravox
 run-llama/llama_parse
 zan8in/afrog
+freqtrade/freqtrade-strategies
