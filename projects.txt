@@ -2806,3 +2806,7 @@ freqtrade/freqtrade-strategies
 black-forest-labs/flux
 shader-slang/slang
 AnswerDotAI/fasthtml-example
+tmc/langchaingo
+pingcap/autoflow
+surrealdb/surrealdb
+justcallmekoko/ESP32Marauder
