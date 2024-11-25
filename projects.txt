@@ -2805,3 +2805,4 @@ zan8in/afrog
 freqtrade/freqtrade-strategies
 black-forest-labs/flux
 shader-slang/slang
+AnswerDotAI/fasthtml-example
