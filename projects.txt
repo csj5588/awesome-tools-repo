@@ -2810,3 +2810,5 @@ tmc/langchaingo
 pingcap/autoflow
 surrealdb/surrealdb
 justcallmekoko/ESP32Marauder
+ntegrals/aura-voice
+rckprtr/pumpdotfun-sdk
