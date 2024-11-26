@@ -2814,3 +2814,4 @@ ntegrals/aura-voice
 rckprtr/pumpdotfun-sdk
 metowolf/vCards
 npm/cli
+jesseduffield/lazydocker
