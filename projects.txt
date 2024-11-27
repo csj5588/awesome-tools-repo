@@ -2815,3 +2815,4 @@ rckprtr/pumpdotfun-sdk
 metowolf/vCards
 npm/cli
 jesseduffield/lazydocker
+python-telegram-bot/python-telegram-bot
