@@ -2819,3 +2819,6 @@ python-telegram-bot/python-telegram-bot
 antgroup/echomimic
 dottxt-ai/outlines
 codestoryai/aide
+andrewyng/aisuite
+skills/introduction-to-github
+kubernetes/website
