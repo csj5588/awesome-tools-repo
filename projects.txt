@@ -2818,3 +2818,4 @@ jesseduffield/lazydocker
 python-telegram-bot/python-telegram-bot
 antgroup/echomimic
 dottxt-ai/outlines
+codestoryai/aide
