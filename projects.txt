@@ -2824,3 +2824,6 @@ skills/introduction-to-github
 kubernetes/website
 iterativv/NostalgiaForInfinity
 gnmyt/Nexterm
+myhhub/stock
+pawelsalawa/sqlitestudio
+typeorm/typeorm
