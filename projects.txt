@@ -2829,3 +2829,7 @@ pawelsalawa/sqlitestudio
 typeorm/typeorm
 KellerJordan/modded-nanogpt
 Telegram-Mini-Apps/telegram-apps
+hengyoush/kyanos
+0x90n/InfoSec-Black-Friday
+comet-ml/opik
+keephq/keep
