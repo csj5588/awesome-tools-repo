@@ -2827,3 +2827,4 @@ gnmyt/Nexterm
 myhhub/stock
 pawelsalawa/sqlitestudio
 typeorm/typeorm
+KellerJordan/modded-nanogpt
