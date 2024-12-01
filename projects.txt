@@ -2836,3 +2836,5 @@ keephq/keep
 FlareSolverr/FlareSolverr
 iperov/DeepFaceLab
 cake-tech/cake_wallet
+4gray/iptvnator
+QwenLM/Qwen
