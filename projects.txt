@@ -2833,3 +2833,5 @@ hengyoush/kyanos
 0x90n/InfoSec-Black-Friday
 comet-ml/opik
 keephq/keep
+FlareSolverr/FlareSolverr
+iperov/DeepFaceLab
