@@ -2835,3 +2835,4 @@ comet-ml/opik
 keephq/keep
 FlareSolverr/FlareSolverr
 iperov/DeepFaceLab
+cake-tech/cake_wallet
