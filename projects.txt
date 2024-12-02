@@ -2840,3 +2840,8 @@ cake-tech/cake_wallet
 QwenLM/Qwen
 tusharnankani/ToDoList
 Guovin/iptv-api
+epicweb-dev/epic-stack
+rerun-io/rerun
+endless-sky/endless-sky
+nezhahq/nezha
+itzg/docker-minecraft-server
