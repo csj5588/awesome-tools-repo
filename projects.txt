@@ -2846,3 +2846,5 @@ endless-sky/endless-sky
 nezhahq/nezha
 itzg/docker-minecraft-server
 aidenybai/react-scan
+anthropics/prompt-eng-interactive-tutorial
+leptos-rs/leptos
