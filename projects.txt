@@ -2856,3 +2856,5 @@ pydantic/pydantic-ai
 Tencent/rapidjson
 skills/github-pages
 moshstudio/TAICHI-flet
+iam-veeramalla/Jenkins-Zero-To-Hero
+encode/httpx
