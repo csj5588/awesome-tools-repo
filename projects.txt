@@ -2858,3 +2858,5 @@ skills/github-pages
 moshstudio/TAICHI-flet
 iam-veeramalla/Jenkins-Zero-To-Hero
 encode/httpx
+microsoft/BitNet
+spaceandtimelabs/sxt-proof-of-sql
