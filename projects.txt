@@ -2862,3 +2862,6 @@ microsoft/BitNet
 spaceandtimelabs/sxt-proof-of-sql
 rebase-network/who-is-hiring
 strues/retinajs
+zenml-io/zenml
+huggingface/autotrain-advanced
+qodo-ai/qodo-cover
