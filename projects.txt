@@ -2865,3 +2865,6 @@ strues/retinajs
 zenml-io/zenml
 huggingface/autotrain-advanced
 qodo-ai/qodo-cover
+QuivrHQ/MegaParse
+sqlfluff/sqlfluff
+skills/copilot-codespaces-vscode
