@@ -2869,3 +2869,6 @@ QuivrHQ/MegaParse
 sqlfluff/sqlfluff
 skills/copilot-codespaces-vscode
 Agenta-AI/agenta
+al1abb/invoify
+PostgREST/postgrest
+soxoj/maigret
