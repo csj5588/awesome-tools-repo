@@ -2868,3 +2868,4 @@ qodo-ai/qodo-cover
 QuivrHQ/MegaParse
 sqlfluff/sqlfluff
 skills/copilot-codespaces-vscode
+Agenta-AI/agenta
