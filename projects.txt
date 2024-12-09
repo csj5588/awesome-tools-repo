@@ -2876,3 +2876,6 @@ Alvin9999/new-pac
 leancodepl/patrol
 kangfenmao/cherry-studio
 firebase/genkit
+blueedgetechno/win11React
+viarotel-org/escrcpy
+InternLM/MindSearch
