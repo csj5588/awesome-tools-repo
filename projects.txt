@@ -2874,3 +2874,5 @@ PostgREST/postgrest
 soxoj/maigret
 Alvin9999/new-pac
 leancodepl/patrol
+kangfenmao/cherry-studio
+firebase/genkit
