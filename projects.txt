@@ -2879,3 +2879,8 @@ firebase/genkit
 blueedgetechno/win11React
 viarotel-org/escrcpy
 InternLM/MindSearch
+lmarzen/esp32-weather-epd
+nexus-xyz/nexus-zkvm
+koreader/koreader
+microsoft/torchgeo
+jdx/mise
