@@ -2884,3 +2884,4 @@ nexus-xyz/nexus-zkvm
 koreader/koreader
 microsoft/torchgeo
 jdx/mise
+topiam/eiam
