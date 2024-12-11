@@ -2885,3 +2885,5 @@ koreader/koreader
 microsoft/torchgeo
 jdx/mise
 topiam/eiam
+tauri-apps/tauri
+leerob/next-saas-starter
