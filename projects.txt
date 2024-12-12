@@ -2887,3 +2887,4 @@ jdx/mise
 topiam/eiam
 tauri-apps/tauri
 leerob/next-saas-starter
+ai16z/agent-twitter-client
