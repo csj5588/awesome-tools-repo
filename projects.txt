@@ -2892,3 +2892,7 @@ nexus-xyz/network-api
 0xPlaygrounds/rig
 vitejs/awesome-vite
 iancoleman/bip39
+tursodatabase/limbo
+gusmanb/logicanalyzer
+electric-sql/electric
+huggingface/text-generation-inference
