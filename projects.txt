@@ -2890,3 +2890,5 @@ leerob/next-saas-starter
 ai16z/agent-twitter-client
 nexus-xyz/network-api
 0xPlaygrounds/rig
+vitejs/awesome-vite
+iancoleman/bip39
