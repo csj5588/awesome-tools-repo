@@ -2896,3 +2896,4 @@ tursodatabase/limbo
 gusmanb/logicanalyzer
 electric-sql/electric
 huggingface/text-generation-inference
+outerbase/studio
