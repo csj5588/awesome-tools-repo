@@ -2897,3 +2897,8 @@ gusmanb/logicanalyzer
 electric-sql/electric
 huggingface/text-generation-inference
 outerbase/studio
+Byaidu/PDFMathTranslate
+mherrmann/helium
+bluewave-labs/checkmate
+gruntwork-io/terragrunt
+ethereum/EIPs
