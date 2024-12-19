@@ -2917,3 +2917,4 @@ fatedier/frp
 facebookresearch/AnimatedDrawings
 gorilla/websocket
 Qexo/Qexo
+swirlai/swirl-search
