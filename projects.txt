@@ -2916,3 +2916,4 @@ zju3dv/EasyVolcap
 fatedier/frp
 facebookresearch/AnimatedDrawings
 gorilla/websocket
+Qexo/Qexo
