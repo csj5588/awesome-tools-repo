@@ -2918,3 +2918,4 @@ facebookresearch/AnimatedDrawings
 gorilla/websocket
 Qexo/Qexo
 swirlai/swirl-search
+XiaoMi/ha_xiaomi_home
