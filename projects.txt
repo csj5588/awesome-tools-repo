@@ -2925,3 +2925,8 @@ seleniumbase/SeleniumBase
 nakov/Practical-Cryptography-for-Developers-Book
 gokadzev/Musify
 Helicone/helicone
+Genesis-Embodied-AI/Genesis
+github/CopilotForXcode
+PatrickJS/awesome-cursorrules
+scylladb/scylladb
+taichi-dev/taichi
