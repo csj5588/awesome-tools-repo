@@ -2924,3 +2924,4 @@ anoma/anoma
 seleniumbase/SeleniumBase
 nakov/Practical-Cryptography-for-Developers-Book
 gokadzev/Musify
+Helicone/helicone
