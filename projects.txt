@@ -2931,3 +2931,8 @@ PatrickJS/awesome-cursorrules
 scylladb/scylladb
 taichi-dev/taichi
 elizaOS/eliza
+nicbarker/clay
+apankrat/nullboard
+web-infra-dev/midscene
+microsoft/PromptWizard
+paradigmxyz/reth
