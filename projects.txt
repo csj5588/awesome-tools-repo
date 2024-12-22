@@ -2930,3 +2930,4 @@ github/CopilotForXcode
 PatrickJS/awesome-cursorrules
 scylladb/scylladb
 taichi-dev/taichi
+elizaOS/eliza
