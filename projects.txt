@@ -2936,3 +2936,4 @@ apankrat/nullboard
 web-infra-dev/midscene
 microsoft/PromptWizard
 paradigmxyz/reth
+elizaOS/agent-twitter-client
