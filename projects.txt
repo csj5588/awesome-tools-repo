@@ -2940,3 +2940,6 @@ elizaOS/agent-twitter-client
 bytedance/monolith
 elenapan/dotfiles
 letsar/flutter_slidable
+malmeloo/FindMy.py
+rivet-gg/rivet
+olimorris/codecompanion.nvim
