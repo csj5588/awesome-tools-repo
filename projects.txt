@@ -2939,3 +2939,4 @@ paradigmxyz/reth
 elizaOS/agent-twitter-client
 bytedance/monolith
 elenapan/dotfiles
+letsar/flutter_slidable
