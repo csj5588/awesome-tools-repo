@@ -2938,3 +2938,4 @@ microsoft/PromptWizard
 paradigmxyz/reth
 elizaOS/agent-twitter-client
 bytedance/monolith
+elenapan/dotfiles
