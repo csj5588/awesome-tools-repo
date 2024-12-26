@@ -2945,3 +2945,4 @@ rivet-gg/rivet
 olimorris/codecompanion.nvim
 EthicalSource/contributor_covenant
 emmabostian/developer-portfolios
+kepano/flexoki
