@@ -2946,3 +2946,10 @@ olimorris/codecompanion.nvim
 EthicalSource/contributor_covenant
 emmabostian/developer-portfolios
 kepano/flexoki
+anti-work/shortest
+openai/openai-openapi
+IceWhaleTech/CasaOS
+nammayatri/nammayatri
+OpenSPG/KAG
+langchain-ai/langchain
+microg/GmsCore
