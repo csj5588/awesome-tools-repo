@@ -2954,3 +2954,5 @@ OpenSPG/KAG
 langchain-ai/langchain
 microg/GmsCore
 mui/base-ui
+nvbn/thefuck
+sgl-project/sglang
