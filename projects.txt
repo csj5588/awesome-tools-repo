@@ -2956,3 +2956,6 @@ microg/GmsCore
 mui/base-ui
 nvbn/thefuck
 sgl-project/sglang
+elizaOS/characterfile
+huggingface/transformers.js-examples
+docmirror/dev-sidecar
