@@ -2964,3 +2964,6 @@ AgentOps-AI/AgentStack
 DrewThomasson/ebook2audiobook
 alibaba/flutter_boost
 arianneorpilla/jidoujisho
+mbadolato/iTerm2-Color-Schemes
+kovidgoyal/kitty
+fluent/fluent-bit
