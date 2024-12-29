@@ -2960,3 +2960,5 @@ elizaOS/characterfile
 huggingface/transformers.js-examples
 docmirror/dev-sidecar
 shadps4-emu/shadPS4
+AgentOps-AI/AgentStack
+DrewThomasson/ebook2audiobook
