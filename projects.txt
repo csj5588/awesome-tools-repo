@@ -2967,3 +2967,4 @@ arianneorpilla/jidoujisho
 mbadolato/iTerm2-Color-Schemes
 kovidgoyal/kitty
 fluent/fluent-bit
+linyqh/NarratoAI
