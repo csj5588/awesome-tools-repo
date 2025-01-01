@@ -2974,3 +2974,5 @@ pathwaycom/llm-app
 mli/autocut
 AnswerDotAI/ModernBERT
 moshang-ax/lottery
+deepseek-ai/DeepSeek-Coder-V2
+erigontech/erigon
