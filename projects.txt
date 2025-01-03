@@ -2979,3 +2979,4 @@ erigontech/erigon
 deepseek-ai/DeepSeek-Coder
 RyanYuuki/AnymeX
 go-shiori/shiori
+DoctorReid/ZenlessZoneZero-OneDragon
