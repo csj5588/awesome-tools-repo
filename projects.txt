@@ -2980,3 +2980,5 @@ deepseek-ai/DeepSeek-Coder
 RyanYuuki/AnymeX
 go-shiori/shiori
 DoctorReid/ZenlessZoneZero-OneDragon
+louis-e/arnis
+caddyserver/caddy
