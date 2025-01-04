@@ -2983,3 +2983,4 @@ DoctorReid/ZenlessZoneZero-OneDragon
 louis-e/arnis
 caddyserver/caddy
 immersive-translate/immersive-translate
+hummingbot/hummingbot
