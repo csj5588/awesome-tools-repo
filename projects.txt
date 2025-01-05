@@ -2987,3 +2987,5 @@ hummingbot/hummingbot
 primer/react
 zaidmukaddam/miniperplx
 PavelDoGreat/WebGL-Fluid-Simulation
+alufers/mitmproxy2swagger
+OpenXiangShan/XiangShan
