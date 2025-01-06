@@ -2989,3 +2989,5 @@ zaidmukaddam/miniperplx
 PavelDoGreat/WebGL-Fluid-Simulation
 alufers/mitmproxy2swagger
 OpenXiangShan/XiangShan
+stephansturges/WALDO
+chroma-core/chroma
