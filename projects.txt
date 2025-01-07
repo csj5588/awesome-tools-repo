@@ -2991,3 +2991,4 @@ alufers/mitmproxy2swagger
 OpenXiangShan/XiangShan
 stephansturges/WALDO
 chroma-core/chroma
+alibaba/flutter-go
