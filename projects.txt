@@ -2992,3 +2992,4 @@ OpenXiangShan/XiangShan
 stephansturges/WALDO
 chroma-core/chroma
 alibaba/flutter-go
+notwaldorf/emoji-translate
