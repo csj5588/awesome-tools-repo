@@ -2998,3 +2998,6 @@ themeselection/flyonui
 srbhr/Resume-Matcher
 vernu/textbee
 gatsbyjs/gatsby
+prometheus/prometheus
+zigbee2mqtt/hassio-zigbee2mqtt
+rectorphp/rector
