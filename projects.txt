@@ -2994,3 +2994,4 @@ chroma-core/chroma
 alibaba/flutter-go
 notwaldorf/emoji-translate
 RockChinQ/LangBot
+themeselection/flyonui
