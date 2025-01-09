@@ -3001,3 +3001,5 @@ gatsbyjs/gatsby
 prometheus/prometheus
 zigbee2mqtt/hassio-zigbee2mqtt
 rectorphp/rector
+czy0729/Bangumi
+jing332/tts-server-android
