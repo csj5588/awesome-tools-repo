@@ -3010,3 +3010,5 @@ inkonchain/node
 jingyaogong/minimind
 78/xiaozhi-esp32
 traefik/traefik
+vicwomg/pikaraoke
+google/google-api-javascript-client
