@@ -3014,3 +3014,5 @@ vicwomg/pikaraoke
 google/google-api-javascript-client
 NVIDIA/nv-ingest
 vicolo-dev/chrono
+apache/thrift
+bnb-chain/bsc
