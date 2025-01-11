@@ -3019,3 +3019,4 @@ bnb-chain/bsc
 jhelumcorp/gyawun
 SimformSolutionsPvtLtd/flutter_showcaseview
 PrismarineJS/mineflayer
+feder-cr/Jobs_Applier_AI_Agent
