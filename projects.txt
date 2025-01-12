@@ -3022,3 +3022,5 @@ PrismarineJS/mineflayer
 feder-cr/Jobs_Applier_AI_Agent
 subframe7536/maple-font
 Baseflow/flutter_cached_network_image
+mailcow/mailcow-dockerized
+module-federation/module-federation-examples
