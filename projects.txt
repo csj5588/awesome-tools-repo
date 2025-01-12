@@ -3024,3 +3024,5 @@ subframe7536/maple-font
 Baseflow/flutter_cached_network_image
 mailcow/mailcow-dockerized
 module-federation/module-federation-examples
+quickwit-oss/quickwit
+microsoft/vcpkg
