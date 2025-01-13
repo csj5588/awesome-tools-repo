@@ -3031,3 +3031,4 @@ tortuvshin/open-source-flutter-apps
 dchristl/macless-haystack
 zaidmukaddam/scira
 browserless/browserless
+RealKai42/qwerty-learner
