@@ -3026,3 +3026,4 @@ mailcow/mailcow-dockerized
 module-federation/module-federation-examples
 quickwit-oss/quickwit
 microsoft/vcpkg
+potpie-ai/potpie
