@@ -3029,3 +3029,5 @@ microsoft/vcpkg
 potpie-ai/potpie
 tortuvshin/open-source-flutter-apps
 dchristl/macless-haystack
+zaidmukaddam/scira
+browserless/browserless
