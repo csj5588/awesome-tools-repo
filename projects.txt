@@ -3027,3 +3027,5 @@ module-federation/module-federation-examples
 quickwit-oss/quickwit
 microsoft/vcpkg
 potpie-ai/potpie
+tortuvshin/open-source-flutter-apps
+dchristl/macless-haystack
