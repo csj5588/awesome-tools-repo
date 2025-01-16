@@ -3044,3 +3044,5 @@ localtunnel/localtunnel
 nautechsystems/nautilus_trader
 songquanpeng/message-pusher
 tylearymf/UniHacker
+OpenBMB/MiniCPM-o
+KoljaB/RealtimeSTT
