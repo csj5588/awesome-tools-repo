@@ -3047,3 +3047,6 @@ tylearymf/UniHacker
 OpenBMB/MiniCPM-o
 KoljaB/RealtimeSTT
 Livinglist/Hacki
+steven2358/awesome-generative-ai
+ton-blockchain/ton
+spree/spree
