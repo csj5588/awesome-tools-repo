@@ -3046,3 +3046,4 @@ songquanpeng/message-pusher
 tylearymf/UniHacker
 OpenBMB/MiniCPM-o
 KoljaB/RealtimeSTT
+Livinglist/Hacki
