@@ -3053,3 +3053,9 @@ spree/spree
 besuper/TwitchNoSub
 thedevs-network/kutt
 DavidHDev/react-bits
+Freika/dawarich
+fluentassertions/fluentassertions
+microsoft/winget-pkgs
+strimzi/strimzi-kafka-operator
+iBotPeaches/Apktool
+pixelfed/pixelfed
