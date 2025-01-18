@@ -3060,3 +3060,5 @@ strimzi/strimzi-kafka-operator
 iBotPeaches/Apktool
 pixelfed/pixelfed
 PriorLabs/TabPFN
+mjansen4857/pathplanner
+openimsdk/openim-flutter-demo
