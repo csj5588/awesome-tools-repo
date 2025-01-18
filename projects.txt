@@ -3063,3 +3063,4 @@ PriorLabs/TabPFN
 mjansen4857/pathplanner
 openimsdk/openim-flutter-demo
 qeeqbox/social-analyzer
+metabase/metabase
