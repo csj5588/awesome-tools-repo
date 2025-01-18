@@ -3059,3 +3059,4 @@ microsoft/winget-pkgs
 strimzi/strimzi-kafka-operator
 iBotPeaches/Apktool
 pixelfed/pixelfed
+PriorLabs/TabPFN
