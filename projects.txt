@@ -3064,3 +3064,5 @@ mjansen4857/pathplanner
 openimsdk/openim-flutter-demo
 qeeqbox/social-analyzer
 metabase/metabase
+jokob-sk/NetAlertX
+cockpit-project/cockpit
