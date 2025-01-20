@@ -3073,3 +3073,7 @@ openai/openai-realtime-console
 DerekYRC/mini-spring
 dnhkng/GLaDOS
 actions/checkout
+frappe/helpdesk
+emcie-co/parlant
+echasnovski/mini.nvim
+henrygd/beszel
