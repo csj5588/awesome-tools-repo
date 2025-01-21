@@ -3077,3 +3077,4 @@ frappe/helpdesk
 emcie-co/parlant
 echasnovski/mini.nvim
 henrygd/beszel
+simonoppowa/OpenNutriTracker
