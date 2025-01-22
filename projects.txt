@@ -3083,3 +3083,4 @@ xugaoyi/vuepress-theme-vdoing
 adriankarlen/textfox
 pydantic/pydantic
 KurtBestor/Hitomi-Downloader
+serafimcloud/21st
