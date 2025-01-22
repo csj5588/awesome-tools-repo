@@ -3078,3 +3078,5 @@ emcie-co/parlant
 echasnovski/mini.nvim
 henrygd/beszel
 simonoppowa/OpenNutriTracker
+Semporia/TikTok-Unlock
+xugaoyi/vuepress-theme-vdoing
