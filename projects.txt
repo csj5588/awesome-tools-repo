@@ -3081,3 +3081,5 @@ simonoppowa/OpenNutriTracker
 Semporia/TikTok-Unlock
 xugaoyi/vuepress-theme-vdoing
 adriankarlen/textfox
+pydantic/pydantic
+KurtBestor/Hitomi-Downloader
