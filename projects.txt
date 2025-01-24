@@ -3094,3 +3094,4 @@ felix-bohlin/ui
 Anxcye/anx-reader
 Tencent/tdesign-flutter
 getsentry/sentry-dart
+heroui-inc/heroui
