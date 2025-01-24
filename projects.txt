@@ -3091,3 +3091,6 @@ ocrmypdf/OCRmyPDF
 zhimin-dev/iptv-checker
 mirai-mamori/Sakurairo
 felix-bohlin/ui
+Anxcye/anx-reader
+Tencent/tdesign-flutter
+getsentry/sentry-dart
