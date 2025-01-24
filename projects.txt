@@ -3088,3 +3088,5 @@ linera-io/linera-protocol
 karpathy/minGPT
 labring/laf
 ocrmypdf/OCRmyPDF
+zhimin-dev/iptv-checker
+mirai-mamori/Sakurairo
