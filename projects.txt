@@ -3097,3 +3097,4 @@ getsentry/sentry-dart
 heroui-inc/heroui
 bluewave-labs/Checkmate
 piotrostr/listen
+fastapi/fastapi
