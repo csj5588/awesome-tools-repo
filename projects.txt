@@ -3098,3 +3098,5 @@ heroui-inc/heroui
 bluewave-labs/Checkmate
 piotrostr/listen
 fastapi/fastapi
+fluttercommunity/flutter_workmanager
+Baseflow/flutter-permission-handler
