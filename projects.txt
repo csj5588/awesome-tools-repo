@@ -3103,3 +3103,4 @@ Baseflow/flutter-permission-handler
 copy/v86
 nextjs/saas-starter
 Upsonic/Upsonic
+satnaing/shadcn-admin
