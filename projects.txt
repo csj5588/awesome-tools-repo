@@ -3102,3 +3102,4 @@ fluttercommunity/flutter_workmanager
 Baseflow/flutter-permission-handler
 copy/v86
 nextjs/saas-starter
+Upsonic/Upsonic
