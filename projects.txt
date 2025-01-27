@@ -3105,3 +3105,5 @@ nextjs/saas-starter
 Upsonic/Upsonic
 satnaing/shadcn-admin
 i-am-shodan/USBArmyKnife
+onlook-dev/onlook
+lightpanda-io/browser
