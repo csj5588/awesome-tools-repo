@@ -3107,3 +3107,5 @@ satnaing/shadcn-admin
 i-am-shodan/USBArmyKnife
 onlook-dev/onlook
 lightpanda-io/browser
+deepseek-ai/Janus
+Integuru-AI/Integuru
