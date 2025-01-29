@@ -3109,3 +3109,4 @@ onlook-dev/onlook
 lightpanda-io/browser
 deepseek-ai/Janus
 Integuru-AI/Integuru
+L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN
