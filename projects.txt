@@ -3113,3 +3113,5 @@ L1Xu4n/Awesome-ChatGPT-prompts-ZH_CN
 LinwoodDev/Butterfly
 jhomlala/betterplayer
 clidey/whodb
+koaning/drawdata
+huggingface/transformers.js
