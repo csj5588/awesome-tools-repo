@@ -3115,3 +3115,5 @@ jhomlala/betterplayer
 clidey/whodb
 koaning/drawdata
 huggingface/transformers.js
+qjfoidnh/BaiduPCS-Go
+Soulter/AstrBot
