@@ -3124,3 +3124,5 @@ PalisadoesFoundation/talawa
 deepseek-ai/DeepSeek-LLM
 jiayaoO3O/18-comic-finder
 volcengine/verl
+nank1ro/flutter-shadcn-ui
+justsoft/video_thumbnail
