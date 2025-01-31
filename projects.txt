@@ -3126,3 +3126,9 @@ jiayaoO3O/18-comic-finder
 volcengine/verl
 nank1ro/flutter-shadcn-ui
 justsoft/video_thumbnail
+block/goose
+n4ze3m/page-assist
+deepseek-ai/DeepSeek-Math
+deepseek-ai/DreamCraft3D
+aws-samples/amazon-bedrock-samples
+QwenLM/Qwen2.5-VL
