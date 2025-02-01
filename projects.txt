@@ -3132,3 +3132,4 @@ deepseek-ai/DeepSeek-Math
 deepseek-ai/DreamCraft3D
 aws-samples/amazon-bedrock-samples
 QwenLM/Qwen2.5-VL
+browser-use/browser-use
