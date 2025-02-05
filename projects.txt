@@ -3144,3 +3144,6 @@ solidtime-io/solidtime
 lazaronixon/css-zero
 dart-lang/build
 DeepLifeStudio/DeepSeekAI
+dotnet/aspnetcore
+folke/snacks.nvim
+aws/aws-sdk-go-v2
