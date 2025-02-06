@@ -3147,3 +3147,5 @@ DeepLifeStudio/DeepSeekAI
 dotnet/aspnetcore
 folke/snacks.nvim
 aws/aws-sdk-go-v2
+streamlit/streamlit
+deepseek-ai/ESFT
