@@ -3156,3 +3156,4 @@ agno-agi/agno
 chika0801/sing-box-examples
 ChatGPTNextWeb/NextChat
 AmberSahdev/Open-Interface
+Foundry376/Mailspring
