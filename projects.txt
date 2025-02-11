@@ -3158,3 +3158,7 @@ ChatGPTNextWeb/NextChat
 AmberSahdev/Open-Interface
 Foundry376/Mailspring
 transformerlab/transformerlab-app
+albertan017/LLM4Decompile
+n0-computer/iroh
+firefly-iii/firefly-iii
+T8RIN/ImageToolbox
