@@ -3163,3 +3163,9 @@ n0-computer/iroh
 firefly-iii/firefly-iii
 T8RIN/ImageToolbox
 expressjs/expressjs.com
+landing-ai/vision-agent
+Oliveriver/5d-diplomacy-with-multiverse-time-travel
+MystenLabs/walrus-docs
+datawhalechina/llm-cookbook
+Azure/Azure-Sentinel
+antonputra/tutorials
