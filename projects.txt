@@ -3170,3 +3170,4 @@ datawhalechina/llm-cookbook
 Azure/Azure-Sentinel
 antonputra/tutorials
 liam-hq/liam
+ollama-ui/ollama-ui
