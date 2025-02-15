@@ -3172,3 +3172,7 @@ antonputra/tutorials
 liam-hq/liam
 ollama-ui/ollama-ui
 RexanWONG/text-behind-image
+kuchin/awesome-cto
+golang/go
+go-playground/validator
+microsoft/markitdown
