@@ -3176,3 +3176,7 @@ kuchin/awesome-cto
 golang/go
 go-playground/validator
 microsoft/markitdown
+wger-project/wger
+tpn/pdfs
+souzatharsis/podcastfy
+catchorg/Catch2
