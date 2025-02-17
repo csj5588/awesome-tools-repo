@@ -3182,3 +3182,6 @@ souzatharsis/podcastfy
 catchorg/Catch2
 a-ghorbani/pocketpal-ai
 upstash/jstack
+microsoft/OmniParser
+cordx56/rustowl
+mongodb-developer/GenAI-Showcase
