@@ -3180,3 +3180,5 @@ wger-project/wger
 tpn/pdfs
 souzatharsis/podcastfy
 catchorg/Catch2
+a-ghorbani/pocketpal-ai
+upstash/jstack
