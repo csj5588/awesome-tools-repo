@@ -3188,3 +3188,4 @@ mongodb-developer/GenAI-Showcase
 athul/archie
 WEIFENG2333/VideoCaptioner
 langchain-ai/open-canvas
+meshtastic/firmware
