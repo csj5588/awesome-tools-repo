@@ -3189,3 +3189,4 @@ athul/archie
 WEIFENG2333/VideoCaptioner
 langchain-ai/open-canvas
 meshtastic/firmware
+chenzomi12/AISystem
