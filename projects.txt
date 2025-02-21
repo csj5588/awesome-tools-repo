@@ -3195,3 +3195,4 @@ docmost/docmost
 spf13/cobra
 Suwayomi/Tachidesk-Sorayomi
 golang-standards/project-layout
+assistant-ui/assistant-ui
