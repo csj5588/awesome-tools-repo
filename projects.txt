@@ -3196,3 +3196,7 @@ spf13/cobra
 Suwayomi/Tachidesk-Sorayomi
 golang-standards/project-layout
 assistant-ui/assistant-ui
+ValveSoftware/source-sdk-2013
+NVIDIA/cutlass
+treetrum/amazon-kindle-bulk-downloader
+mastra-ai/mastra
