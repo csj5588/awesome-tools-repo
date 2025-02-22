@@ -3202,3 +3202,4 @@ treetrum/amazon-kindle-bulk-downloader
 mastra-ai/mastra
 nexsol-technologies/pgassistant
 sinaptik-ai/pandas-ai
+oddbit/flutter_facebook_app_events
