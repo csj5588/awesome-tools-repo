@@ -3204,3 +3204,4 @@ nexsol-technologies/pgassistant
 sinaptik-ai/pandas-ai
 oddbit/flutter_facebook_app_events
 fastapi/full-stack-fastapi-template
+cluic/wxauto
