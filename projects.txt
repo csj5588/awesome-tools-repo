@@ -3211,3 +3211,4 @@ koide3/glim
 microsoft/PIKE-RAG
 devcontainers/images
 vllm-project/aibrix
+gpustack/gpustack
