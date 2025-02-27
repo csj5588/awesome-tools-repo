@@ -3218,3 +3218,5 @@ NirDiamant/GenAI_Agents
 flick9000/winscript
 open-falcon-archive/agent
 pollinations/pollinations
+deepseek-ai/awesome-deepseek-integration
+ggerganov/ggwave
