@@ -3215,3 +3215,5 @@ gpustack/gpustack
 fuma-nama/fumadocs
 stackblitz/bolt.new
 NirDiamant/GenAI_Agents
+flick9000/winscript
+open-falcon-archive/agent
