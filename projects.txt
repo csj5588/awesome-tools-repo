@@ -3223,3 +3223,5 @@ ggerganov/ggwave
 JaKooLit/Hyprland-Dots
 HKUDS/LightRAG
 felixrieseberg/windows95
+allenai/olmocr
+freddyaboulton/fastrtc
