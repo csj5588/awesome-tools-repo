@@ -3221,3 +3221,4 @@ pollinations/pollinations
 deepseek-ai/awesome-deepseek-integration
 ggerganov/ggwave
 JaKooLit/Hyprland-Dots
+HKUDS/LightRAG
