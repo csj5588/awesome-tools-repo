@@ -3225,3 +3225,4 @@ HKUDS/LightRAG
 felixrieseberg/windows95
 allenai/olmocr
 freddyaboulton/fastrtc
+jd-opensource/micro-app
