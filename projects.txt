@@ -3227,3 +3227,5 @@ allenai/olmocr
 freddyaboulton/fastrtc
 jd-opensource/micro-app
 cyclotruc/gitingest
+mountain-loop/yaak
+PySpur-Dev/pyspur
